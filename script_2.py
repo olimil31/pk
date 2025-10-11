@@ -1,0 +1,44 @@
+# Créons le manifeste PWA pour l'installation
+
+manifest_content = '''{
+  "name": "PK Locator SNCF",
+  "short_name": "PK Locator",
+  "description": "Application mobile pour localiser les points kilométriques SNCF en temps réel",
+  "version": "2.0.0",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1a73e8",
+  "background_color": "#ffffff",
+  "scope": "./",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["navigation", "productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "screenshot-narrow.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}'''
+
+# Sauvegarde du manifeste
+with open('manifest.json', 'w', encoding='utf-8') as f:
+    f.write(manifest_content)
+
+print("✅ Fichier manifest.json créé")

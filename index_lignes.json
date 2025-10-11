@@ -1,0 +1,7037 @@
+[
+  {
+    "code_ligne": "1000",
+    "minLat": 47.609196,
+    "maxLat": 48.898955,
+    "minLon": 2.359135,
+    "maxLon": 7.34446
+  },
+  {
+    "code_ligne": "10000",
+    "minLat": 48.583787,
+    "maxLat": 49.026394,
+    "minLon": 3.705088,
+    "maxLon": 4.053332
+  },
+  {
+    "code_ligne": "100000",
+    "minLat": 48.814083,
+    "maxLat": 48.906209,
+    "minLon": 6.709155,
+    "maxLon": 6.750762
+  },
+  {
+    "code_ligne": "106000",
+    "minLat": 48.69997,
+    "maxLat": 48.739901,
+    "minLon": 7.018843,
+    "maxLon": 7.055223
+  },
+  {
+    "code_ligne": "110000",
+    "minLat": 48.259953,
+    "maxLat": 48.58287,
+    "minLon": 6.951221,
+    "maxLon": 7.731595
+  },
+  {
+    "code_ligne": "110306",
+    "minLat": 48.572982,
+    "maxLat": 48.576787,
+    "minLon": 7.708903,
+    "maxLon": 7.715202
+  },
+  {
+    "code_ligne": "110311",
+    "minLat": 48.570618,
+    "maxLat": 48.577693,
+    "minLon": 7.708814,
+    "maxLon": 7.710467
+  },
+  {
+    "code_ligne": "111000",
+    "minLat": 48.259679,
+    "maxLat": 48.536926,
+    "minLon": 7.428535,
+    "maxLon": 7.499811
+  },
+  {
+    "code_ligne": "114300",
+    "minLat": 48.737441,
+    "maxLat": 48.762108,
+    "minLon": 7.049669,
+    "maxLon": 7.070229
+  },
+  {
+    "code_ligne": "115000",
+    "minLat": 47.559011,
+    "maxLat": 48.58287,
+    "minLon": 7.260949,
+    "maxLon": 7.731595
+  },
+  {
+    "code_ligne": "115306",
+    "minLat": 47.750606,
+    "maxLat": 47.753544,
+    "minLon": 7.296962,
+    "maxLon": 7.298732
+  },
+  {
+    "code_ligne": "116000",
+    "minLat": 48.254478,
+    "maxLat": 48.284083,
+    "minLon": 7.196533,
+    "maxLon": 7.447035
+  },
+  {
+    "code_ligne": "119000",
+    "minLat": 48.013184,
+    "maxLat": 48.088962,
+    "minLon": 7.073377,
+    "maxLon": 7.349263
+  },
+  {
+    "code_ligne": "12000",
+    "minLat": 48.266335,
+    "maxLat": 48.388901,
+    "minLon": 4.094107,
+    "maxLon": 4.531517
+  },
+  {
+    "code_ligne": "120000",
+    "minLat": 48.018706,
+    "maxLat": 48.07314,
+    "minLon": 7.336592,
+    "maxLon": 7.550831
+  },
+  {
+    "code_ligne": "121000",
+    "minLat": 47.866944,
+    "maxLat": 48.056679,
+    "minLon": 7.33423,
+    "maxLon": 7.396327
+  },
+  {
+    "code_ligne": "122000",
+    "minLat": 47.857377,
+    "maxLat": 47.919046,
+    "minLon": 7.200914,
+    "maxLon": 7.268339
+  },
+  {
+    "code_ligne": "123000",
+    "minLat": 47.812304,
+    "maxLat": 48.018851,
+    "minLon": 7.507227,
+    "maxLon": 7.563338
+  },
+  {
+    "code_ligne": "124000",
+    "minLat": 47.750469,
+    "maxLat": 47.815576,
+    "minLon": 7.357682,
+    "maxLon": 7.545838
+  },
+  {
+    "code_ligne": "125000",
+    "minLat": 47.751918,
+    "maxLat": 47.767454,
+    "minLon": 7.280296,
+    "maxLon": 7.397891
+  },
+  {
+    "code_ligne": "125306",
+    "minLat": 47.750346,
+    "maxLat": 47.757751,
+    "minLon": 7.35808,
+    "maxLon": 7.373209
+  },
+  {
+    "code_ligne": "129000",
+    "minLat": 48.073727,
+    "maxLat": 48.099121,
+    "minLon": 7.348129,
+    "maxLon": 7.381273
+  },
+  {
+    "code_ligne": "13000",
+    "minLat": 48.44187,
+    "maxLat": 48.717411,
+    "minLon": 4.559536,
+    "maxLon": 4.598532
+  },
+  {
+    "code_ligne": "130000",
+    "minLat": 47.756725,
+    "maxLat": 47.923954,
+    "minLon": 6.969282,
+    "maxLon": 7.280424
+  },
+  {
+    "code_ligne": "1306",
+    "minLat": 48.897232,
+    "maxLat": 48.897796,
+    "minLon": 2.374024,
+    "maxLon": 2.380143
+  },
+  {
+    "code_ligne": "131000",
+    "minLat": 47.74106,
+    "maxLat": 47.801736,
+    "minLon": 7.057781,
+    "maxLon": 7.173925
+  },
+  {
+    "code_ligne": "132000",
+    "minLat": 47.74223,
+    "maxLat": 47.76012,
+    "minLon": 7.272497,
+    "maxLon": 7.32027
+  },
+  {
+    "code_ligne": "134000",
+    "minLat": 47.617708,
+    "maxLat": 47.626374,
+    "minLon": 7.217299,
+    "maxLon": 7.226396
+  },
+  {
+    "code_ligne": "135000",
+    "minLat": 47.600898,
+    "maxLat": 47.613291,
+    "minLon": 7.496268,
+    "maxLon": 7.543937
+  },
+  {
+    "code_ligne": "136000",
+    "minLat": 47.582339,
+    "maxLat": 47.60539,
+    "minLon": 7.560749,
+    "maxLon": 7.591428
+  },
+  {
+    "code_ligne": "1379",
+    "minLat": 48.877851,
+    "maxLat": 48.890231,
+    "minLon": 2.355901,
+    "maxLon": 2.366404
+  },
+  {
+    "code_ligne": "138000",
+    "minLat": 48.551727,
+    "maxLat": 48.605646,
+    "minLon": 7.697804,
+    "maxLon": 7.728852
+  },
+  {
+    "code_ligne": "1391",
+    "minLat": 47.73118,
+    "maxLat": 47.739355,
+    "minLon": 7.3245,
+    "maxLon": 7.32668
+  },
+  {
+    "code_ligne": "139300",
+    "minLat": 48.598502,
+    "maxLat": 48.605643,
+    "minLon": 7.726839,
+    "maxLon": 7.727908
+  },
+  {
+    "code_ligne": "139301",
+    "minLat": 48.598864,
+    "maxLat": 48.601679,
+    "minLon": 7.728002,
+    "maxLon": 7.728597
+  },
+  {
+    "code_ligne": "139302",
+    "minLat": 48.5952,
+    "maxLat": 48.599444,
+    "minLon": 7.724769,
+    "maxLon": 7.728551
+  },
+  {
+    "code_ligne": "14000",
+    "minLat": 47.212301,
+    "maxLat": 47.60248,
+    "minLon": 5.30355,
+    "maxLon": 6.944232
+  },
+  {
+    "code_ligne": "140000",
+    "minLat": 48.742812,
+    "maxLat": 49.110826,
+    "minLon": 6.168252,
+    "maxLon": 7.094895
+  },
+  {
+    "code_ligne": "140370",
+    "minLat": 48.945731,
+    "maxLat": 48.966651,
+    "minLon": 6.464858,
+    "maxLon": 6.504952
+  },
+  {
+    "code_ligne": "141000",
+    "minLat": 48.54615,
+    "maxLat": 48.570223,
+    "minLon": 7.695595,
+    "maxLon": 7.742203
+  },
+  {
+    "code_ligne": "141306",
+    "minLat": 48.56548,
+    "maxLat": 48.576951,
+    "minLon": 7.705369,
+    "maxLon": 7.712268
+  },
+  {
+    "code_ligne": "142000",
+    "minLat": 48.558757,
+    "maxLat": 48.585063,
+    "minLon": 7.729509,
+    "maxLon": 7.800434
+  },
+  {
+    "code_ligne": "14300",
+    "minLat": 47.303169,
+    "maxLat": 47.313452,
+    "minLon": 5.957992,
+    "maxLon": 5.981998
+  },
+  {
+    "code_ligne": "143000",
+    "minLat": 48.542938,
+    "maxLat": 48.56278,
+    "minLon": 7.754287,
+    "maxLon": 7.79524
+  },
+  {
+    "code_ligne": "14330",
+    "minLat": 47.603109,
+    "maxLat": 47.614977,
+    "minLon": 6.945157,
+    "maxLon": 6.97255
+  },
+  {
+    "code_ligne": "145000",
+    "minLat": 48.585063,
+    "maxLat": 48.974995,
+    "minLon": 7.734259,
+    "maxLon": 8.194682
+  },
+  {
+    "code_ligne": "145306",
+    "minLat": 48.601673,
+    "maxLat": 48.606636,
+    "minLon": 7.726872,
+    "maxLon": 7.736567
+  },
+  {
+    "code_ligne": "146000",
+    "minLat": 48.679107,
+    "maxLat": 49.032135,
+    "minLon": 7.715123,
+    "maxLon": 7.979031
+  },
+  {
+    "code_ligne": "15000",
+    "minLat": 48.342372,
+    "maxLat": 48.441978,
+    "minLon": 4.531399,
+    "maxLon": 4.586784
+  },
+  {
+    "code_ligne": "150000",
+    "minLat": 48.788619,
+    "maxLat": 48.851536,
+    "minLon": 7.783106,
+    "maxLon": 8.112755
+  },
+  {
+    "code_ligne": "159000",
+    "minLat": 48.81074,
+    "maxLat": 49.220372,
+    "minLon": 6.63666,
+    "maxLon": 7.782811
+  },
+  {
+    "code_ligne": "16000",
+    "minLat": 48.472162,
+    "maxLat": 48.581101,
+    "minLon": 4.768262,
+    "maxLon": 4.885471
+  },
+  {
+    "code_ligne": "160000",
+    "minLat": 48.829282,
+    "maxLat": 48.848564,
+    "minLon": 7.537506,
+    "maxLon": 7.740764
+  },
+  {
+    "code_ligne": "1606",
+    "minLat": 48.810488,
+    "maxLat": 48.818193,
+    "minLon": 2.60177,
+    "maxLon": 2.613845
+  },
+  {
+    "code_ligne": "161000",
+    "minLat": 48.754888,
+    "maxLat": 49.106126,
+    "minLon": 7.069238,
+    "maxLon": 7.648137
+  },
+  {
+    "code_ligne": "163000",
+    "minLat": 49.106758,
+    "maxLat": 49.111975,
+    "minLon": 7.057403,
+    "maxLon": 7.06867
+  },
+  {
+    "code_ligne": "167000",
+    "minLat": 48.739603,
+    "maxLat": 48.939998,
+    "minLon": 7.113873,
+    "maxLon": 7.18943
+  },
+  {
+    "code_ligne": "167320",
+    "minLat": 48.767387,
+    "maxLat": 48.773244,
+    "minLon": 7.151342,
+    "maxLon": 7.171661
+  },
+  {
+    "code_ligne": "168000",
+    "minLat": 48.80873,
+    "maxLat": 49.049417,
+    "minLon": 7.008219,
+    "maxLon": 7.08565
+  },
+  {
+    "code_ligne": "169000",
+    "minLat": 49.001679,
+    "maxLat": 49.034545,
+    "minLon": 7.036833,
+    "maxLon": 7.124593
+  },
+  {
+    "code_ligne": "169306",
+    "minLat": 49.028315,
+    "maxLat": 49.031479,
+    "minLon": 7.118224,
+    "maxLon": 7.123901
+  },
+  {
+    "code_ligne": "170000",
+    "minLat": 49.103502,
+    "maxLat": 49.129648,
+    "minLon": 7.095069,
+    "maxLon": 7.186003
+  },
+  {
+    "code_ligne": "172000",
+    "minLat": 48.995349,
+    "maxLat": 49.21345,
+    "minLon": 6.39078,
+    "maxLon": 6.943387
+  },
+  {
+    "code_ligne": "174000",
+    "minLat": 49.214666,
+    "maxLat": 49.294653,
+    "minLon": 6.460434,
+    "maxLon": 6.684489
+  },
+  {
+    "code_ligne": "176000",
+    "minLat": 49.287527,
+    "maxLat": 49.335904,
+    "minLon": 6.533075,
+    "maxLon": 6.590809
+  },
+  {
+    "code_ligne": "177000",
+    "minLat": 49.262434,
+    "maxLat": 49.365685,
+    "minLon": 6.17082,
+    "maxLon": 6.459552
+  },
+  {
+    "code_ligne": "178000",
+    "minLat": 49.36114,
+    "maxLat": 49.468436,
+    "minLon": 6.183585,
+    "maxLon": 6.373112
+  },
+  {
+    "code_ligne": "18000",
+    "minLat": 48.374881,
+    "maxLat": 48.638308,
+    "minLon": 4.879429,
+    "maxLon": 4.965546
+  },
+  {
+    "code_ligne": "180000",
+    "minLat": 49.110869,
+    "maxLat": 49.471371,
+    "minLon": 6.107973,
+    "maxLon": 6.187515
+  },
+  {
+    "code_ligne": "180606",
+    "minLat": 49.15187,
+    "maxLat": 49.173282,
+    "minLon": 6.156166,
+    "maxLon": 6.158703
+  },
+  {
+    "code_ligne": "180611",
+    "minLat": 49.152937,
+    "maxLat": 49.214229,
+    "minLon": 6.15692,
+    "maxLon": 6.194371
+  },
+  {
+    "code_ligne": "186000",
+    "minLat": 49.478189,
+    "maxLat": 49.485692,
+    "minLon": 5.957761,
+    "maxLon": 5.968322
+  },
+  {
+    "code_ligne": "19000",
+    "minLat": 48.641401,
+    "maxLat": 48.64719,
+    "minLon": 4.951048,
+    "maxLon": 4.962941
+  },
+  {
+    "code_ligne": "191300",
+    "minLat": 49.089312,
+    "maxLat": 49.112818,
+    "minLon": 6.173491,
+    "maxLon": 6.185042
+  },
+  {
+    "code_ligne": "192000",
+    "minLat": 49.094009,
+    "maxLat": 49.143356,
+    "minLon": 6.134878,
+    "maxLon": 6.173221
+  },
+  {
+    "code_ligne": "194000",
+    "minLat": 49.330086,
+    "maxLat": 49.354907,
+    "minLon": 6.038218,
+    "maxLon": 6.075454
+  },
+  {
+    "code_ligne": "195000",
+    "minLat": 49.354733,
+    "maxLat": 49.486056,
+    "minLon": 5.94386,
+    "maxLon": 5.990815
+  },
+  {
+    "code_ligne": "198300",
+    "minLat": 49.3217,
+    "maxLat": 49.337195,
+    "minLon": 6.143568,
+    "maxLon": 6.152475
+  },
+  {
+    "code_ligne": "2000",
+    "minLat": 48.691751,
+    "maxLat": 48.81655,
+    "minLon": 2.729352,
+    "maxLon": 3.728853
+  },
+  {
+    "code_ligne": "20000",
+    "minLat": 48.112028,
+    "maxLat": 48.72247,
+    "minLon": 4.74397,
+    "maxLon": 5.157083
+  },
+  {
+    "code_ligne": "200000",
+    "minLat": 50.087761,
+    "maxLat": 50.093187,
+    "minLon": 4.701891,
+    "maxLon": 4.724716
+  },
+  {
+    "code_ligne": "202000",
+    "minLat": 49.44689,
+    "maxLat": 49.547563,
+    "minLon": 5.603298,
+    "maxLon": 5.813233
+  },
+  {
+    "code_ligne": "202100",
+    "minLat": 49.541212,
+    "maxLat": 49.543181,
+    "minLon": 5.802467,
+    "maxLon": 5.810218
+  },
+  {
+    "code_ligne": "203000",
+    "minLat": 49.510456,
+    "maxLat": 49.531865,
+    "minLon": 5.767522,
+    "maxLon": 5.82887
+  },
+  {
+    "code_ligne": "204000",
+    "minLat": 49.326549,
+    "maxLat": 49.751986,
+    "minLon": 4.734579,
+    "maxLon": 6.15978
+  },
+  {
+    "code_ligne": "205000",
+    "minLat": 49.255057,
+    "maxLat": 50.168542,
+    "minLon": 3.345325,
+    "maxLon": 4.823438
+  },
+  {
+    "code_ligne": "205311",
+    "minLat": 49.745351,
+    "maxLat": 49.748621,
+    "minLon": 4.735935,
+    "maxLon": 4.746283
+  },
+  {
+    "code_ligne": "205316",
+    "minLat": 49.76312,
+    "maxLat": 49.766033,
+    "minLon": 4.720513,
+    "maxLon": 4.725448
+  },
+  {
+    "code_ligne": "206950",
+    "minLat": 49.361028,
+    "maxLat": 49.367605,
+    "minLon": 4.177502,
+    "maxLon": 4.195563
+  },
+  {
+    "code_ligne": "207000",
+    "minLat": 49.231685,
+    "maxLat": 49.361505,
+    "minLon": 4.194831,
+    "maxLon": 4.554725
+  },
+  {
+    "code_ligne": "208000",
+    "minLat": 49.30165,
+    "maxLat": 49.336049,
+    "minLon": 4.74568,
+    "maxLon": 4.875656
+  },
+  {
+    "code_ligne": "209000",
+    "minLat": 50.139652,
+    "maxLat": 50.153189,
+    "minLon": 4.811228,
+    "maxLon": 4.817776
+  },
+  {
+    "code_ligne": "210000",
+    "minLat": 49.302229,
+    "maxLat": 49.523995,
+    "minLon": 4.47753,
+    "maxLon": 4.751421
+  },
+  {
+    "code_ligne": "212000",
+    "minLat": 49.52264,
+    "maxLat": 49.914321,
+    "minLon": 4.075324,
+    "maxLon": 4.462112
+  },
+  {
+    "code_ligne": "214000",
+    "minLat": 49.629193,
+    "maxLat": 49.679988,
+    "minLon": 5.156839,
+    "maxLon": 5.169658
+  },
+  {
+    "code_ligne": "215000",
+    "minLat": 49.700772,
+    "maxLat": 49.729613,
+    "minLon": 4.835107,
+    "maxLon": 4.850329
+  },
+  {
+    "code_ligne": "216000",
+    "minLat": 50.556804,
+    "maxLat": 50.921004,
+    "minLon": 1.785355,
+    "maxLon": 3.142712
+  },
+  {
+    "code_ligne": "216302",
+    "minLat": 50.56978,
+    "maxLat": 50.584207,
+    "minLon": 3.141531,
+    "maxLon": 3.166964
+  },
+  {
+    "code_ligne": "216308",
+    "minLat": 50.773937,
+    "maxLat": 50.780956,
+    "minLon": 2.472355,
+    "maxLon": 2.484405
+  },
+  {
+    "code_ligne": "216310",
+    "minLat": 50.889324,
+    "maxLat": 50.898887,
+    "minLon": 1.81427,
+    "maxLon": 1.818956
+  },
+  {
+    "code_ligne": "216312",
+    "minLat": 50.912393,
+    "maxLat": 50.913229,
+    "minLon": 1.802325,
+    "maxLon": 1.809415
+  },
+  {
+    "code_ligne": "218000",
+    "minLat": 49.277103,
+    "maxLat": 49.365525,
+    "minLon": 5.705564,
+    "maxLon": 5.907195
+  },
+  {
+    "code_ligne": "220000",
+    "minLat": 49.313665,
+    "maxLat": 49.472355,
+    "minLon": 5.851566,
+    "maxLon": 5.919054
+  },
+  {
+    "code_ligne": "222000",
+    "minLat": 49.763768,
+    "maxLat": 49.802762,
+    "minLon": 4.335417,
+    "maxLon": 4.626812
+  },
+  {
+    "code_ligne": "22300",
+    "minLat": 48.717802,
+    "maxLat": 48.72837,
+    "minLon": 4.765451,
+    "maxLon": 4.789304
+  },
+  {
+    "code_ligne": "223000",
+    "minLat": 49.766085,
+    "maxLat": 49.916842,
+    "minLon": 4.08488,
+    "maxLon": 4.724622
+  },
+  {
+    "code_ligne": "226000",
+    "minLat": 49.000748,
+    "maxLat": 50.577286,
+    "minLon": 2.426926,
+    "maxLon": 3.278402
+  },
+  {
+    "code_ligne": "226301",
+    "minLat": 49.044856,
+    "maxLat": 49.054848,
+    "minLon": 2.54943,
+    "maxLon": 2.565865
+  },
+  {
+    "code_ligne": "226305",
+    "minLat": 49.748406,
+    "maxLat": 49.753487,
+    "minLon": 2.788718,
+    "maxLon": 2.789553
+  },
+  {
+    "code_ligne": "226306",
+    "minLat": 50.19114,
+    "maxLat": 50.252966,
+    "minLon": 2.76437,
+    "maxLon": 2.869423
+  },
+  {
+    "code_ligne": "226309",
+    "minLat": 50.299193,
+    "maxLat": 50.307137,
+    "minLon": 2.880151,
+    "maxLon": 2.890878
+  },
+  {
+    "code_ligne": "226310",
+    "minLat": 48.696571,
+    "maxLat": 49.070159,
+    "minLon": 2.565568,
+    "maxLon": 2.807169
+  },
+  {
+    "code_ligne": "226318",
+    "minLat": 48.732495,
+    "maxLat": 48.733958,
+    "minLon": 2.784828,
+    "maxLon": 2.793346
+  },
+  {
+    "code_ligne": "226320",
+    "minLat": 48.934645,
+    "maxLat": 48.968217,
+    "minLon": 2.719003,
+    "maxLon": 2.732008
+  },
+  {
+    "code_ligne": "226321",
+    "minLat": 48.952667,
+    "maxLat": 48.959049,
+    "minLon": 2.689778,
+    "maxLon": 2.720959
+  },
+  {
+    "code_ligne": "227000",
+    "minLat": 49.15171,
+    "maxLat": 49.199617,
+    "minLon": 2.835455,
+    "maxLon": 2.961241
+  },
+  {
+    "code_ligne": "228000",
+    "minLat": 49.570922,
+    "maxLat": 49.714055,
+    "minLon": 3.634672,
+    "maxLon": 4.141094
+  },
+  {
+    "code_ligne": "229000",
+    "minLat": 48.904979,
+    "maxLat": 50.023046,
+    "minLon": 2.353281,
+    "maxLon": 4.138432
+  },
+  {
+    "code_ligne": "229306",
+    "minLat": 48.911068,
+    "maxLat": 48.930677,
+    "minLon": 2.424969,
+    "maxLon": 2.430809
+  },
+  {
+    "code_ligne": "229606",
+    "minLat": 48.930873,
+    "maxLat": 48.963379,
+    "minLon": 2.46524,
+    "maxLon": 2.480049
+  },
+  {
+    "code_ligne": "229611",
+    "minLat": 49.747223,
+    "maxLat": 49.749787,
+    "minLon": 3.771776,
+    "maxLon": 3.780803
+  },
+  {
+    "code_ligne": "231000",
+    "minLat": 49.201288,
+    "maxLat": 49.231176,
+    "minLon": 2.592416,
+    "maxLon": 2.887593
+  },
+  {
+    "code_ligne": "232000",
+    "minLat": 49.19872,
+    "maxLat": 49.86252,
+    "minLon": 2.357381,
+    "maxLon": 2.859424
+  },
+  {
+    "code_ligne": "233000",
+    "minLat": 49.238703,
+    "maxLat": 49.249927,
+    "minLon": 3.085232,
+    "maxLon": 3.097661
+  },
+  {
+    "code_ligne": "234000",
+    "minLat": 49.490546,
+    "maxLat": 49.53186,
+    "minLon": 3.308125,
+    "maxLon": 3.443394
+  },
+  {
+    "code_ligne": "235100",
+    "minLat": 49.392154,
+    "maxLat": 49.407196,
+    "minLon": 3.340671,
+    "maxLon": 3.362554
+  },
+  {
+    "code_ligne": "236000",
+    "minLat": 49.571291,
+    "maxLat": 50.009308,
+    "minLon": 3.541968,
+    "maxLon": 3.703439
+  },
+  {
+    "code_ligne": "238000",
+    "minLat": 49.907553,
+    "maxLat": 50.034533,
+    "minLon": 3.441127,
+    "maxLon": 4.076763
+  },
+  {
+    "code_ligne": "239000",
+    "minLat": 50.121272,
+    "maxLat": 50.12622,
+    "minLon": 3.934345,
+    "maxLon": 3.953372
+  },
+  {
+    "code_ligne": "240000",
+    "minLat": 50.020536,
+    "maxLat": 50.276427,
+    "minLon": 3.974401,
+    "maxLon": 4.08215
+  },
+  {
+    "code_ligne": "241000",
+    "minLat": 50.236841,
+    "maxLat": 50.25455,
+    "minLon": 4.000829,
+    "maxLon": 4.137891
+  },
+  {
+    "code_ligne": "242000",
+    "minLat": 49.268955,
+    "maxLat": 50.302462,
+    "minLon": 2.472777,
+    "maxLon": 4.108542
+  },
+  {
+    "code_ligne": "242316",
+    "minLat": 50.058606,
+    "maxLat": 50.060656,
+    "minLon": 3.458376,
+    "maxLon": 3.465497
+  },
+  {
+    "code_ligne": "242360",
+    "minLat": 50.05877,
+    "maxLat": 50.062792,
+    "minLon": 3.458274,
+    "maxLon": 3.469703
+  },
+  {
+    "code_ligne": "242370",
+    "minLat": 50.18687,
+    "maxLat": 50.189041,
+    "minLon": 3.823198,
+    "maxLon": 3.83429
+  },
+  {
+    "code_ligne": "242616",
+    "minLat": 49.834495,
+    "maxLat": 49.836206,
+    "minLon": 3.280615,
+    "maxLon": 3.286549
+  },
+  {
+    "code_ligne": "242626",
+    "minLat": 49.775797,
+    "maxLat": 49.838865,
+    "minLon": 3.291666,
+    "maxLon": 3.486214
+  },
+  {
+    "code_ligne": "242910",
+    "minLat": 49.277647,
+    "maxLat": 49.279368,
+    "minLon": 2.480775,
+    "maxLon": 2.496518
+  },
+  {
+    "code_ligne": "243300",
+    "minLat": 49.335327,
+    "maxLat": 49.345593,
+    "minLon": 2.725826,
+    "maxLon": 2.735214
+  },
+  {
+    "code_ligne": "243301",
+    "minLat": 49.335242,
+    "maxLat": 49.343041,
+    "minLon": 2.719146,
+    "maxLon": 2.727026
+  },
+  {
+    "code_ligne": "245300",
+    "minLat": 49.335238,
+    "maxLat": 49.346295,
+    "minLon": 2.72079,
+    "maxLon": 2.735437
+  },
+  {
+    "code_ligne": "246300",
+    "minLat": 49.707263,
+    "maxLat": 49.712874,
+    "minLon": 3.242522,
+    "maxLon": 3.25411
+  },
+  {
+    "code_ligne": "247000",
+    "minLat": 50.262355,
+    "maxLat": 50.329159,
+    "minLon": 3.908283,
+    "maxLon": 3.935255
+  },
+  {
+    "code_ligne": "247306",
+    "minLat": 50.265625,
+    "maxLat": 50.270948,
+    "minLon": 3.935263,
+    "maxLon": 3.942841
+  },
+  {
+    "code_ligne": "248000",
+    "minLat": 49.428417,
+    "maxLat": 49.596119,
+    "minLon": 2.73284,
+    "maxLon": 2.836325
+  },
+  {
+    "code_ligne": "249000",
+    "minLat": 50.116659,
+    "maxLat": 50.120373,
+    "minLon": 3.181582,
+    "maxLon": 3.208907
+  },
+  {
+    "code_ligne": "250000",
+    "minLat": 50.047245,
+    "maxLat": 50.355794,
+    "minLon": 3.254508,
+    "maxLon": 3.458545
+  },
+  {
+    "code_ligne": "250306",
+    "minLat": 50.167087,
+    "maxLat": 50.171955,
+    "minLon": 3.248473,
+    "maxLon": 3.259557
+  },
+  {
+    "code_ligne": "250311",
+    "minLat": 50.167774,
+    "maxLat": 50.172482,
+    "minLon": 3.248119,
+    "maxLon": 3.257811
+  },
+  {
+    "code_ligne": "251000",
+    "minLat": 50.178555,
+    "maxLat": 50.334821,
+    "minLon": 3.289702,
+    "maxLon": 3.788241
+  },
+  {
+    "code_ligne": "252000",
+    "minLat": 50.30277,
+    "maxLat": 50.31664,
+    "minLon": 3.42938,
+    "maxLon": 3.460118
+  },
+  {
+    "code_ligne": "253000",
+    "minLat": 50.272518,
+    "maxLat": 50.357633,
+    "minLon": 3.515869,
+    "maxLon": 3.935172
+  },
+  {
+    "code_ligne": "254000",
+    "minLat": 50.310997,
+    "maxLat": 50.363941,
+    "minLon": 3.341899,
+    "maxLon": 3.516349
+  },
+  {
+    "code_ligne": "254610",
+    "minLat": 50.318756,
+    "maxLat": 50.333934,
+    "minLon": 3.446601,
+    "maxLon": 3.471851
+  },
+  {
+    "code_ligne": "255000",
+    "minLat": 50.402917,
+    "maxLat": 50.407115,
+    "minLon": 3.634711,
+    "maxLon": 3.660115
+  },
+  {
+    "code_ligne": "256000",
+    "minLat": 50.435998,
+    "maxLat": 50.446769,
+    "minLon": 3.39386,
+    "maxLon": 3.411319
+  },
+  {
+    "code_ligne": "257000",
+    "minLat": 50.44325,
+    "maxLat": 50.505887,
+    "minLon": 3.402955,
+    "maxLon": 3.446
+  },
+  {
+    "code_ligne": "258000",
+    "minLat": 50.313339,
+    "maxLat": 50.355316,
+    "minLon": 3.208322,
+    "maxLon": 3.280304
+  },
+  {
+    "code_ligne": "259000",
+    "minLat": 49.639464,
+    "maxLat": 50.376134,
+    "minLon": 2.560544,
+    "maxLon": 3.252841
+  },
+  {
+    "code_ligne": "26000",
+    "minLat": 48.196298,
+    "maxLat": 48.695988,
+    "minLon": 5.131659,
+    "maxLon": 5.738681
+  },
+  {
+    "code_ligne": "261000",
+    "minLat": 49.570712,
+    "maxLat": 49.889367,
+    "minLon": 2.31853,
+    "maxLon": 3.623444
+  },
+  {
+    "code_ligne": "261306",
+    "minLat": 49.881495,
+    "maxLat": 49.883832,
+    "minLon": 2.364366,
+    "maxLon": 2.390791
+  },
+  {
+    "code_ligne": "262000",
+    "minLat": 50.355052,
+    "maxLat": 50.407519,
+    "minLon": 3.10615,
+    "maxLon": 3.673495
+  },
+  {
+    "code_ligne": "263300",
+    "minLat": 50.369581,
+    "maxLat": 50.388783,
+    "minLon": 3.510506,
+    "maxLon": 3.543845
+  },
+  {
+    "code_ligne": "264000",
+    "minLat": 50.468869,
+    "maxLat": 50.47466,
+    "minLon": 3.253553,
+    "maxLon": 3.25956
+  },
+  {
+    "code_ligne": "265029",
+    "minLat": 50.552194,
+    "maxLat": 50.571343,
+    "minLon": 3.03239,
+    "maxLon": 3.036983
+  },
+  {
+    "code_ligne": "266300",
+    "minLat": 50.609144,
+    "maxLat": 50.622167,
+    "minLon": 3.099496,
+    "maxLon": 3.111909
+  },
+  {
+    "code_ligne": "267000",
+    "minLat": 49.91456,
+    "maxLat": 50.622969,
+    "minLon": 3.089894,
+    "maxLon": 4.097404
+  },
+  {
+    "code_ligne": "267306",
+    "minLat": 50.185667,
+    "maxLat": 50.191303,
+    "minLon": 3.826335,
+    "maxLon": 3.83537
+  },
+  {
+    "code_ligne": "268000",
+    "minLat": 50.478721,
+    "maxLat": 50.790907,
+    "minLon": 3.108782,
+    "maxLon": 3.246545
+  },
+  {
+    "code_ligne": "269000",
+    "minLat": 50.617442,
+    "maxLat": 50.624053,
+    "minLon": 3.091027,
+    "maxLon": 3.263385
+  },
+  {
+    "code_ligne": "27000",
+    "minLat": 48.35476,
+    "maxLat": 48.718605,
+    "minLon": 5.290475,
+    "maxLon": 5.676523
+  },
+  {
+    "code_ligne": "271000",
+    "minLat": 50.687129,
+    "maxLat": 50.695103,
+    "minLon": 3.204395,
+    "maxLon": 3.214837
+  },
+  {
+    "code_ligne": "272000",
+    "minLat": 48.881642,
+    "maxLat": 50.635717,
+    "minLon": 2.33621,
+    "maxLon": 3.092579
+  },
+  {
+    "code_ligne": "272301",
+    "minLat": 50.294508,
+    "maxLat": 50.297327,
+    "minLon": 2.820409,
+    "maxLon": 2.831621
+  },
+  {
+    "code_ligne": "272306",
+    "minLat": 48.889961,
+    "maxLat": 48.897784,
+    "minLon": 2.354929,
+    "maxLon": 2.356935
+  },
+  {
+    "code_ligne": "272311",
+    "minLat": 48.897143,
+    "maxLat": 48.908373,
+    "minLon": 2.353104,
+    "maxLon": 2.370062
+  },
+  {
+    "code_ligne": "272316",
+    "minLat": 48.912117,
+    "maxLat": 48.915124,
+    "minLon": 2.351441,
+    "maxLon": 2.356974
+  },
+  {
+    "code_ligne": "272321",
+    "minLat": 48.95912,
+    "maxLat": 48.966296,
+    "minLon": 2.373661,
+    "maxLon": 2.379419
+  },
+  {
+    "code_ligne": "272326",
+    "minLat": 50.356495,
+    "maxLat": 50.358086,
+    "minLon": 3.0834,
+    "maxLon": 3.104035
+  },
+  {
+    "code_ligne": "272606",
+    "minLat": 49.090034,
+    "maxLat": 49.095623,
+    "minLon": 2.514575,
+    "maxLon": 2.524975
+  },
+  {
+    "code_ligne": "272608",
+    "minLat": 49.076883,
+    "maxLat": 49.090262,
+    "minLon": 2.515833,
+    "maxLon": 2.524661
+  },
+  {
+    "code_ligne": "272953",
+    "minLat": 48.939522,
+    "maxLat": 48.948722,
+    "minLon": 2.344154,
+    "maxLon": 2.350575
+  },
+  {
+    "code_ligne": "273300",
+    "minLat": 50.592827,
+    "maxLat": 50.611268,
+    "minLon": 3.081294,
+    "maxLon": 3.116514
+  },
+  {
+    "code_ligne": "273308",
+    "minLat": 50.608694,
+    "maxLat": 50.616571,
+    "minLon": 3.089426,
+    "maxLon": 3.098166
+  },
+  {
+    "code_ligne": "277100",
+    "minLat": 50.622603,
+    "maxLat": 50.625957,
+    "minLon": 3.074165,
+    "maxLon": 3.086135
+  },
+  {
+    "code_ligne": "278000",
+    "minLat": 50.624074,
+    "maxLat": 50.722342,
+    "minLon": 3.083397,
+    "maxLon": 3.196758
+  },
+  {
+    "code_ligne": "278306",
+    "minLat": 50.653382,
+    "maxLat": 50.655262,
+    "minLon": 3.0954,
+    "maxLon": 3.106088
+  },
+  {
+    "code_ligne": "281000",
+    "minLat": 50.340284,
+    "maxLat": 50.369424,
+    "minLon": 2.982008,
+    "maxLon": 3.037629
+  },
+  {
+    "code_ligne": "284000",
+    "minLat": 50.414699,
+    "maxLat": 50.447838,
+    "minLon": 2.834952,
+    "maxLon": 3.030315
+  },
+  {
+    "code_ligne": "284306",
+    "minLat": 50.415634,
+    "maxLat": 50.421242,
+    "minLon": 2.855274,
+    "maxLon": 2.865148
+  },
+  {
+    "code_ligne": "284311",
+    "minLat": 50.444828,
+    "maxLat": 50.452483,
+    "minLon": 3.01562,
+    "maxLon": 3.021519
+  },
+  {
+    "code_ligne": "284620",
+    "minLat": 50.437293,
+    "maxLat": 50.445339,
+    "minLon": 2.998225,
+    "maxLon": 3.000501
+  },
+  {
+    "code_ligne": "284621",
+    "minLat": 50.440262,
+    "maxLat": 50.44466,
+    "minLon": 2.993325,
+    "maxLon": 3.01045
+  },
+  {
+    "code_ligne": "285000",
+    "minLat": 50.414368,
+    "maxLat": 50.510717,
+    "minLon": 2.905316,
+    "maxLon": 2.964742
+  },
+  {
+    "code_ligne": "286000",
+    "minLat": 50.41628,
+    "maxLat": 50.551479,
+    "minLon": 2.848553,
+    "maxLon": 2.913509
+  },
+  {
+    "code_ligne": "286610",
+    "minLat": 50.467566,
+    "maxLat": 50.521704,
+    "minLon": 2.758116,
+    "maxLon": 2.87933
+  },
+  {
+    "code_ligne": "286612",
+    "minLat": 50.467566,
+    "maxLat": 50.4962,
+    "minLon": 2.861195,
+    "maxLon": 2.87954
+  },
+  {
+    "code_ligne": "286614",
+    "minLat": 50.49655,
+    "maxLat": 50.520836,
+    "minLon": 2.842574,
+    "maxLon": 2.854149
+  },
+  {
+    "code_ligne": "287100",
+    "minLat": 50.472584,
+    "maxLat": 50.480318,
+    "minLon": 2.877848,
+    "maxLon": 2.879759
+  },
+  {
+    "code_ligne": "289000",
+    "minLat": 50.09109,
+    "maxLat": 50.636003,
+    "minLon": 1.824962,
+    "maxLon": 3.090442
+  },
+  {
+    "code_ligne": "289306",
+    "minLat": 50.599648,
+    "maxLat": 50.605428,
+    "minLon": 2.974304,
+    "maxLon": 2.976348
+  },
+  {
+    "code_ligne": "290000",
+    "minLat": 50.53306,
+    "maxLat": 50.535777,
+    "minLon": 2.647783,
+    "maxLon": 2.682082
+  },
+  {
+    "code_ligne": "292000",
+    "minLat": 50.603443,
+    "maxLat": 50.656829,
+    "minLon": 2.971961,
+    "maxLon": 3.033
+  },
+  {
+    "code_ligne": "292306",
+    "minLat": 50.653763,
+    "maxLat": 50.660491,
+    "minLon": 3.021,
+    "maxLon": 3.024642
+  },
+  {
+    "code_ligne": "293000",
+    "minLat": 50.646061,
+    "maxLat": 50.680521,
+    "minLon": 2.876875,
+    "maxLon": 2.912188
+  },
+  {
+    "code_ligne": "294000",
+    "minLat": 50.609281,
+    "maxLat": 50.728956,
+    "minLon": 2.296966,
+    "maxLon": 2.875604
+  },
+  {
+    "code_ligne": "295000",
+    "minLat": 50.633945,
+    "maxLat": 50.943086,
+    "minLon": 1.846194,
+    "maxLon": 3.09872
+  },
+  {
+    "code_ligne": "296000",
+    "minLat": 50.660649,
+    "maxLat": 50.767513,
+    "minLon": 2.99115,
+    "maxLon": 3.061263
+  },
+  {
+    "code_ligne": "3000",
+    "minLat": 48.515119,
+    "maxLat": 48.657517,
+    "minLon": 3.247885,
+    "maxLon": 3.415141
+  },
+  {
+    "code_ligne": "30000",
+    "minLat": 48.261156,
+    "maxLat": 48.36022,
+    "minLon": 5.691616,
+    "maxLon": 6.158708
+  },
+  {
+    "code_ligne": "300000",
+    "minLat": 51.019799,
+    "maxLat": 51.07602,
+    "minLon": 2.373706,
+    "maxLon": 2.554992
+  },
+  {
+    "code_ligne": "301000",
+    "minLat": 50.284856,
+    "maxLat": 51.031721,
+    "minLon": 2.366346,
+    "maxLon": 2.841206
+  },
+  {
+    "code_ligne": "301301",
+    "minLat": 50.415099,
+    "maxLat": 50.416874,
+    "minLon": 2.83906,
+    "maxLon": 2.846464
+  },
+  {
+    "code_ligne": "301306",
+    "minLat": 51.004985,
+    "maxLat": 51.011992,
+    "minLon": 2.369942,
+    "maxLon": 2.381254
+  },
+  {
+    "code_ligne": "302506",
+    "minLat": 50.993198,
+    "maxLat": 51.039019,
+    "minLon": 2.265656,
+    "maxLon": 2.294546
+  },
+  {
+    "code_ligne": "302511",
+    "minLat": 50.992819,
+    "maxLat": 51.017838,
+    "minLon": 2.191516,
+    "maxLon": 2.263048
+  },
+  {
+    "code_ligne": "302516",
+    "minLat": 51.006908,
+    "maxLat": 51.031051,
+    "minLon": 2.252751,
+    "maxLon": 2.255019
+  },
+  {
+    "code_ligne": "302521",
+    "minLat": 50.996293,
+    "maxLat": 50.998644,
+    "minLon": 2.158009,
+    "maxLon": 2.2066
+  },
+  {
+    "code_ligne": "302526",
+    "minLat": 51.007098,
+    "maxLat": 51.04126,
+    "minLon": 2.319749,
+    "maxLon": 2.364856
+  },
+  {
+    "code_ligne": "302531",
+    "minLat": 51.03125,
+    "maxLat": 51.050356,
+    "minLon": 2.320459,
+    "maxLon": 2.340384
+  },
+  {
+    "code_ligne": "304000",
+    "minLat": 50.93474,
+    "maxLat": 51.032953,
+    "minLon": 1.857765,
+    "maxLon": 2.375665
+  },
+  {
+    "code_ligne": "304300",
+    "minLat": 50.957403,
+    "maxLat": 50.996855,
+    "minLon": 2.161014,
+    "maxLon": 2.218002
+  },
+  {
+    "code_ligne": "305000",
+    "minLat": 49.893364,
+    "maxLat": 50.160354,
+    "minLon": 2.198009,
+    "maxLon": 2.339967
+  },
+  {
+    "code_ligne": "306000",
+    "minLat": 50.209832,
+    "maxLat": 50.278165,
+    "minLon": 2.551636,
+    "maxLon": 2.762169
+  },
+  {
+    "code_ligne": "307000",
+    "minLat": 50.270667,
+    "maxLat": 50.377167,
+    "minLon": 2.348025,
+    "maxLon": 2.769112
+  },
+  {
+    "code_ligne": "308000",
+    "minLat": 50.375877,
+    "maxLat": 50.51936,
+    "minLon": 1.63769,
+    "maxLon": 2.334776
+  },
+  {
+    "code_ligne": "309000",
+    "minLat": 50.436947,
+    "maxLat": 50.477712,
+    "minLon": 2.556485,
+    "maxLon": 2.723664
+  },
+  {
+    "code_ligne": "310000",
+    "minLat": 50.635362,
+    "maxLat": 50.748342,
+    "minLon": 1.671846,
+    "maxLon": 2.306135
+  },
+  {
+    "code_ligne": "311000",
+    "minLat": 49.858438,
+    "maxLat": 50.719199,
+    "minLon": 1.604288,
+    "maxLon": 2.379596
+  },
+  {
+    "code_ligne": "311306",
+    "minLat": 50.504538,
+    "maxLat": 50.515016,
+    "minLon": 1.618384,
+    "maxLon": 1.644665
+  },
+  {
+    "code_ligne": "312300",
+    "minLat": 50.685051,
+    "maxLat": 50.721228,
+    "minLon": 1.575684,
+    "maxLon": 1.622298
+  },
+  {
+    "code_ligne": "312311",
+    "minLat": 50.705753,
+    "maxLat": 50.72564,
+    "minLon": 1.597922,
+    "maxLon": 1.604224
+  },
+  {
+    "code_ligne": "312502",
+    "minLat": 50.717043,
+    "maxLat": 50.723124,
+    "minLon": 1.577888,
+    "maxLon": 1.579951
+  },
+  {
+    "code_ligne": "312504",
+    "minLat": 50.716258,
+    "maxLat": 50.723476,
+    "minLon": 1.569114,
+    "maxLon": 1.57694
+  },
+  {
+    "code_ligne": "314000",
+    "minLat": 50.720085,
+    "maxLat": 50.967826,
+    "minLon": 1.599479,
+    "maxLon": 1.864862
+  },
+  {
+    "code_ligne": "314306",
+    "minLat": 50.934722,
+    "maxLat": 50.936286,
+    "minLon": 1.848684,
+    "maxLon": 1.855465
+  },
+  {
+    "code_ligne": "314506",
+    "minLat": 50.947953,
+    "maxLat": 50.962364,
+    "minLon": 1.832586,
+    "maxLon": 1.859436
+  },
+  {
+    "code_ligne": "314611",
+    "minLat": 50.956438,
+    "maxLat": 50.972778,
+    "minLon": 1.863757,
+    "maxLon": 1.900813
+  },
+  {
+    "code_ligne": "315000",
+    "minLat": 49.068904,
+    "maxLat": 49.119072,
+    "minLon": 2.328657,
+    "maxLon": 2.421074
+  },
+  {
+    "code_ligne": "316000",
+    "minLat": 49.251024,
+    "maxLat": 49.419486,
+    "minLon": 2.130378,
+    "maxLon": 2.468601
+  },
+  {
+    "code_ligne": "317000",
+    "minLat": 49.376679,
+    "maxLat": 49.435613,
+    "minLon": 2.172915,
+    "maxLon": 3.180824
+  },
+  {
+    "code_ligne": "319000",
+    "minLat": 49.624037,
+    "maxLat": 49.633891,
+    "minLon": 2.302097,
+    "maxLon": 2.382467
+  },
+  {
+    "code_ligne": "31950",
+    "minLat": 47.824766,
+    "maxLat": 47.836214,
+    "minLon": 5.489964,
+    "maxLon": 5.498788
+  },
+  {
+    "code_ligne": "32000",
+    "minLat": 47.823856,
+    "maxLat": 48.678392,
+    "minLon": 5.479023,
+    "maxLon": 5.876921
+  },
+  {
+    "code_ligne": "320000",
+    "minLat": 49.530994,
+    "maxLat": 49.606872,
+    "minLon": 1.997391,
+    "maxLon": 2.096725
+  },
+  {
+    "code_ligne": "321000",
+    "minLat": 49.434108,
+    "maxLat": 49.893484,
+    "minLon": 1.125197,
+    "maxLon": 2.285277
+  },
+  {
+    "code_ligne": "322000",
+    "minLat": 50.00496,
+    "maxLat": 50.0486,
+    "minLon": 2.004002,
+    "maxLon": 2.144528
+  },
+  {
+    "code_ligne": "323000",
+    "minLat": 50.047415,
+    "maxLat": 50.135718,
+    "minLon": 1.412381,
+    "maxLon": 1.820199
+  },
+  {
+    "code_ligne": "324000",
+    "minLat": 50.173811,
+    "maxLat": 50.192927,
+    "minLon": 1.654474,
+    "maxLon": 1.704503
+  },
+  {
+    "code_ligne": "325000",
+    "minLat": 48.959668,
+    "maxLat": 50.063852,
+    "minLon": 1.376861,
+    "maxLon": 2.369058
+  },
+  {
+    "code_ligne": "326000",
+    "minLat": 49.003608,
+    "maxLat": 49.051038,
+    "minLon": 2.007197,
+    "maxLon": 2.091296
+  },
+  {
+    "code_ligne": "328000",
+    "minLat": 48.980577,
+    "maxLat": 49.088797,
+    "minLon": 2.190314,
+    "maxLon": 2.277656
+  },
+  {
+    "code_ligne": "329000",
+    "minLat": 49.039705,
+    "maxLat": 49.262994,
+    "minLon": 2.120289,
+    "maxLon": 2.467762
+  },
+  {
+    "code_ligne": "33000",
+    "minLat": 47.882062,
+    "maxLat": 47.916997,
+    "minLon": 5.329938,
+    "maxLon": 5.507945
+  },
+  {
+    "code_ligne": "330000",
+    "minLat": 48.938924,
+    "maxLat": 49.921164,
+    "minLon": 1.080988,
+    "maxLon": 2.344535
+  },
+  {
+    "code_ligne": "330306",
+    "minLat": 48.975554,
+    "maxLat": 48.985039,
+    "minLon": 2.257753,
+    "maxLon": 2.262828
+  },
+  {
+    "code_ligne": "331300",
+    "minLat": 49.045507,
+    "maxLat": 49.053244,
+    "minLon": 2.108361,
+    "maxLon": 2.12125
+  },
+  {
+    "code_ligne": "332000",
+    "minLat": 49.370992,
+    "maxLat": 49.431561,
+    "minLon": 1.988914,
+    "maxLon": 2.064515
+  },
+  {
+    "code_ligne": "333000",
+    "minLat": 49.413174,
+    "maxLat": 49.455311,
+    "minLon": 1.789518,
+    "maxLon": 2.018321
+  },
+  {
+    "code_ligne": "334000",
+    "minLat": 48.877459,
+    "maxLat": 49.010114,
+    "minLon": 1.704669,
+    "maxLon": 2.32559
+  },
+  {
+    "code_ligne": "334301",
+    "minLat": 48.950004,
+    "maxLat": 48.952311,
+    "minLon": 2.23088,
+    "maxLon": 2.236892
+  },
+  {
+    "code_ligne": "334302",
+    "minLat": 48.949941,
+    "maxLat": 48.950656,
+    "minLon": 2.22873,
+    "maxLon": 2.23402
+  },
+  {
+    "code_ligne": "334900",
+    "minLat": 48.877123,
+    "maxLat": 48.980356,
+    "minLon": 2.255051,
+    "maxLon": 2.324688
+  },
+  {
+    "code_ligne": "335300",
+    "minLat": 48.951917,
+    "maxLat": 48.955368,
+    "minLon": 2.082195,
+    "maxLon": 2.086247
+  },
+  {
+    "code_ligne": "335301",
+    "minLat": 48.953468,
+    "maxLat": 48.95699,
+    "minLon": 2.082803,
+    "maxLon": 2.083523
+  },
+  {
+    "code_ligne": "335302",
+    "minLat": 48.953342,
+    "maxLat": 48.955536,
+    "minLon": 2.085622,
+    "maxLon": 2.090713
+  },
+  {
+    "code_ligne": "335303",
+    "minLat": 48.949118,
+    "maxLat": 48.95714,
+    "minLon": 2.07705,
+    "maxLon": 2.085726
+  },
+  {
+    "code_ligne": "335304",
+    "minLat": 48.95185,
+    "maxLat": 48.958763,
+    "minLon": 2.081705,
+    "maxLon": 2.083363
+  },
+  {
+    "code_ligne": "336000",
+    "minLat": 48.99547,
+    "maxLat": 49.015627,
+    "minLon": 2.085564,
+    "maxLon": 2.09455
+  },
+  {
+    "code_ligne": "336306",
+    "minLat": 48.993294,
+    "maxLat": 48.996734,
+    "minLon": 2.086552,
+    "maxLon": 2.089058
+  },
+  {
+    "code_ligne": "337300",
+    "minLat": 49.025201,
+    "maxLat": 49.037251,
+    "minLon": 2.098405,
+    "maxLon": 2.124748
+  },
+  {
+    "code_ligne": "338000",
+    "minLat": 48.954705,
+    "maxLat": 49.045541,
+    "minLon": 2.073267,
+    "maxLon": 2.130831
+  },
+  {
+    "code_ligne": "339000",
+    "minLat": 49.086161,
+    "maxLat": 49.273499,
+    "minLon": 1.598323,
+    "maxLon": 1.75276
+  },
+  {
+    "code_ligne": "340000",
+    "minLat": 48.877347,
+    "maxLat": 49.636626,
+    "minLon": 0.126281,
+    "maxLon": 2.325137
+  },
+  {
+    "code_ligne": "340306",
+    "minLat": 48.9024,
+    "maxLat": 48.904842,
+    "minLon": 2.21893,
+    "maxLon": 2.219837
+  },
+  {
+    "code_ligne": "340309",
+    "minLat": 49.413008,
+    "maxLat": 49.427046,
+    "minLon": 1.099493,
+    "maxLon": 1.102236
+  },
+  {
+    "code_ligne": "340311",
+    "minLat": 49.436692,
+    "maxLat": 49.438611,
+    "minLon": 1.107242,
+    "maxLon": 1.121801
+  },
+  {
+    "code_ligne": "340506",
+    "minLat": 49.384522,
+    "maxLat": 49.450388,
+    "minLon": 1.006567,
+    "maxLon": 1.106159
+  },
+  {
+    "code_ligne": "341116",
+    "minLat": 49.45042,
+    "maxLat": 49.506518,
+    "minLon": 0.192104,
+    "maxLon": 0.360831
+  },
+  {
+    "code_ligne": "341300",
+    "minLat": 49.477614,
+    "maxLat": 49.50947,
+    "minLon": 0.107206,
+    "maxLon": 0.196077
+  },
+  {
+    "code_ligne": "341306",
+    "minLat": 49.494997,
+    "maxLat": 49.499992,
+    "minLon": 0.139708,
+    "maxLon": 0.166964
+  },
+  {
+    "code_ligne": "341311",
+    "minLat": 49.496685,
+    "maxLat": 49.497414,
+    "minLon": 0.167078,
+    "maxLon": 0.171165
+  },
+  {
+    "code_ligne": "341315",
+    "minLat": 49.483348,
+    "maxLat": 49.488713,
+    "minLon": 0.163709,
+    "maxLon": 0.200642
+  },
+  {
+    "code_ligne": "341320",
+    "minLat": 49.483148,
+    "maxLat": 49.483664,
+    "minLon": 0.161281,
+    "maxLon": 0.165258
+  },
+  {
+    "code_ligne": "341500",
+    "minLat": 49.488003,
+    "maxLat": 49.501279,
+    "minLon": 0.179059,
+    "maxLon": 0.188474
+  },
+  {
+    "code_ligne": "341606",
+    "minLat": 49.489323,
+    "maxLat": 49.496609,
+    "minLon": 0.163028,
+    "maxLon": 0.179681
+  },
+  {
+    "code_ligne": "342000",
+    "minLat": 49.269473,
+    "maxLat": 49.37022,
+    "minLon": 1.160886,
+    "maxLon": 1.790488
+  },
+  {
+    "code_ligne": "347000",
+    "minLat": 49.165534,
+    "maxLat": 49.178083,
+    "minLon": 1.898777,
+    "maxLon": 1.936394
+  },
+  {
+    "code_ligne": "35000",
+    "minLat": 48.05889,
+    "maxLat": 48.270384,
+    "minLon": 5.604628,
+    "maxLon": 6.150503
+  },
+  {
+    "code_ligne": "350000",
+    "minLat": 49.522607,
+    "maxLat": 49.918905,
+    "minLon": 1.032592,
+    "maxLon": 1.133249
+  },
+  {
+    "code_ligne": "350306",
+    "minLat": 49.913092,
+    "maxLat": 49.914267,
+    "minLon": 1.079353,
+    "maxLon": 1.083257
+  },
+  {
+    "code_ligne": "351000",
+    "minLat": 49.459079,
+    "maxLat": 49.564261,
+    "minLon": 0.753368,
+    "maxLon": 0.958917
+  },
+  {
+    "code_ligne": "35306",
+    "minLat": 48.265979,
+    "maxLat": 48.268162,
+    "minLon": 6.149442,
+    "maxLon": 6.156864
+  },
+  {
+    "code_ligne": "353300",
+    "minLat": 49.601917,
+    "maxLat": 49.632904,
+    "minLon": 1.046213,
+    "maxLon": 1.110651
+  },
+  {
+    "code_ligne": "354000",
+    "minLat": 49.601401,
+    "maxLat": 49.644664,
+    "minLon": 0.865479,
+    "maxLon": 1.331111
+  },
+  {
+    "code_ligne": "356000",
+    "minLat": 49.892535,
+    "maxLat": 49.912253,
+    "minLon": 1.106072,
+    "maxLon": 1.262457
+  },
+  {
+    "code_ligne": "357000",
+    "minLat": 49.729446,
+    "maxLat": 49.913362,
+    "minLon": 0.374485,
+    "maxLon": 1.078083
+  },
+  {
+    "code_ligne": "358000",
+    "minLat": 49.636834,
+    "maxLat": 49.86026,
+    "minLon": 0.695018,
+    "maxLon": 0.84465
+  },
+  {
+    "code_ligne": "359000",
+    "minLat": 49.603825,
+    "maxLat": 49.75988,
+    "minLon": 0.374203,
+    "maxLon": 0.434213
+  },
+  {
+    "code_ligne": "360000",
+    "minLat": 49.701776,
+    "maxLat": 49.719081,
+    "minLon": 0.213173,
+    "maxLon": 0.393323
+  },
+  {
+    "code_ligne": "361000",
+    "minLat": 49.503792,
+    "maxLat": 49.702593,
+    "minLon": 0.182552,
+    "maxLon": 0.390962
+  },
+  {
+    "code_ligne": "362000",
+    "minLat": 49.483222,
+    "maxLat": 49.609139,
+    "minLon": 0.431068,
+    "maxLon": 0.564071
+  },
+  {
+    "code_ligne": "362506",
+    "minLat": 49.494084,
+    "maxLat": 49.49898,
+    "minLon": 0.542711,
+    "maxLon": 0.552527
+  },
+  {
+    "code_ligne": "365000",
+    "minLat": 49.396122,
+    "maxLat": 49.438727,
+    "minLon": 1.022986,
+    "maxLon": 1.099363
+  },
+  {
+    "code_ligne": "365501",
+    "minLat": 49.343383,
+    "maxLat": 49.440288,
+    "minLon": 0.96091,
+    "maxLon": 1.101337
+  },
+  {
+    "code_ligne": "365502",
+    "minLat": 49.419867,
+    "maxLat": 49.425733,
+    "minLon": 1.025649,
+    "maxLon": 1.054323
+  },
+  {
+    "code_ligne": "366000",
+    "minLat": 48.915034,
+    "maxLat": 49.632491,
+    "minLon": -1.680942,
+    "maxLon": 1.710075
+  },
+  {
+    "code_ligne": "366106",
+    "minLat": 49.62701,
+    "maxLat": 49.653046,
+    "minLon": -1.618113,
+    "maxLon": -1.584555
+  },
+  {
+    "code_ligne": "366306",
+    "minLat": 48.989849,
+    "maxLat": 48.99437,
+    "minLon": 1.68082,
+    "maxLon": 1.696905
+  },
+  {
+    "code_ligne": "366311",
+    "minLat": 49.067438,
+    "maxLat": 49.071194,
+    "minLon": -0.062522,
+    "maxLon": -0.059745
+  },
+  {
+    "code_ligne": "366536",
+    "minLat": 49.629161,
+    "maxLat": 49.647382,
+    "minLon": -1.640085,
+    "maxLon": -1.618902
+  },
+  {
+    "code_ligne": "367300",
+    "minLat": 49.424456,
+    "maxLat": 49.428412,
+    "minLon": 1.099363,
+    "maxLon": 1.106576
+  },
+  {
+    "code_ligne": "368300",
+    "minLat": 49.436597,
+    "maxLat": 49.437003,
+    "minLon": 1.122197,
+    "maxLon": 1.125086
+  },
+  {
+    "code_ligne": "368301",
+    "minLat": 49.437085,
+    "maxLat": 49.438843,
+    "minLon": 1.121315,
+    "maxLon": 1.124191
+  },
+  {
+    "code_ligne": "369000",
+    "minLat": 49.41658,
+    "maxLat": 49.428068,
+    "minLon": 1.099524,
+    "maxLon": 1.101423
+  },
+  {
+    "code_ligne": "370000",
+    "minLat": 48.781747,
+    "maxLat": 49.413177,
+    "minLon": 0.971092,
+    "maxLon": 1.442934
+  },
+  {
+    "code_ligne": "371000",
+    "minLat": 49.019701,
+    "maxLat": 49.171812,
+    "minLon": 1.143586,
+    "maxLon": 1.181487
+  },
+  {
+    "code_ligne": "372000",
+    "minLat": 49.104997,
+    "maxLat": 49.340571,
+    "minLon": 0.681526,
+    "maxLon": 1.102964
+  },
+  {
+    "code_ligne": "374300",
+    "minLat": 49.102444,
+    "maxLat": 49.114542,
+    "minLon": 0.722143,
+    "maxLon": 0.736511
+  },
+  {
+    "code_ligne": "375000",
+    "minLat": 49.268627,
+    "maxLat": 49.362937,
+    "minLon": 0.316324,
+    "maxLon": 0.684382
+  },
+  {
+    "code_ligne": "376000",
+    "minLat": 49.219402,
+    "maxLat": 49.248746,
+    "minLon": 1.177077,
+    "maxLon": 1.227926
+  },
+  {
+    "code_ligne": "377000",
+    "minLat": 49.135365,
+    "maxLat": 49.421148,
+    "minLon": 0.187533,
+    "maxLon": 0.317098
+  },
+  {
+    "code_ligne": "378000",
+    "minLat": 49.291847,
+    "maxLat": 49.359575,
+    "minLon": 0.084112,
+    "maxLon": 0.187533
+  },
+  {
+    "code_ligne": "379000",
+    "minLat": 49.278599,
+    "maxLat": 49.35708,
+    "minLon": -0.110382,
+    "maxLon": 0.095604
+  },
+  {
+    "code_ligne": "380000",
+    "minLat": 49.168421,
+    "maxLat": 49.177694,
+    "minLon": -0.340368,
+    "maxLon": -0.312873
+  },
+  {
+    "code_ligne": "382100",
+    "minLat": 49.028708,
+    "maxLat": 49.032576,
+    "minLon": 1.15948,
+    "maxLon": 1.162956
+  },
+  {
+    "code_ligne": "39000",
+    "minLat": 48.59836,
+    "maxLat": 48.681716,
+    "minLon": 5.885118,
+    "maxLon": 6.354144
+  },
+  {
+    "code_ligne": "390000",
+    "minLat": 49.135371,
+    "maxLat": 49.359165,
+    "minLon": 0.084952,
+    "maxLon": 0.2356
+  },
+  {
+    "code_ligne": "39306",
+    "minLat": 48.609227,
+    "maxLat": 48.612975,
+    "minLon": 6.101203,
+    "maxLon": 6.104137
+  },
+  {
+    "code_ligne": "395000",
+    "minLat": 48.661386,
+    "maxLat": 48.838744,
+    "minLon": 0.134985,
+    "maxLon": 2.075111
+  },
+  {
+    "code_ligne": "395306",
+    "minLat": 48.782982,
+    "maxLat": 48.800025,
+    "minLon": 2.034836,
+    "maxLon": 2.057622
+  },
+  {
+    "code_ligne": "396000",
+    "minLat": 48.833651,
+    "maxLat": 48.96397,
+    "minLon": 1.811721,
+    "maxLon": 1.923648
+  },
+  {
+    "code_ligne": "396306",
+    "minLat": 48.961791,
+    "maxLat": 48.966589,
+    "minLon": 1.827044,
+    "maxLon": 1.83033
+  },
+  {
+    "code_ligne": "397000",
+    "minLat": 48.743206,
+    "maxLat": 49.00003,
+    "minLon": 1.208848,
+    "maxLon": 1.400048
+  },
+  {
+    "code_ligne": "4000",
+    "minLat": 48.584585,
+    "maxLat": 49.067423,
+    "minLon": 3.495158,
+    "maxLon": 3.569587
+  },
+  {
+    "code_ligne": "40000",
+    "minLat": 48.300069,
+    "maxLat": 48.673243,
+    "minLon": 6.088891,
+    "maxLon": 6.20323
+  },
+  {
+    "code_ligne": "40306",
+    "minLat": 48.610079,
+    "maxLat": 48.613299,
+    "minLon": 6.104363,
+    "maxLon": 6.106522
+  },
+  {
+    "code_ligne": "403300",
+    "minLat": 48.648588,
+    "maxLat": 48.663773,
+    "minLon": 0.155505,
+    "maxLon": 0.168723
+  },
+  {
+    "code_ligne": "405000",
+    "minLat": 48.700818,
+    "maxLat": 48.854802,
+    "minLon": -1.586681,
+    "maxLon": -0.043915
+  },
+  {
+    "code_ligne": "405536",
+    "minLat": 48.83787,
+    "maxLat": 48.843164,
+    "minLon": -1.594492,
+    "maxLon": -1.582371
+  },
+  {
+    "code_ligne": "408000",
+    "minLat": 47.909921,
+    "maxLat": 48.116745,
+    "minLon": -1.616691,
+    "maxLon": 0.476551
+  },
+  {
+    "code_ligne": "408315",
+    "minLat": 48.077415,
+    "maxLat": 48.085828,
+    "minLon": 0.122329,
+    "maxLon": 0.142345
+  },
+  {
+    "code_ligne": "408320",
+    "minLat": 48.066103,
+    "maxLat": 48.076777,
+    "minLon": 0.114024,
+    "maxLon": 0.15547
+  },
+  {
+    "code_ligne": "408340",
+    "minLat": 47.856816,
+    "maxLat": 47.911044,
+    "minLon": -0.320522,
+    "maxLon": -0.256633
+  },
+  {
+    "code_ligne": "408345",
+    "minLat": 47.88654,
+    "maxLat": 47.912934,
+    "minLon": -0.330395,
+    "maxLon": -0.307701
+  },
+  {
+    "code_ligne": "408360",
+    "minLat": 48.083502,
+    "maxLat": 48.097853,
+    "minLon": -0.734047,
+    "maxLon": -0.675066
+  },
+  {
+    "code_ligne": "408370",
+    "minLat": 48.056816,
+    "maxLat": 48.08681,
+    "minLon": -0.917164,
+    "maxLon": -0.835158
+  },
+  {
+    "code_ligne": "409000",
+    "minLat": 48.445601,
+    "maxLat": 48.730849,
+    "minLon": 1.273776,
+    "maxLon": 1.478849
+  },
+  {
+    "code_ligne": "41000",
+    "minLat": 48.528832,
+    "maxLat": 48.532797,
+    "minLon": 5.839377,
+    "maxLon": 5.871454
+  },
+  {
+    "code_ligne": "411000",
+    "minLat": 48.861704,
+    "maxLat": 48.870033,
+    "minLon": -0.47407,
+    "maxLon": -0.456497
+  },
+  {
+    "code_ligne": "412000",
+    "minLat": 48.775224,
+    "maxLat": 49.16948,
+    "minLon": -0.607278,
+    "maxLon": -0.367989
+  },
+  {
+    "code_ligne": "414000",
+    "minLat": 49.051721,
+    "maxLat": 49.114271,
+    "minLon": -1.126266,
+    "maxLon": -1.040856
+  },
+  {
+    "code_ligne": "415000",
+    "minLat": 48.455844,
+    "maxLat": 49.229623,
+    "minLon": -2.505589,
+    "maxLon": -1.05439
+  },
+  {
+    "code_ligne": "415335",
+    "minLat": 48.831855,
+    "maxLat": 48.835542,
+    "minLon": -1.429672,
+    "maxLon": -1.422335
+  },
+  {
+    "code_ligne": "418000",
+    "minLat": 49.292541,
+    "maxLat": 49.382602,
+    "minLon": -1.784595,
+    "maxLon": -1.240603
+  },
+  {
+    "code_ligne": "42000",
+    "minLat": 47.684063,
+    "maxLat": 48.561864,
+    "minLon": 6.253481,
+    "maxLon": 6.477136
+  },
+  {
+    "code_ligne": "420000",
+    "minLat": 47.992083,
+    "maxLat": 48.840145,
+    "minLon": -4.478836,
+    "maxLon": 2.319237
+  },
+  {
+    "code_ligne": "420306",
+    "minLat": 47.988552,
+    "maxLat": 47.994135,
+    "minLon": 0.201947,
+    "maxLon": 0.220861
+  },
+  {
+    "code_ligne": "421300",
+    "minLat": 48.386655,
+    "maxLat": 48.398675,
+    "minLon": -4.46944,
+    "maxLon": -4.42612
+  },
+  {
+    "code_ligne": "421500",
+    "minLat": 48.386553,
+    "maxLat": 48.388287,
+    "minLon": -4.469819,
+    "maxLon": -4.462216
+  },
+  {
+    "code_ligne": "421501",
+    "minLat": 48.386519,
+    "maxLat": 48.388654,
+    "minLon": -4.469842,
+    "maxLon": -4.445494
+  },
+  {
+    "code_ligne": "421502",
+    "minLat": 48.386665,
+    "maxLat": 48.387872,
+    "minLon": -4.470175,
+    "maxLon": -4.463269
+  },
+  {
+    "code_ligne": "422000",
+    "minLat": 48.476802,
+    "maxLat": 48.956853,
+    "minLon": 0.919726,
+    "maxLon": 1.218326
+  },
+  {
+    "code_ligne": "423000",
+    "minLat": 48.385137,
+    "maxLat": 48.524472,
+    "minLon": 0.098325,
+    "maxLon": 0.85323
+  },
+  {
+    "code_ligne": "427000",
+    "minLat": 48.286885,
+    "maxLat": 48.361744,
+    "minLon": 0.104074,
+    "maxLon": 0.363707
+  },
+  {
+    "code_ligne": "428000",
+    "minLat": 48.181183,
+    "maxLat": 48.283587,
+    "minLon": -0.097152,
+    "maxLon": 0.051958
+  },
+  {
+    "code_ligne": "429000",
+    "minLat": 48.045716,
+    "maxLat": 48.086115,
+    "minLon": 0.473046,
+    "maxLon": 1.115705
+  },
+  {
+    "code_ligne": "429310",
+    "minLat": 48.048217,
+    "maxLat": 48.055112,
+    "minLon": 0.432598,
+    "maxLon": 0.471914
+  },
+  {
+    "code_ligne": "430000",
+    "minLat": 48.025798,
+    "maxLat": 49.072234,
+    "minLon": -0.130496,
+    "maxLon": 0.208791
+  },
+  {
+    "code_ligne": "431000",
+    "minLat": 47.337834,
+    "maxLat": 48.833486,
+    "minLon": 0.751219,
+    "maxLon": 2.311269
+  },
+  {
+    "code_ligne": "431300",
+    "minLat": 48.730485,
+    "maxLat": 48.739142,
+    "minLon": 2.267659,
+    "maxLon": 2.287723
+  },
+  {
+    "code_ligne": "431302",
+    "minLat": 48.432875,
+    "maxLat": 48.439722,
+    "minLon": 1.7688,
+    "maxLon": 1.774798
+  },
+  {
+    "code_ligne": "431305",
+    "minLat": 48.078447,
+    "maxLat": 48.086784,
+    "minLon": 1.114622,
+    "maxLon": 1.125274
+  },
+  {
+    "code_ligne": "431310",
+    "minLat": 47.677141,
+    "maxLat": 47.685595,
+    "minLon": 1.001133,
+    "maxLon": 1.005466
+  },
+  {
+    "code_ligne": "431315",
+    "minLat": 47.390304,
+    "maxLat": 47.397917,
+    "minLon": 0.772234,
+    "maxLon": 0.801626
+  },
+  {
+    "code_ligne": "431320",
+    "minLat": 47.374633,
+    "maxLat": 47.387679,
+    "minLon": 0.788057,
+    "maxLon": 0.797752
+  },
+  {
+    "code_ligne": "432000",
+    "minLat": 48.43952,
+    "maxLat": 48.511608,
+    "minLon": -0.422691,
+    "maxLon": 0.098204
+  },
+  {
+    "code_ligne": "433000",
+    "minLat": 48.557386,
+    "maxLat": 48.598521,
+    "minLon": -0.415857,
+    "maxLon": -0.349512
+  },
+  {
+    "code_ligne": "434000",
+    "minLat": 48.595645,
+    "maxLat": 48.702021,
+    "minLon": -0.380411,
+    "maxLon": -0.34219
+  },
+  {
+    "code_ligne": "435000",
+    "minLat": 48.301934,
+    "maxLat": 48.422047,
+    "minLon": -0.603423,
+    "maxLon": -0.311666
+  },
+  {
+    "code_ligne": "436000",
+    "minLat": 48.129245,
+    "maxLat": 48.728502,
+    "minLon": -0.681116,
+    "maxLon": -0.548298
+  },
+  {
+    "code_ligne": "437000",
+    "minLat": 48.569282,
+    "maxLat": 48.584786,
+    "minLon": -0.774397,
+    "maxLon": -0.669046
+  },
+  {
+    "code_ligne": "439000",
+    "minLat": 48.116363,
+    "maxLat": 48.466961,
+    "minLon": -1.48052,
+    "maxLon": -1.131609
+  },
+  {
+    "code_ligne": "440000",
+    "minLat": 48.661027,
+    "maxLat": 48.848038,
+    "minLon": -0.94678,
+    "maxLon": -0.873111
+  },
+  {
+    "code_ligne": "441000",
+    "minLat": 48.106642,
+    "maxLat": 48.646779,
+    "minLon": -2.005593,
+    "maxLon": -1.623987
+  },
+  {
+    "code_ligne": "442500",
+    "minLat": 48.644872,
+    "maxLat": 48.652472,
+    "minLon": -2.009254,
+    "maxLon": -1.99438
+  },
+  {
+    "code_ligne": "442502",
+    "minLat": 48.645344,
+    "maxLat": 48.646362,
+    "minLon": -2.006993,
+    "maxLon": -2.002802
+  },
+  {
+    "code_ligne": "442503",
+    "minLat": 48.642428,
+    "maxLat": 48.644952,
+    "minLon": -2.015207,
+    "maxLon": -2.00737
+  },
+  {
+    "code_ligne": "442504",
+    "minLat": 48.644827,
+    "maxLat": 48.64994,
+    "minLon": -2.019735,
+    "maxLon": -2.007522
+  },
+  {
+    "code_ligne": "445000",
+    "minLat": 48.503579,
+    "maxLat": 48.52701,
+    "minLon": -2.751,
+    "maxLon": -2.717431
+  },
+  {
+    "code_ligne": "445506",
+    "minLat": 48.527211,
+    "maxLat": 48.52757,
+    "minLon": -2.735534,
+    "maxLon": -2.722898
+  },
+  {
+    "code_ligne": "446000",
+    "minLat": 48.606729,
+    "maxLat": 48.729528,
+    "minLon": -3.482895,
+    "maxLon": -3.445219
+  },
+  {
+    "code_ligne": "447000",
+    "minLat": 48.55718,
+    "maxLat": 48.720666,
+    "minLon": -3.998531,
+    "maxLon": -3.853832
+  },
+  {
+    "code_ligne": "448000",
+    "minLat": 48.388967,
+    "maxLat": 48.524781,
+    "minLon": -1.230031,
+    "maxLon": -1.089706
+  },
+  {
+    "code_ligne": "450000",
+    "minLat": 47.462753,
+    "maxLat": 47.998974,
+    "minLon": -0.5395,
+    "maxLon": 0.2056
+  },
+  {
+    "code_ligne": "450306",
+    "minLat": 47.998388,
+    "maxLat": 48.004405,
+    "minLon": 0.174875,
+    "maxLon": 0.176741
+  },
+  {
+    "code_ligne": "451300",
+    "minLat": 47.972084,
+    "maxLat": 47.99753,
+    "minLon": 0.167814,
+    "maxLon": 0.182888
+  },
+  {
+    "code_ligne": "451311",
+    "minLat": 47.984906,
+    "maxLat": 47.985623,
+    "minLon": 0.164479,
+    "maxLon": 0.16867
+  },
+  {
+    "code_ligne": "457000",
+    "minLat": 47.2141,
+    "maxLat": 47.56752,
+    "minLon": -1.534063,
+    "maxLon": -1.034983
+  },
+  {
+    "code_ligne": "457306",
+    "minLat": 47.221302,
+    "maxLat": 47.222456,
+    "minLon": -1.523094,
+    "maxLon": -1.514406
+  },
+  {
+    "code_ligne": "458000",
+    "minLat": 48.072121,
+    "maxLat": 48.077846,
+    "minLon": -0.742594,
+    "maxLon": -0.713322
+  },
+  {
+    "code_ligne": "459300",
+    "minLat": 47.406137,
+    "maxLat": 47.427459,
+    "minLon": -2.094716,
+    "maxLon": -2.087947
+  },
+  {
+    "code_ligne": "460000",
+    "minLat": 47.323054,
+    "maxLat": 47.883895,
+    "minLon": -2.153898,
+    "maxLon": -0.358094
+  },
+  {
+    "code_ligne": "462000",
+    "minLat": 47.791664,
+    "maxLat": 48.075234,
+    "minLon": -1.081179,
+    "maxLon": -0.790125
+  },
+  {
+    "code_ligne": "463000",
+    "minLat": 47.708858,
+    "maxLat": 47.799655,
+    "minLon": -1.484547,
+    "maxLon": -1.373368
+  },
+  {
+    "code_ligne": "466000",
+    "minLat": 47.717012,
+    "maxLat": 48.106157,
+    "minLon": -1.648439,
+    "maxLon": -1.297961
+  },
+  {
+    "code_ligne": "467000",
+    "minLat": 47.973055,
+    "maxLat": 48.122065,
+    "minLon": -1.23139,
+    "maxLon": -1.161848
+  },
+  {
+    "code_ligne": "468000",
+    "minLat": 47.646749,
+    "maxLat": 48.102209,
+    "minLon": -2.076704,
+    "maxLon": -1.680312
+  },
+  {
+    "code_ligne": "468306",
+    "minLat": 47.644481,
+    "maxLat": 47.646926,
+    "minLon": -2.071027,
+    "maxLon": -2.067879
+  },
+  {
+    "code_ligne": "470000",
+    "minLat": 47.36037,
+    "maxLat": 48.456407,
+    "minLon": -4.287613,
+    "maxLon": -1.956483
+  },
+  {
+    "code_ligne": "470606",
+    "minLat": 47.777846,
+    "maxLat": 47.782962,
+    "minLon": -3.334441,
+    "maxLon": -3.317905
+  },
+  {
+    "code_ligne": "471000",
+    "minLat": 47.6831,
+    "maxLat": 47.863221,
+    "minLon": -2.450881,
+    "maxLon": -2.389279
+  },
+  {
+    "code_ligne": "472000",
+    "minLat": 48.083306,
+    "maxLat": 48.216899,
+    "minLon": -2.27316,
+    "maxLon": -2.108258
+  },
+  {
+    "code_ligne": "473000",
+    "minLat": 47.485099,
+    "maxLat": 47.681981,
+    "minLon": -3.139751,
+    "maxLon": -3.011103
+  },
+  {
+    "code_ligne": "474000",
+    "minLat": 47.702245,
+    "maxLat": 48.0616,
+    "minLon": -3.085606,
+    "maxLon": -2.96488
+  },
+  {
+    "code_ligne": "475000",
+    "minLat": 48.062277,
+    "maxLat": 48.508159,
+    "minLon": -2.965451,
+    "maxLon": -2.748558
+  },
+  {
+    "code_ligne": "475606",
+    "minLat": 48.462693,
+    "maxLat": 48.467374,
+    "minLon": -2.802419,
+    "maxLon": -2.785791
+  },
+  {
+    "code_ligne": "476000",
+    "minLat": 47.876337,
+    "maxLat": 47.96077,
+    "minLon": -3.934163,
+    "maxLon": -3.843347
+  },
+  {
+    "code_ligne": "477000",
+    "minLat": 47.957018,
+    "maxLat": 48.002085,
+    "minLon": -4.176927,
+    "maxLon": -4.104079
+  },
+  {
+    "code_ligne": "485000",
+    "minLat": 48.275272,
+    "maxLat": 48.554298,
+    "minLon": -3.564491,
+    "maxLon": -3.149745
+  },
+  {
+    "code_ligne": "486000",
+    "minLat": 48.552164,
+    "maxLat": 48.777511,
+    "minLon": -3.197982,
+    "maxLon": -3.044666
+  },
+  {
+    "code_ligne": "486506",
+    "minLat": 48.775795,
+    "maxLat": 48.777852,
+    "minLon": -3.049009,
+    "maxLon": -3.044399
+  },
+  {
+    "code_ligne": "487000",
+    "minLat": 48.284498,
+    "maxLat": 48.287544,
+    "minLon": -3.558769,
+    "maxLon": -3.547554
+  },
+  {
+    "code_ligne": "499500",
+    "minLat": 47.735952,
+    "maxLat": 47.753998,
+    "minLon": -3.384254,
+    "maxLon": -3.373655
+  },
+  {
+    "code_ligne": "499501",
+    "minLat": 47.735982,
+    "maxLat": 47.740539,
+    "minLon": -3.370115,
+    "maxLon": -3.357981
+  },
+  {
+    "code_ligne": "499503",
+    "minLat": 47.729492,
+    "maxLat": 47.737203,
+    "minLon": -3.377849,
+    "maxLon": -3.36925
+  },
+  {
+    "code_ligne": "5000",
+    "minLat": 48.678744,
+    "maxLat": 49.242188,
+    "minLon": 2.642499,
+    "maxLon": 7.715097
+  },
+  {
+    "code_ligne": "500000",
+    "minLat": 44.859658,
+    "maxLat": 48.443951,
+    "minLon": -0.618663,
+    "maxLon": 1.463423
+  },
+  {
+    "code_ligne": "500306",
+    "minLat": 45.696601,
+    "maxLat": 45.698598,
+    "minLon": -0.527888,
+    "maxLon": -0.523011
+  },
+  {
+    "code_ligne": "500650",
+    "minLat": 47.111357,
+    "maxLat": 47.12104,
+    "minLon": -0.137743,
+    "maxLon": -0.107687
+  },
+  {
+    "code_ligne": "503300",
+    "minLat": 44.854267,
+    "maxLat": 44.858933,
+    "minLon": -0.54212,
+    "maxLon": -0.533787
+  },
+  {
+    "code_ligne": "508000",
+    "minLat": 47.638977,
+    "maxLat": 47.848349,
+    "minLon": -0.332192,
+    "maxLon": 0.162884
+  },
+  {
+    "code_ligne": "509000",
+    "minLat": 47.743138,
+    "maxLat": 47.892142,
+    "minLon": -0.099103,
+    "maxLon": 0.025264
+  },
+  {
+    "code_ligne": "51000",
+    "minLat": 47.837123,
+    "maxLat": 47.973777,
+    "minLon": 5.885604,
+    "maxLon": 6.04556
+  },
+  {
+    "code_ligne": "510000",
+    "minLat": 47.336159,
+    "maxLat": 47.689434,
+    "minLon": -0.119243,
+    "maxLon": -0.062332
+  },
+  {
+    "code_ligne": "511000",
+    "minLat": 47.677895,
+    "maxLat": 47.701094,
+    "minLon": -0.215995,
+    "maxLon": -0.09312
+  },
+  {
+    "code_ligne": "514300",
+    "minLat": 47.201806,
+    "maxLat": 47.219629,
+    "minLon": -1.558185,
+    "maxLon": -1.525092
+  },
+  {
+    "code_ligne": "514316",
+    "minLat": 47.214086,
+    "maxLat": 47.216478,
+    "minLon": -1.519744,
+    "maxLon": -1.515799
+  },
+  {
+    "code_ligne": "515000",
+    "minLat": 47.194924,
+    "maxLat": 47.466096,
+    "minLon": -2.210975,
+    "maxLon": 0.703101
+  },
+  {
+    "code_ligne": "516000",
+    "minLat": 47.268186,
+    "maxLat": 47.302483,
+    "minLon": -2.507017,
+    "maxLon": -2.212558
+  },
+  {
+    "code_ligne": "517000",
+    "minLat": 47.288996,
+    "maxLat": 47.322892,
+    "minLon": -2.409747,
+    "maxLon": -2.391685
+  },
+  {
+    "code_ligne": "518000",
+    "minLat": 47.491395,
+    "maxLat": 47.525392,
+    "minLon": -0.6175,
+    "maxLon": -0.523458
+  },
+  {
+    "code_ligne": "519000",
+    "minLat": 47.226376,
+    "maxLat": 47.717157,
+    "minLon": -1.548748,
+    "maxLon": -1.371367
+  },
+  {
+    "code_ligne": "521000",
+    "minLat": 47.439185,
+    "maxLat": 47.469283,
+    "minLon": -0.530484,
+    "maxLon": -0.502458
+  },
+  {
+    "code_ligne": "523000",
+    "minLat": 46.302827,
+    "maxLat": 47.371256,
+    "minLon": -0.883837,
+    "maxLon": -0.466091
+  },
+  {
+    "code_ligne": "524000",
+    "minLat": 46.641351,
+    "maxLat": 46.824923,
+    "minLon": -0.503021,
+    "maxLon": 0.243528
+  },
+  {
+    "code_ligne": "525000",
+    "minLat": 46.499562,
+    "maxLat": 47.357195,
+    "minLon": -1.784403,
+    "maxLon": 0.681529
+  },
+  {
+    "code_ligne": "526000",
+    "minLat": 46.69003,
+    "maxLat": 47.030088,
+    "minLon": -1.077721,
+    "maxLon": -0.906814
+  },
+  {
+    "code_ligne": "527000",
+    "minLat": 47.007364,
+    "maxLat": 47.083947,
+    "minLon": -1.283866,
+    "maxLon": -0.872064
+  },
+  {
+    "code_ligne": "528000",
+    "minLat": 46.447922,
+    "maxLat": 46.462339,
+    "minLon": -0.796037,
+    "maxLon": -0.79076
+  },
+  {
+    "code_ligne": "529000",
+    "minLat": 46.379846,
+    "maxLat": 46.46046,
+    "minLon": -0.793282,
+    "maxLon": -0.582654
+  },
+  {
+    "code_ligne": "5300",
+    "minLat": 48.316073,
+    "maxLat": 48.324412,
+    "minLon": 4.037049,
+    "maxLon": 4.045035
+  },
+  {
+    "code_ligne": "530000",
+    "minLat": 45.758367,
+    "maxLat": 47.219824,
+    "minLon": -1.54423,
+    "maxLon": -0.617112
+  },
+  {
+    "code_ligne": "531000",
+    "minLat": 47.239372,
+    "maxLat": 47.252148,
+    "minLon": -0.081691,
+    "maxLon": -0.071981
+  },
+  {
+    "code_ligne": "5315",
+    "minLat": 49.205843,
+    "maxLat": 49.218231,
+    "minLon": 4.004681,
+    "maxLon": 4.038039
+  },
+  {
+    "code_ligne": "5317",
+    "minLat": 49.208276,
+    "maxLat": 49.214436,
+    "minLon": 3.993993,
+    "maxLon": 4.011165
+  },
+  {
+    "code_ligne": "5329",
+    "minLat": 49.06971,
+    "maxLat": 49.075564,
+    "minLon": 4.346914,
+    "maxLon": 4.370364
+  },
+  {
+    "code_ligne": "5330",
+    "minLat": 49.062017,
+    "maxLat": 49.068677,
+    "minLon": 4.36677,
+    "maxLon": 4.376911
+  },
+  {
+    "code_ligne": "5340",
+    "minLat": 48.953406,
+    "maxLat": 48.970719,
+    "minLon": 6.001445,
+    "maxLon": 6.037962
+  },
+  {
+    "code_ligne": "534000",
+    "minLat": 46.680826,
+    "maxLat": 47.201586,
+    "minLon": -1.889625,
+    "maxLon": -1.43693
+  },
+  {
+    "code_ligne": "5341",
+    "minLat": 48.967516,
+    "maxLat": 48.98043,
+    "minLon": 6.00215,
+    "maxLon": 6.030239
+  },
+  {
+    "code_ligne": "5343",
+    "minLat": 48.965346,
+    "maxLat": 48.968846,
+    "minLon": 6.437212,
+    "maxLon": 6.469904
+  },
+  {
+    "code_ligne": "534311",
+    "minLat": 46.764059,
+    "maxLat": 46.768766,
+    "minLon": -1.860932,
+    "maxLon": -1.858841
+  },
+  {
+    "code_ligne": "5345",
+    "minLat": 48.958711,
+    "maxLat": 48.998735,
+    "minLon": 6.420567,
+    "maxLon": 6.461626
+  },
+  {
+    "code_ligne": "534611",
+    "minLat": 47.141775,
+    "maxLat": 47.170371,
+    "minLon": -1.60001,
+    "maxLon": -1.588798
+  },
+  {
+    "code_ligne": "535000",
+    "minLat": 46.696488,
+    "maxLat": 46.763306,
+    "minLon": -1.951771,
+    "maxLon": -1.86316
+  },
+  {
+    "code_ligne": "536000",
+    "minLat": 47.046919,
+    "maxLat": 47.120359,
+    "minLon": -2.097658,
+    "maxLon": -1.818086
+  },
+  {
+    "code_ligne": "537000",
+    "minLat": 47.106606,
+    "maxLat": 47.286403,
+    "minLon": -2.029115,
+    "maxLon": -1.867744
+  },
+  {
+    "code_ligne": "538000",
+    "minLat": 46.088866,
+    "maxLat": 46.547157,
+    "minLon": -1.146557,
+    "maxLon": 0.335545
+  },
+  {
+    "code_ligne": "538310",
+    "minLat": 46.487034,
+    "maxLat": 46.515222,
+    "minLon": 0.219024,
+    "maxLon": 0.247796
+  },
+  {
+    "code_ligne": "538311",
+    "minLat": 46.490688,
+    "maxLat": 46.514717,
+    "minLon": 0.221082,
+    "maxLon": 0.246628
+  },
+  {
+    "code_ligne": "538315",
+    "minLat": 46.499023,
+    "maxLat": 46.528157,
+    "minLon": 0.214695,
+    "maxLon": 0.242515
+  },
+  {
+    "code_ligne": "5390",
+    "minLat": 48.654276,
+    "maxLat": 48.690551,
+    "minLon": 7.692187,
+    "maxLon": 7.719938
+  },
+  {
+    "code_ligne": "539000",
+    "minLat": 46.156209,
+    "maxLat": 46.168118,
+    "minLon": -1.237204,
+    "maxLon": -1.139709
+  },
+  {
+    "code_ligne": "539507",
+    "minLat": 46.160568,
+    "maxLat": 46.164132,
+    "minLon": -1.239074,
+    "maxLon": -1.238362
+  },
+  {
+    "code_ligne": "54000",
+    "minLat": 47.886238,
+    "maxLat": 47.909226,
+    "minLon": 6.330367,
+    "maxLon": 6.455406
+  },
+  {
+    "code_ligne": "544000",
+    "minLat": 45.625566,
+    "maxLat": 45.744383,
+    "minLon": -1.016838,
+    "maxLon": -0.618328
+  },
+  {
+    "code_ligne": "545000",
+    "minLat": 45.669015,
+    "maxLat": 45.772003,
+    "minLon": -1.141438,
+    "maxLon": -0.933026
+  },
+  {
+    "code_ligne": "546000",
+    "minLat": 45.573086,
+    "maxLat": 45.668141,
+    "minLon": -0.931873,
+    "maxLon": -0.664245
+  },
+  {
+    "code_ligne": "547000",
+    "minLat": 45.127727,
+    "maxLat": 45.154833,
+    "minLon": -0.663263,
+    "maxLon": -0.392727
+  },
+  {
+    "code_ligne": "547506",
+    "minLat": 45.114171,
+    "maxLat": 45.127782,
+    "minLon": -0.665353,
+    "maxLon": -0.659469
+  },
+  {
+    "code_ligne": "55000",
+    "minLat": 47.680498,
+    "maxLat": 47.737403,
+    "minLon": 6.80704,
+    "maxLon": 6.830571
+  },
+  {
+    "code_ligne": "550000",
+    "minLat": 47.432455,
+    "maxLat": 48.603856,
+    "minLon": 0.642236,
+    "maxLon": 2.3009
+  },
+  {
+    "code_ligne": "552000",
+    "minLat": 48.693756,
+    "maxLat": 48.845685,
+    "minLon": 2.065661,
+    "maxLon": 2.340879
+  },
+  {
+    "code_ligne": "553000",
+    "minLat": 48.45389,
+    "maxLat": 48.834437,
+    "minLon": 1.484074,
+    "maxLon": 2.31224
+  },
+  {
+    "code_ligne": "555000",
+    "minLat": 48.423896,
+    "maxLat": 48.460343,
+    "minLon": 1.51557,
+    "maxLon": 1.782075
+  },
+  {
+    "code_ligne": "556000",
+    "minLat": 47.915099,
+    "maxLat": 48.446326,
+    "minLon": 1.465818,
+    "maxLon": 1.893108
+  },
+  {
+    "code_ligne": "556606",
+    "minLat": 48.430445,
+    "maxLat": 48.439702,
+    "minLon": 1.450148,
+    "maxLon": 1.470049
+  },
+  {
+    "code_ligne": "557000",
+    "minLat": 48.18867,
+    "maxLat": 48.211021,
+    "minLon": 1.870318,
+    "maxLon": 1.938908
+  },
+  {
+    "code_ligne": "558000",
+    "minLat": 48.050692,
+    "maxLat": 48.088137,
+    "minLon": 1.338431,
+    "maxLon": 1.69944
+  },
+  {
+    "code_ligne": "559000",
+    "minLat": 47.594142,
+    "maxLat": 47.803796,
+    "minLon": 0.803318,
+    "maxLon": 1.324801
+  },
+  {
+    "code_ligne": "561000",
+    "minLat": 47.373663,
+    "maxLat": 47.993439,
+    "minLon": 0.188436,
+    "maxLon": 0.695456
+  },
+  {
+    "code_ligne": "561311",
+    "minLat": 47.95839,
+    "maxLat": 47.972428,
+    "minLon": 0.189888,
+    "maxLon": 0.193951
+  },
+  {
+    "code_ligne": "561316",
+    "minLat": 47.970926,
+    "maxLat": 47.978377,
+    "minLon": 0.183771,
+    "maxLon": 0.200494
+  },
+  {
+    "code_ligne": "562300",
+    "minLat": 47.376057,
+    "maxLat": 47.384977,
+    "minLon": 0.697409,
+    "maxLon": 0.721779
+  },
+  {
+    "code_ligne": "563300",
+    "minLat": 47.381308,
+    "maxLat": 47.388116,
+    "minLon": 0.694874,
+    "maxLon": 0.717249
+  },
+  {
+    "code_ligne": "564300",
+    "minLat": 47.373988,
+    "maxLat": 47.387576,
+    "minLon": 0.695925,
+    "maxLon": 0.703795
+  },
+  {
+    "code_ligne": "566000",
+    "minLat": 44.927279,
+    "maxLat": 47.403803,
+    "minLon": -0.501944,
+    "maxLon": 0.841577
+  },
+  {
+    "code_ligne": "568000",
+    "minLat": 44.845454,
+    "maxLat": 44.867193,
+    "minLon": -0.555354,
+    "maxLon": -0.537027
+  },
+  {
+    "code_ligne": "569000",
+    "minLat": 47.908417,
+    "maxLat": 47.934013,
+    "minLon": 1.903071,
+    "maxLon": 1.906828
+  },
+  {
+    "code_ligne": "569300",
+    "minLat": 47.913378,
+    "maxLat": 47.917306,
+    "minLon": 1.898573,
+    "maxLon": 1.905287
+  },
+  {
+    "code_ligne": "569301",
+    "minLat": 47.913245,
+    "maxLat": 47.915039,
+    "minLon": 1.905435,
+    "maxLon": 1.911011
+  },
+  {
+    "code_ligne": "57000",
+    "minLat": 47.756285,
+    "maxLat": 47.909038,
+    "minLon": 6.043627,
+    "maxLon": 6.332017
+  },
+  {
+    "code_ligne": "570000",
+    "minLat": 44.826332,
+    "maxLat": 48.840495,
+    "minLon": -0.555816,
+    "maxLon": 2.427193
+  },
+  {
+    "code_ligne": "570306",
+    "minLat": 48.826425,
+    "maxLat": 48.827302,
+    "minLon": 2.379304,
+    "maxLon": 2.384289
+  },
+  {
+    "code_ligne": "570316",
+    "minLat": 48.595215,
+    "maxLat": 48.596515,
+    "minLon": 2.291996,
+    "maxLon": 2.293664
+  },
+  {
+    "code_ligne": "570321",
+    "minLat": 44.928887,
+    "maxLat": 44.934631,
+    "minLon": -0.477505,
+    "maxLon": -0.473168
+  },
+  {
+    "code_ligne": "570345",
+    "minLat": 47.21451,
+    "maxLat": 47.255594,
+    "minLon": 0.645666,
+    "maxLon": 0.65929
+  },
+  {
+    "code_ligne": "570350",
+    "minLat": 47.02457,
+    "maxLat": 47.05614,
+    "minLon": 0.585741,
+    "maxLon": 0.601084
+  },
+  {
+    "code_ligne": "570360",
+    "minLat": 46.610026,
+    "maxLat": 46.662293,
+    "minLon": 0.349135,
+    "maxLon": 0.354591
+  },
+  {
+    "code_ligne": "570380",
+    "minLat": 45.904612,
+    "maxLat": 45.926548,
+    "minLon": 0.120972,
+    "maxLon": 0.12658
+  },
+  {
+    "code_ligne": "570385",
+    "minLat": 45.827718,
+    "maxLat": 45.862926,
+    "minLon": 0.108341,
+    "maxLon": 0.124418
+  },
+  {
+    "code_ligne": "570390",
+    "minLat": 45.559855,
+    "maxLat": 45.598825,
+    "minLon": 0.063551,
+    "maxLon": 0.098487
+  },
+  {
+    "code_ligne": "570506",
+    "minLat": 48.804753,
+    "maxLat": 48.814495,
+    "minLon": 2.391355,
+    "maxLon": 2.403478
+  },
+  {
+    "code_ligne": "570511",
+    "minLat": 44.884742,
+    "maxLat": 44.924697,
+    "minLon": -0.543314,
+    "maxLon": -0.511815
+  },
+  {
+    "code_ligne": "570606",
+    "minLat": 48.778946,
+    "maxLat": 48.786438,
+    "minLon": 2.410205,
+    "maxLon": 2.415701
+  },
+  {
+    "code_ligne": "570906",
+    "minLat": 48.448168,
+    "maxLat": 48.457212,
+    "minLon": 2.168309,
+    "maxLon": 2.169944
+  },
+  {
+    "code_ligne": "571000",
+    "minLat": 47.016546,
+    "maxLat": 47.15022,
+    "minLon": 0.237376,
+    "maxLon": 0.597976
+  },
+  {
+    "code_ligne": "572000",
+    "minLat": 47.012504,
+    "maxLat": 47.137231,
+    "minLon": 0.278079,
+    "maxLon": 0.323222
+  },
+  {
+    "code_ligne": "573000",
+    "minLat": 46.817862,
+    "maxLat": 47.020842,
+    "minLon": 0.084758,
+    "maxLon": 0.546398
+  },
+  {
+    "code_ligne": "57306",
+    "minLat": 47.752921,
+    "maxLat": 47.756734,
+    "minLon": 6.048018,
+    "maxLon": 6.052395
+  },
+  {
+    "code_ligne": "574000",
+    "minLat": 46.631725,
+    "maxLat": 46.970806,
+    "minLon": -0.003881,
+    "maxLon": 0.357845
+  },
+  {
+    "code_ligne": "578000",
+    "minLat": 46.273513,
+    "maxLat": 46.282337,
+    "minLon": -0.421448,
+    "maxLon": -0.364215
+  },
+  {
+    "code_ligne": "579000",
+    "minLat": 45.597008,
+    "maxLat": 45.702507,
+    "minLon": -0.527361,
+    "maxLon": 0.133195
+  },
+  {
+    "code_ligne": "580000",
+    "minLat": 45.142411,
+    "maxLat": 45.473502,
+    "minLon": -0.392282,
+    "maxLon": -0.146993
+  },
+  {
+    "code_ligne": "581000",
+    "minLat": 45.019547,
+    "maxLat": 45.105294,
+    "minLon": -0.382089,
+    "maxLon": -0.151627
+  },
+  {
+    "code_ligne": "583000",
+    "minLat": 44.900359,
+    "maxLat": 45.028646,
+    "minLon": -0.593684,
+    "maxLon": -0.504592
+  },
+  {
+    "code_ligne": "584000",
+    "minLat": 44.866731,
+    "maxLat": 45.567295,
+    "minLon": -1.118573,
+    "maxLon": -0.577785
+  },
+  {
+    "code_ligne": "585500",
+    "minLat": 44.813345,
+    "maxLat": 44.859311,
+    "minLon": -0.570737,
+    "maxLon": -0.554733
+  },
+  {
+    "code_ligne": "585506",
+    "minLat": 44.85955,
+    "maxLat": 44.873024,
+    "minLon": -0.565511,
+    "maxLon": -0.546216
+  },
+  {
+    "code_ligne": "586000",
+    "minLat": 44.81119,
+    "maxLat": 44.873517,
+    "minLon": -0.628205,
+    "maxLon": -0.589661
+  },
+  {
+    "code_ligne": "587300",
+    "minLat": 44.872456,
+    "maxLat": 44.880324,
+    "minLon": -0.604972,
+    "maxLon": -0.60116
+  },
+  {
+    "code_ligne": "588506",
+    "minLat": 45.218464,
+    "maxLat": 45.222131,
+    "minLon": -0.755127,
+    "maxLon": -0.746106
+  },
+  {
+    "code_ligne": "589500",
+    "minLat": 45.541473,
+    "maxLat": 45.549238,
+    "minLon": -1.06822,
+    "maxLon": -1.048737
+  },
+  {
+    "code_ligne": "590000",
+    "minLat": 44.016604,
+    "maxLat": 47.93626,
+    "minLon": 1.245051,
+    "maxLon": 2.100709
+  },
+  {
+    "code_ligne": "590306",
+    "minLat": 45.840548,
+    "maxLat": 45.844011,
+    "minLon": 1.254886,
+    "maxLon": 1.279747
+  },
+  {
+    "code_ligne": "591000",
+    "minLat": 47.294948,
+    "maxLat": 47.621752,
+    "minLon": 1.324859,
+    "maxLon": 1.760344
+  },
+  {
+    "code_ligne": "593000",
+    "minLat": 47.227402,
+    "maxLat": 47.390267,
+    "minLon": 0.78031,
+    "maxLon": 2.057002
+  },
+  {
+    "code_ligne": "594000",
+    "minLat": 46.797261,
+    "maxLat": 47.354822,
+    "minLon": 0.64819,
+    "maxLon": 1.679102
+  },
+  {
+    "code_ligne": "598000",
+    "minLat": 46.609268,
+    "maxLat": 47.00486,
+    "minLon": 0.597262,
+    "maxLon": 1.496898
+  },
+  {
+    "code_ligne": "59910",
+    "minLat": 48.145013,
+    "maxLat": 48.150018,
+    "minLon": 6.44718,
+    "maxLon": 6.462006
+  },
+  {
+    "code_ligne": "6000",
+    "minLat": 48.173415,
+    "maxLat": 48.950686,
+    "minLon": 3.278915,
+    "maxLon": 4.35661
+  },
+  {
+    "code_ligne": "60000",
+    "minLat": 48.011474,
+    "maxLat": 48.146146,
+    "minLon": 6.453311,
+    "maxLon": 6.608527
+  },
+  {
+    "code_ligne": "600000",
+    "minLat": 46.885201,
+    "maxLat": 47.424824,
+    "minLon": 1.356032,
+    "maxLon": 2.050772
+  },
+  {
+    "code_ligne": "601000",
+    "minLat": 46.524574,
+    "maxLat": 46.624964,
+    "minLon": 0.335559,
+    "maxLon": 1.052355
+  },
+  {
+    "code_ligne": "603000",
+    "minLat": 46.472765,
+    "maxLat": 46.624591,
+    "minLon": 1.036435,
+    "maxLon": 1.065539
+  },
+  {
+    "code_ligne": "604000",
+    "minLat": 46.117661,
+    "maxLat": 46.527265,
+    "minLon": 0.408174,
+    "maxLon": 1.428544
+  },
+  {
+    "code_ligne": "606000",
+    "minLat": 45.841149,
+    "maxLat": 46.207048,
+    "minLon": 1.030371,
+    "maxLon": 1.280466
+  },
+  {
+    "code_ligne": "606606",
+    "minLat": 45.869075,
+    "maxLat": 45.884961,
+    "minLon": 1.26506,
+    "maxLon": 1.279937
+  },
+  {
+    "code_ligne": "607000",
+    "minLat": 46.147413,
+    "maxLat": 46.221209,
+    "minLon": 0.218117,
+    "maxLon": 0.534582
+  },
+  {
+    "code_ligne": "608000",
+    "minLat": 45.889354,
+    "maxLat": 46.021595,
+    "minLon": 0.578811,
+    "maxLon": 0.668671
+  },
+  {
+    "code_ligne": "610000",
+    "minLat": 45.65083,
+    "maxLat": 45.89492,
+    "minLon": 0.171413,
+    "maxLon": 1.278184
+  },
+  {
+    "code_ligne": "611000",
+    "minLat": 45.194109,
+    "maxLat": 45.823615,
+    "minLon": 0.667906,
+    "maxLon": 1.258022
+  },
+  {
+    "code_ligne": "613000",
+    "minLat": 45.150553,
+    "maxLat": 45.688962,
+    "minLon": 1.177797,
+    "maxLon": 1.511936
+  },
+  {
+    "code_ligne": "615000",
+    "minLat": 45.609043,
+    "maxLat": 45.867543,
+    "minLon": 0.805398,
+    "maxLon": 1.030067
+  },
+  {
+    "code_ligne": "616000",
+    "minLat": 45.338245,
+    "maxLat": 45.408469,
+    "minLon": 0.904143,
+    "maxLon": 1.052915
+  },
+  {
+    "code_ligne": "617000",
+    "minLat": 45.61745,
+    "maxLat": 45.670944,
+    "minLon": 0.314915,
+    "maxLon": 0.448045
+  },
+  {
+    "code_ligne": "62000",
+    "minLat": 48.111944,
+    "maxLat": 48.281102,
+    "minLon": 6.531895,
+    "maxLon": 6.965369
+  },
+  {
+    "code_ligne": "621000",
+    "minLat": 45.004734,
+    "maxLat": 45.258395,
+    "minLon": -0.130142,
+    "maxLon": 1.761836
+  },
+  {
+    "code_ligne": "628000",
+    "minLat": 44.819612,
+    "maxLat": 44.87879,
+    "minLon": 0.988208,
+    "maxLon": 1.225469
+  },
+  {
+    "code_ligne": "629000",
+    "minLat": 44.834055,
+    "maxLat": 44.923984,
+    "minLon": -0.235053,
+    "maxLon": 0.901182
+  },
+  {
+    "code_ligne": "63000",
+    "minLat": 48.072632,
+    "maxLat": 48.185488,
+    "minLon": 6.753681,
+    "maxLon": 6.891084
+  },
+  {
+    "code_ligne": "631000",
+    "minLat": 44.204308,
+    "maxLat": 45.136632,
+    "minLon": 0.632751,
+    "maxLon": 1.050589
+  },
+  {
+    "code_ligne": "632000",
+    "minLat": 44.488538,
+    "maxLat": 44.498532,
+    "minLon": 0.944093,
+    "maxLon": 0.985903
+  },
+  {
+    "code_ligne": "634000",
+    "minLat": 44.377247,
+    "maxLat": 44.403033,
+    "minLon": 0.592856,
+    "maxLon": 0.804435
+  },
+  {
+    "code_ligne": "637000",
+    "minLat": 44.830198,
+    "maxLat": 44.842531,
+    "minLon": -0.542781,
+    "maxLon": -0.528789
+  },
+  {
+    "code_ligne": "637100",
+    "minLat": 44.834455,
+    "maxLat": 44.837127,
+    "minLon": -0.54919,
+    "maxLon": -0.540374
+  },
+  {
+    "code_ligne": "637506",
+    "minLat": 44.833974,
+    "maxLat": 44.858233,
+    "minLon": -0.565359,
+    "maxLon": -0.54597
+  },
+  {
+    "code_ligne": "64000",
+    "minLat": 48.18219,
+    "maxLat": 48.218937,
+    "minLon": 6.939862,
+    "maxLon": 7.002518
+  },
+  {
+    "code_ligne": "640000",
+    "minLat": 43.178813,
+    "maxLat": 44.825923,
+    "minLon": -0.559578,
+    "maxLon": 3.678836
+  },
+  {
+    "code_ligne": "640100",
+    "minLat": 43.320349,
+    "maxLat": 43.392204,
+    "minLon": 3.106105,
+    "maxLon": 3.147967
+  },
+  {
+    "code_ligne": "640306",
+    "minLat": 44.813241,
+    "maxLat": 44.816658,
+    "minLon": -0.56485,
+    "maxLon": -0.559664
+  },
+  {
+    "code_ligne": "640311",
+    "minLat": 43.623726,
+    "maxLat": 43.625696,
+    "minLon": 1.446881,
+    "maxLon": 1.453919
+  },
+  {
+    "code_ligne": "640640",
+    "minLat": 43.32399,
+    "maxLat": 43.326622,
+    "minLon": 3.256757,
+    "maxLon": 3.266914
+  },
+  {
+    "code_ligne": "641000",
+    "minLat": 44.509773,
+    "maxLat": 44.554825,
+    "minLon": -0.294696,
+    "maxLon": -0.256858
+  },
+  {
+    "code_ligne": "642000",
+    "minLat": 43.885098,
+    "maxLat": 44.508898,
+    "minLon": -0.499573,
+    "maxLon": 0.157954
+  },
+  {
+    "code_ligne": "643000",
+    "minLat": 43.648271,
+    "maxLat": 44.253115,
+    "minLon": -0.079114,
+    "maxLon": 0.389587
+  },
+  {
+    "code_ligne": "644000",
+    "minLat": 44.058015,
+    "maxLat": 44.133669,
+    "minLon": 0.245359,
+    "maxLon": 0.338261
+  },
+  {
+    "code_ligne": "647000",
+    "minLat": 43.635756,
+    "maxLat": 44.176121,
+    "minLon": 0.589214,
+    "maxLon": 0.671942
+  },
+  {
+    "code_ligne": "648000",
+    "minLat": 43.569453,
+    "maxLat": 43.669498,
+    "minLon": 0.596403,
+    "maxLon": 1.426892
+  },
+  {
+    "code_ligne": "649000",
+    "minLat": 43.876865,
+    "maxLat": 44.042633,
+    "minLon": 0.981587,
+    "maxLon": 1.144787
+  },
+  {
+    "code_ligne": "65000",
+    "minLat": 48.201289,
+    "maxLat": 48.560085,
+    "minLon": 6.445896,
+    "maxLon": 6.759023
+  },
+  {
+    "code_ligne": "650000",
+    "minLat": 43.07471,
+    "maxLat": 43.608221,
+    "minLon": -1.46931,
+    "maxLon": 1.459104
+  },
+  {
+    "code_ligne": "6511",
+    "minLat": 48.208418,
+    "maxLat": 48.213422,
+    "minLon": 3.272215,
+    "maxLon": 3.277593
+  },
+  {
+    "code_ligne": "652000",
+    "minLat": 43.069142,
+    "maxLat": 44.037245,
+    "minLon": -0.908827,
+    "maxLon": 0.154667
+  },
+  {
+    "code_ligne": "653000",
+    "minLat": 43.657618,
+    "maxLat": 43.755334,
+    "minLon": -0.613662,
+    "maxLon": -0.582586
+  },
+  {
+    "code_ligne": "654000",
+    "minLat": 43.693171,
+    "maxLat": 43.884586,
+    "minLon": -1.066446,
+    "maxLon": -0.504965
+  },
+  {
+    "code_ligne": "655000",
+    "minLat": 43.338096,
+    "maxLat": 44.825923,
+    "minLon": -1.802912,
+    "maxLon": -0.555978
+  },
+  {
+    "code_ligne": "656000",
+    "minLat": 43.525157,
+    "maxLat": 43.720501,
+    "minLon": -1.0663,
+    "maxLon": -0.914051
+  },
+  {
+    "code_ligne": "657000",
+    "minLat": 44.621913,
+    "maxLat": 44.65965,
+    "minLon": -1.168036,
+    "maxLon": -0.997363
+  },
+  {
+    "code_ligne": "658000",
+    "minLat": 43.480403,
+    "maxLat": 43.498161,
+    "minLon": -1.4914,
+    "maxLon": -1.472316
+  },
+  {
+    "code_ligne": "660000",
+    "minLat": 43.167928,
+    "maxLat": 43.485715,
+    "minLon": -1.474492,
+    "maxLon": -1.238042
+  },
+  {
+    "code_ligne": "661000",
+    "minLat": 43.173994,
+    "maxLat": 43.233995,
+    "minLon": -1.347568,
+    "maxLon": -1.301636
+  },
+  {
+    "code_ligne": "662000",
+    "minLat": 43.519411,
+    "maxLat": 43.523349,
+    "minLon": -0.904893,
+    "maxLon": -0.903012
+  },
+  {
+    "code_ligne": "664000",
+    "minLat": 42.75273,
+    "maxLat": 43.292227,
+    "minLon": -0.622041,
+    "maxLon": -0.372694
+  },
+  {
+    "code_ligne": "665000",
+    "minLat": 43.100395,
+    "maxLat": 43.145983,
+    "minLon": -0.457304,
+    "maxLon": -0.433673
+  },
+  {
+    "code_ligne": "666000",
+    "minLat": 42.953253,
+    "maxLat": 43.101114,
+    "minLon": -0.097795,
+    "maxLon": -0.030298
+  },
+  {
+    "code_ligne": "667000",
+    "minLat": 42.906076,
+    "maxLat": 43.114054,
+    "minLon": 0.35963,
+    "maxLon": 0.392055
+  },
+  {
+    "code_ligne": "668000",
+    "minLat": 42.795606,
+    "maxLat": 43.076742,
+    "minLon": 0.57898,
+    "maxLon": 0.656616
+  },
+  {
+    "code_ligne": "669000",
+    "minLat": 42.419968,
+    "maxLat": 42.593209,
+    "minLon": 1.905833,
+    "maxLon": 2.370448
+  },
+  {
+    "code_ligne": "67000",
+    "minLat": 48.28159,
+    "maxLat": 48.588162,
+    "minLon": 6.509212,
+    "maxLon": 6.949719
+  },
+  {
+    "code_ligne": "670000",
+    "minLat": 42.986951,
+    "maxLat": 43.159731,
+    "minLon": 0.952081,
+    "maxLon": 1.139293
+  },
+  {
+    "code_ligne": "672000",
+    "minLat": 42.446904,
+    "maxLat": 43.524114,
+    "minLon": 1.384422,
+    "maxLon": 1.914509
+  },
+  {
+    "code_ligne": "676000",
+    "minLat": 42.768862,
+    "maxLat": 43.217663,
+    "minLon": 2.181444,
+    "maxLon": 2.866104
+  },
+  {
+    "code_ligne": "677000",
+    "minLat": 42.427874,
+    "maxLat": 43.182451,
+    "minLon": 2.86582,
+    "maxLon": 3.167787
+  },
+  {
+    "code_ligne": "677306",
+    "minLat": 43.176419,
+    "maxLat": 43.180793,
+    "minLon": 2.983331,
+    "maxLon": 2.989755
+  },
+  {
+    "code_ligne": "677506",
+    "minLat": 43.020777,
+    "maxLat": 43.026231,
+    "minLon": 3.040394,
+    "maxLon": 3.056984
+  },
+  {
+    "code_ligne": "678300",
+    "minLat": 42.513181,
+    "maxLat": 42.516123,
+    "minLon": 3.109118,
+    "maxLon": 3.113459
+  },
+  {
+    "code_ligne": "678500",
+    "minLat": 42.516148,
+    "maxLat": 42.51717,
+    "minLon": 3.108514,
+    "maxLon": 3.112951
+  },
+  {
+    "code_ligne": "679000",
+    "minLat": 42.588345,
+    "maxLat": 42.692922,
+    "minLon": 2.368552,
+    "maxLon": 2.880684
+  },
+  {
+    "code_ligne": "679305",
+    "minLat": 42.656844,
+    "maxLat": 42.683265,
+    "minLon": 2.814164,
+    "maxLon": 2.830989
+  },
+  {
+    "code_ligne": "680000",
+    "minLat": 42.494045,
+    "maxLat": 42.600067,
+    "minLon": 2.727969,
+    "maxLon": 2.96421
+  },
+  {
+    "code_ligne": "681000",
+    "minLat": 46.945169,
+    "maxLat": 47.081327,
+    "minLon": 2.945763,
+    "maxLon": 3.010727
+  },
+  {
+    "code_ligne": "682000",
+    "minLat": 47.09536,
+    "maxLat": 47.81085,
+    "minLon": 2.355477,
+    "maxLon": 2.442314
+  },
+  {
+    "code_ligne": "683000",
+    "minLat": 47.937049,
+    "maxLat": 48.270001,
+    "minLon": 1.899981,
+    "maxLon": 2.391726
+  },
+  {
+    "code_ligne": "684000",
+    "minLat": 48.069969,
+    "maxLat": 48.435351,
+    "minLon": 2.103791,
+    "maxLon": 2.422945
+  },
+  {
+    "code_ligne": "685000",
+    "minLat": 47.65825,
+    "maxLat": 47.698879,
+    "minLon": 2.559116,
+    "maxLon": 2.636757
+  },
+  {
+    "code_ligne": "686000",
+    "minLat": 47.921565,
+    "maxLat": 48.018568,
+    "minLon": 1.901738,
+    "maxLon": 2.740437
+  },
+  {
+    "code_ligne": "687000",
+    "minLat": 47.699262,
+    "maxLat": 47.910334,
+    "minLon": 1.91682,
+    "maxLon": 2.636587
+  },
+  {
+    "code_ligne": "688100",
+    "minLat": 48.009062,
+    "maxLat": 48.018564,
+    "minLon": 2.723488,
+    "maxLon": 2.727742
+  },
+  {
+    "code_ligne": "689000",
+    "minLat": 47.096266,
+    "maxLat": 47.197284,
+    "minLon": 2.483343,
+    "maxLon": 2.581737
+  },
+  {
+    "code_ligne": "690000",
+    "minLat": 46.930538,
+    "maxLat": 47.211409,
+    "minLon": 2.098131,
+    "maxLon": 3.071602
+  },
+  {
+    "code_ligne": "690306",
+    "minLat": 47.086789,
+    "maxLat": 47.095289,
+    "minLon": 2.311569,
+    "maxLon": 2.382676
+  },
+  {
+    "code_ligne": "691000",
+    "minLat": 46.948521,
+    "maxLat": 46.97691,
+    "minLon": 1.985349,
+    "maxLon": 2.014444
+  },
+  {
+    "code_ligne": "694000",
+    "minLat": 43.508291,
+    "maxLat": 43.597557,
+    "minLon": 3.46801,
+    "maxLon": 3.87723
+  },
+  {
+    "code_ligne": "695000",
+    "minLat": 44.949013,
+    "maxLat": 47.091861,
+    "minLon": 2.244931,
+    "maxLon": 2.612903
+  },
+  {
+    "code_ligne": "695606",
+    "minLat": 46.358124,
+    "maxLat": 46.367271,
+    "minLon": 2.593345,
+    "maxLon": 2.606211
+  },
+  {
+    "code_ligne": "696000",
+    "minLat": 46.341047,
+    "maxLat": 46.814073,
+    "minLon": 1.708433,
+    "maxLon": 2.593736
+  },
+  {
+    "code_ligne": "698000",
+    "minLat": 46.430427,
+    "maxLat": 46.594972,
+    "minLon": 1.819241,
+    "maxLon": 1.980421
+  },
+  {
+    "code_ligne": "699000",
+    "minLat": 46.323355,
+    "maxLat": 46.350295,
+    "minLon": 2.222682,
+    "maxLon": 2.271662
+  },
+  {
+    "code_ligne": "7000",
+    "minLat": 48.761609,
+    "maxLat": 48.779951,
+    "minLon": 3.981745,
+    "maxLon": 4.073086
+  },
+  {
+    "code_ligne": "70000",
+    "minLat": 48.559631,
+    "maxLat": 49.090314,
+    "minLon": 2.452065,
+    "maxLon": 7.741413
+  },
+  {
+    "code_ligne": "701000",
+    "minLat": 44.363217,
+    "maxLat": 44.582527,
+    "minLon": 2.080674,
+    "maxLon": 2.588177
+  },
+  {
+    "code_ligne": "702000",
+    "minLat": 46.045775,
+    "maxLat": 46.374927,
+    "minLon": 1.479751,
+    "maxLon": 2.591902
+  },
+  {
+    "code_ligne": "703000",
+    "minLat": 45.957071,
+    "maxLat": 46.087549,
+    "minLon": 1.670721,
+    "maxLon": 1.770696
+  },
+  {
+    "code_ligne": "70331",
+    "minLat": 48.666061,
+    "maxLat": 48.675392,
+    "minLon": 5.825884,
+    "maxLon": 5.838732
+  },
+  {
+    "code_ligne": "70336",
+    "minLat": 48.75879,
+    "maxLat": 48.765323,
+    "minLon": 6.10041,
+    "maxLon": 6.132158
+  },
+  {
+    "code_ligne": "70346",
+    "minLat": 48.600303,
+    "maxLat": 48.601519,
+    "minLon": 7.728126,
+    "maxLon": 7.734105
+  },
+  {
+    "code_ligne": "704000",
+    "minLat": 46.175028,
+    "maxLat": 46.194266,
+    "minLon": 1.867269,
+    "maxLon": 1.881706
+  },
+  {
+    "code_ligne": "705000",
+    "minLat": 46.29523,
+    "maxLat": 46.569654,
+    "minLon": 2.605295,
+    "maxLon": 3.33789
+  },
+  {
+    "code_ligne": "707000",
+    "minLat": 46.101543,
+    "maxLat": 46.298989,
+    "minLon": 2.747942,
+    "maxLon": 3.206254
+  },
+  {
+    "code_ligne": "709000",
+    "minLat": 45.86789,
+    "maxLat": 46.222834,
+    "minLon": 2.786864,
+    "maxLon": 2.998392
+  },
+  {
+    "code_ligne": "70908",
+    "minLat": 48.871731,
+    "maxLat": 48.877398,
+    "minLon": 2.596871,
+    "maxLon": 2.634754
+  },
+  {
+    "code_ligne": "70953",
+    "minLat": 48.66646,
+    "maxLat": 48.677205,
+    "minLon": 5.817148,
+    "maxLon": 5.838693
+  },
+  {
+    "code_ligne": "71000",
+    "minLat": 48.859455,
+    "maxLat": 48.90297,
+    "minLon": 2.804141,
+    "maxLon": 2.906142
+  },
+  {
+    "code_ligne": "710000",
+    "minLat": 45.579394,
+    "maxLat": 45.643009,
+    "minLon": 2.698534,
+    "maxLon": 2.805844
+  },
+  {
+    "code_ligne": "711000",
+    "minLat": 45.625762,
+    "maxLat": 45.884765,
+    "minLon": 2.461253,
+    "maxLon": 3.097808
+  },
+  {
+    "code_ligne": "712000",
+    "minLat": 45.558279,
+    "maxLat": 46.12477,
+    "minLon": 2.031613,
+    "maxLon": 2.308714
+  },
+  {
+    "code_ligne": "713000",
+    "minLat": 45.529362,
+    "maxLat": 45.888339,
+    "minLon": 1.342815,
+    "maxLon": 2.459741
+  },
+  {
+    "code_ligne": "716000",
+    "minLat": 45.249824,
+    "maxLat": 45.529098,
+    "minLon": 1.762137,
+    "maxLon": 2.159847
+  },
+  {
+    "code_ligne": "718000",
+    "minLat": 43.616732,
+    "maxLat": 45.15011,
+    "minLon": 1.45081,
+    "maxLon": 2.104791
+  },
+  {
+    "code_ligne": "719000",
+    "minLat": 44.902933,
+    "maxLat": 44.985531,
+    "minLon": 1.477241,
+    "maxLon": 2.292247
+  },
+  {
+    "code_ligne": "72000",
+    "minLat": 48.968821,
+    "maxLat": 49.305334,
+    "minLon": 2.967974,
+    "maxLon": 3.613109
+  },
+  {
+    "code_ligne": "720000",
+    "minLat": 44.602551,
+    "maxLat": 45.382904,
+    "minLon": 2.037612,
+    "maxLon": 3.309692
+  },
+  {
+    "code_ligne": "721000",
+    "minLat": 45.125392,
+    "maxLat": 45.407958,
+    "minLon": 2.496481,
+    "maxLon": 2.978574
+  },
+  {
+    "code_ligne": "722000",
+    "minLat": 43.332666,
+    "maxLat": 45.12646,
+    "minLon": 2.963918,
+    "maxLon": 3.307188
+  },
+  {
+    "code_ligne": "723000",
+    "minLat": 44.470517,
+    "maxLat": 44.593575,
+    "minLon": 3.248157,
+    "maxLon": 3.903976
+  },
+  {
+    "code_ligne": "72311",
+    "minLat": 49.040947,
+    "maxLat": 49.049437,
+    "minLon": 3.052848,
+    "maxLon": 3.059828
+  },
+  {
+    "code_ligne": "724000",
+    "minLat": 44.438076,
+    "maxLat": 44.584186,
+    "minLon": 1.437709,
+    "maxLon": 2.059465
+  },
+  {
+    "code_ligne": "725000",
+    "minLat": 44.324338,
+    "maxLat": 44.404245,
+    "minLon": 2.581394,
+    "maxLon": 3.056913
+  },
+  {
+    "code_ligne": "727000",
+    "minLat": 43.964465,
+    "maxLat": 43.995678,
+    "minLon": 3.011177,
+    "maxLon": 3.172479
+  },
+  {
+    "code_ligne": "728000",
+    "minLat": 43.944304,
+    "maxLat": 43.966833,
+    "minLon": 2.893575,
+    "maxLon": 3.026549
+  },
+  {
+    "code_ligne": "731000",
+    "minLat": 43.413741,
+    "maxLat": 43.464199,
+    "minLon": 3.688374,
+    "maxLon": 3.709452
+  },
+  {
+    "code_ligne": "732000",
+    "minLat": 43.315887,
+    "maxLat": 43.709168,
+    "minLon": 3.332627,
+    "maxLon": 3.470243
+  },
+  {
+    "code_ligne": "733000",
+    "minLat": 43.311253,
+    "maxLat": 43.334945,
+    "minLon": 3.051534,
+    "maxLon": 3.137332
+  },
+  {
+    "code_ligne": "734000",
+    "minLat": 43.182599,
+    "maxLat": 43.314995,
+    "minLon": 2.870153,
+    "maxLon": 2.998268
+  },
+  {
+    "code_ligne": "736000",
+    "minLat": 43.311697,
+    "maxLat": 44.366637,
+    "minLon": 1.889646,
+    "maxLon": 2.574506
+  },
+  {
+    "code_ligne": "737000",
+    "minLat": 43.486384,
+    "maxLat": 43.604274,
+    "minLon": 2.222548,
+    "maxLon": 3.147042
+  },
+  {
+    "code_ligne": "738000",
+    "minLat": 43.590512,
+    "maxLat": 43.882867,
+    "minLon": 1.458723,
+    "maxLon": 2.142189
+  },
+  {
+    "code_ligne": "74000",
+    "minLat": 49.04219,
+    "maxLat": 49.258069,
+    "minLon": 3.969914,
+    "maxLon": 4.051879
+  },
+  {
+    "code_ligne": "741000",
+    "minLat": 43.91445,
+    "maxLat": 43.931436,
+    "minLon": 1.941827,
+    "maxLon": 2.131505
+  },
+  {
+    "code_ligne": "742000",
+    "minLat": 43.91168,
+    "maxLat": 43.94626,
+    "minLon": 2.132843,
+    "maxLon": 2.208861
+  },
+  {
+    "code_ligne": "74306",
+    "minLat": 49.038938,
+    "maxLat": 49.042941,
+    "minLon": 3.976939,
+    "maxLon": 3.980388
+  },
+  {
+    "code_ligne": "745000",
+    "minLat": 48.013929,
+    "maxLat": 48.723674,
+    "minLon": 2.350838,
+    "maxLon": 2.74057
+  },
+  {
+    "code_ligne": "745306",
+    "minLat": 48.714498,
+    "maxLat": 48.718938,
+    "minLon": 2.426031,
+    "maxLon": 2.435753
+  },
+  {
+    "code_ligne": "746000",
+    "minLat": 48.376153,
+    "maxLat": 48.608918,
+    "minLon": 2.459366,
+    "maxLon": 2.934749
+  },
+  {
+    "code_ligne": "747000",
+    "minLat": 48.27445,
+    "maxLat": 48.332532,
+    "minLon": 2.39558,
+    "maxLon": 2.684982
+  },
+  {
+    "code_ligne": "747306",
+    "minLat": 48.270936,
+    "maxLat": 48.274586,
+    "minLon": 2.391973,
+    "maxLon": 2.399022
+  },
+  {
+    "code_ligne": "748000",
+    "minLat": 47.924621,
+    "maxLat": 48.199502,
+    "minLon": 2.744595,
+    "maxLon": 3.267314
+  },
+  {
+    "code_ligne": "749000",
+    "minLat": 47.611771,
+    "maxLat": 47.946399,
+    "minLon": 2.981232,
+    "maxLon": 3.311549
+  },
+  {
+    "code_ligne": "750000",
+    "minLat": 45.434801,
+    "maxLat": 48.379039,
+    "minLon": 2.633333,
+    "maxLon": 4.83393
+  },
+  {
+    "code_ligne": "750306",
+    "minLat": 46.935076,
+    "maxLat": 46.936515,
+    "minLon": 3.067954,
+    "maxLon": 3.071817
+  },
+  {
+    "code_ligne": "750311",
+    "minLat": 45.642121,
+    "maxLat": 45.644208,
+    "minLon": 4.242202,
+    "maxLon": 4.250887
+  },
+  {
+    "code_ligne": "750316",
+    "minLat": 45.596659,
+    "maxLat": 45.601013,
+    "minLon": 4.778892,
+    "maxLon": 4.781814
+  },
+  {
+    "code_ligne": "750521",
+    "minLat": 46.054836,
+    "maxLat": 46.058083,
+    "minLon": 4.053872,
+    "maxLon": 4.062357
+  },
+  {
+    "code_ligne": "750670",
+    "minLat": 45.533258,
+    "maxLat": 45.556235,
+    "minLon": 4.293512,
+    "maxLon": 4.312484
+  },
+  {
+    "code_ligne": "750672",
+    "minLat": 45.525534,
+    "maxLat": 45.53046,
+    "minLon": 4.273708,
+    "maxLon": 4.283889
+  },
+  {
+    "code_ligne": "750674",
+    "minLat": 45.524519,
+    "maxLat": 45.528108,
+    "minLon": 4.277453,
+    "maxLon": 4.283218
+  },
+  {
+    "code_ligne": "751000",
+    "minLat": 47.784823,
+    "maxLat": 47.796045,
+    "minLon": 3.556082,
+    "maxLon": 3.585001
+  },
+  {
+    "code_ligne": "752000",
+    "minLat": 43.353786,
+    "maxLat": 48.637767,
+    "minLon": 2.565507,
+    "maxLon": 5.353481
+  },
+  {
+    "code_ligne": "752100",
+    "minLat": 48.569153,
+    "maxLat": 48.774617,
+    "minLon": 2.43627,
+    "maxLon": 2.753523
+  },
+  {
+    "code_ligne": "752305",
+    "minLat": 48.749892,
+    "maxLat": 48.759844,
+    "minLon": 2.458507,
+    "maxLon": 2.471679
+  },
+  {
+    "code_ligne": "752308",
+    "minLat": 48.671642,
+    "maxLat": 48.709964,
+    "minLon": 2.72462,
+    "maxLon": 2.753692
+  },
+  {
+    "code_ligne": "752321",
+    "minLat": 48.382641,
+    "maxLat": 48.390158,
+    "minLon": 2.980661,
+    "maxLon": 2.988197
+  },
+  {
+    "code_ligne": "752323",
+    "minLat": 48.386867,
+    "maxLat": 48.387672,
+    "minLon": 2.988189,
+    "maxLon": 2.991798
+  },
+  {
+    "code_ligne": "752330",
+    "minLat": 45.789054,
+    "maxLat": 45.893609,
+    "minLon": 4.860348,
+    "maxLon": 4.891479
+  },
+  {
+    "code_ligne": "752340",
+    "minLat": 45.638613,
+    "maxLat": 45.659372,
+    "minLon": 5.073446,
+    "maxLon": 5.097828
+  },
+  {
+    "code_ligne": "752342",
+    "minLat": 44.985107,
+    "maxLat": 45.009066,
+    "minLon": 4.970489,
+    "maxLon": 4.977344
+  },
+  {
+    "code_ligne": "752350",
+    "minLat": 45.640435,
+    "maxLat": 45.657278,
+    "minLon": 5.057174,
+    "maxLon": 5.085228
+  },
+  {
+    "code_ligne": "752352",
+    "minLat": 44.733446,
+    "maxLat": 44.740789,
+    "minLon": 4.963498,
+    "maxLon": 4.985587
+  },
+  {
+    "code_ligne": "752354",
+    "minLat": 44.279913,
+    "maxLat": 44.30665,
+    "minLon": 4.701224,
+    "maxLon": 4.705042
+  },
+  {
+    "code_ligne": "752356",
+    "minLat": 44.28005,
+    "maxLat": 44.294278,
+    "minLon": 4.699602,
+    "maxLon": 4.701481
+  },
+  {
+    "code_ligne": "752358",
+    "minLat": 43.793682,
+    "maxLat": 43.79952,
+    "minLon": 5.052654,
+    "maxLon": 5.054578
+  },
+  {
+    "code_ligne": "753000",
+    "minLat": 47.448376,
+    "maxLat": 47.960858,
+    "minLon": 3.260541,
+    "maxLon": 3.680902
+  },
+  {
+    "code_ligne": "753306",
+    "minLat": 47.958613,
+    "maxLat": 47.968476,
+    "minLon": 3.518318,
+    "maxLon": 3.540434
+  },
+  {
+    "code_ligne": "754000",
+    "minLat": 47.007015,
+    "maxLat": 47.455233,
+    "minLon": 3.159956,
+    "maxLon": 3.501785
+  },
+  {
+    "code_ligne": "755000",
+    "minLat": 47.009031,
+    "maxLat": 47.673436,
+    "minLon": 3.676453,
+    "maxLon": 4.352263
+  },
+  {
+    "code_ligne": "757000",
+    "minLat": 47.457844,
+    "maxLat": 47.543086,
+    "minLon": 4.177582,
+    "maxLon": 4.470978
+  },
+  {
+    "code_ligne": "76000",
+    "minLat": 48.93224,
+    "maxLat": 49.0102,
+    "minLon": 2.491536,
+    "maxLon": 2.570837
+  },
+  {
+    "code_ligne": "760000",
+    "minLat": 46.758232,
+    "maxLat": 47.007051,
+    "minLon": 3.14338,
+    "maxLon": 4.74943
+  },
+  {
+    "code_ligne": "760306",
+    "minLat": 46.904316,
+    "maxLat": 46.931678,
+    "minLon": 4.738334,
+    "maxLon": 4.764375
+  },
+  {
+    "code_ligne": "760311",
+    "minLat": 46.915012,
+    "maxLat": 46.917845,
+    "minLon": 4.732637,
+    "maxLon": 4.739086
+  },
+  {
+    "code_ligne": "761000",
+    "minLat": 46.867391,
+    "maxLat": 47.008259,
+    "minLon": 4.188871,
+    "maxLon": 4.343441
+  },
+  {
+    "code_ligne": "762000",
+    "minLat": 46.537654,
+    "maxLat": 47.464741,
+    "minLon": 3.499252,
+    "maxLon": 3.780916
+  },
+  {
+    "code_ligne": "763000",
+    "minLat": 47.050868,
+    "maxLat": 47.106291,
+    "minLon": 3.723346,
+    "maxLon": 3.92842
+  },
+  {
+    "code_ligne": "764000",
+    "minLat": 47.914941,
+    "maxLat": 47.980411,
+    "minLon": 3.708097,
+    "maxLon": 3.758537
+  },
+  {
+    "code_ligne": "767300",
+    "minLat": 46.758445,
+    "maxLat": 46.768492,
+    "minLon": 4.492279,
+    "maxLon": 4.500738
+  },
+  {
+    "code_ligne": "768300",
+    "minLat": 47.645948,
+    "maxLat": 47.693163,
+    "minLon": 4.073184,
+    "maxLon": 4.265704
+  },
+  {
+    "code_ligne": "769000",
+    "minLat": 46.020891,
+    "maxLat": 46.762607,
+    "minLon": 4.028052,
+    "maxLon": 4.472395
+  },
+  {
+    "code_ligne": "770000",
+    "minLat": 46.447294,
+    "maxLat": 46.555902,
+    "minLon": 3.338276,
+    "maxLon": 4.112793
+  },
+  {
+    "code_ligne": "770606",
+    "minLat": 46.544075,
+    "maxLat": 46.55133,
+    "minLon": 3.345852,
+    "maxLon": 3.355794
+  },
+  {
+    "code_ligne": "772000",
+    "minLat": 46.773502,
+    "maxLat": 46.785027,
+    "minLon": 4.750452,
+    "maxLon": 4.84268
+  },
+  {
+    "code_ligne": "774000",
+    "minLat": 46.147396,
+    "maxLat": 46.160353,
+    "minLon": 4.106403,
+    "maxLon": 4.168713
+  },
+  {
+    "code_ligne": "775000",
+    "minLat": 45.595158,
+    "maxLat": 46.44698,
+    "minLon": 4.113797,
+    "maxLon": 4.775393
+  },
+  {
+    "code_ligne": "775311",
+    "minLat": 45.600881,
+    "maxLat": 45.60396,
+    "minLon": 4.772284,
+    "maxLon": 4.77968
+  },
+  {
+    "code_ligne": "776000",
+    "minLat": 46.114846,
+    "maxLat": 46.148802,
+    "minLon": 4.597185,
+    "maxLon": 4.729382
+  },
+  {
+    "code_ligne": "777300",
+    "minLat": 46.258918,
+    "maxLat": 46.272716,
+    "minLon": 4.815682,
+    "maxLon": 4.891676
+  },
+  {
+    "code_ligne": "778300",
+    "minLat": 46.260063,
+    "maxLat": 46.280076,
+    "minLon": 4.781021,
+    "maxLon": 4.790674
+  },
+  {
+    "code_ligne": "779300",
+    "minLat": 46.269178,
+    "maxLat": 46.28309,
+    "minLon": 4.791465,
+    "maxLon": 4.804303
+  },
+  {
+    "code_ligne": "78000",
+    "minLat": 48.670618,
+    "maxLat": 48.731513,
+    "minLon": 6.171331,
+    "maxLon": 6.202795
+  },
+  {
+    "code_ligne": "780000",
+    "minLat": 45.444377,
+    "maxLat": 45.456756,
+    "minLon": 4.390395,
+    "maxLon": 4.419338
+  },
+  {
+    "code_ligne": "782000",
+    "minLat": 45.600351,
+    "maxLat": 45.847713,
+    "minLon": 4.094862,
+    "maxLon": 4.825582
+  },
+  {
+    "code_ligne": "782310",
+    "minLat": 45.757408,
+    "maxLat": 45.762379,
+    "minLon": 4.768731,
+    "maxLon": 4.770757
+  },
+  {
+    "code_ligne": "783000",
+    "minLat": 45.832632,
+    "maxLat": 46.022896,
+    "minLon": 4.086854,
+    "maxLon": 4.798454
+  },
+  {
+    "code_ligne": "784000",
+    "minLat": 45.510179,
+    "maxLat": 45.887735,
+    "minLon": 3.116834,
+    "maxLon": 4.281261
+  },
+  {
+    "code_ligne": "785000",
+    "minLat": 45.142918,
+    "maxLat": 46.195532,
+    "minLon": 3.412245,
+    "maxLon": 3.737152
+  },
+  {
+    "code_ligne": "786000",
+    "minLat": 46.13118,
+    "maxLat": 46.140229,
+    "minLon": 3.427554,
+    "maxLon": 3.468871
+  },
+  {
+    "code_ligne": "787000",
+    "minLat": 45.887689,
+    "maxLat": 46.119429,
+    "minLon": 3.120634,
+    "maxLon": 3.443298
+  },
+  {
+    "code_ligne": "789000",
+    "minLat": 46.102682,
+    "maxLat": 46.388678,
+    "minLon": 3.20507,
+    "maxLon": 3.356021
+  },
+  {
+    "code_ligne": "790000",
+    "minLat": 43.846724,
+    "maxLat": 46.206397,
+    "minLon": 3.09791,
+    "maxLon": 4.384812
+  },
+  {
+    "code_ligne": "790305",
+    "minLat": 46.199891,
+    "maxLat": 46.20159,
+    "minLon": 3.434685,
+    "maxLon": 3.441537
+  },
+  {
+    "code_ligne": "790611",
+    "minLat": 45.835607,
+    "maxLat": 45.841042,
+    "minLon": 3.123966,
+    "maxLon": 3.143393
+  },
+  {
+    "code_ligne": "792000",
+    "minLat": 44.731773,
+    "maxLat": 45.051542,
+    "minLon": 3.816784,
+    "maxLon": 3.933552
+  },
+  {
+    "code_ligne": "793606",
+    "minLat": 45.883542,
+    "maxLat": 45.896931,
+    "minLon": 3.062573,
+    "maxLon": 3.120755
+  },
+  {
+    "code_ligne": "795000",
+    "minLat": 45.276089,
+    "maxLat": 45.522379,
+    "minLon": 3.710813,
+    "maxLon": 4.222117
+  },
+  {
+    "code_ligne": "796000",
+    "minLat": 45.50811,
+    "maxLat": 45.513742,
+    "minLon": 4.264125,
+    "maxLon": 4.280483
+  },
+  {
+    "code_ligne": "797000",
+    "minLat": 45.209601,
+    "maxLat": 45.389362,
+    "minLon": 4.244799,
+    "maxLon": 4.809308
+  },
+  {
+    "code_ligne": "797306",
+    "minLat": 45.301437,
+    "maxLat": 45.308696,
+    "minLon": 4.803102,
+    "maxLon": 4.807847
+  },
+  {
+    "code_ligne": "797311",
+    "minLat": 45.289418,
+    "maxLat": 45.294181,
+    "minLon": 4.793004,
+    "maxLon": 4.793341
+  },
+  {
+    "code_ligne": "798000",
+    "minLat": 45.035121,
+    "maxLat": 45.447154,
+    "minLon": 3.497521,
+    "maxLon": 4.395048
+  },
+  {
+    "code_ligne": "800000",
+    "minLat": 43.844037,
+    "maxLat": 45.59546,
+    "minLon": 4.419384,
+    "maxLon": 4.864666
+  },
+  {
+    "code_ligne": "800306",
+    "minLat": 45.297119,
+    "maxLat": 45.298362,
+    "minLon": 4.79212,
+    "maxLon": 4.796151
+  },
+  {
+    "code_ligne": "800311",
+    "minLat": 44.795254,
+    "maxLat": 44.796657,
+    "minLon": 4.777135,
+    "maxLon": 4.779565
+  },
+  {
+    "code_ligne": "800316",
+    "minLat": 44.795234,
+    "maxLat": 44.795503,
+    "minLon": 4.777269,
+    "maxLon": 4.77955
+  },
+  {
+    "code_ligne": "800390",
+    "minLat": 43.803071,
+    "maxLat": 43.872892,
+    "minLon": 4.473929,
+    "maxLon": 4.498785
+  },
+  {
+    "code_ligne": "800395",
+    "minLat": 43.862174,
+    "maxLat": 43.867969,
+    "minLon": 4.464975,
+    "maxLon": 4.476355
+  },
+  {
+    "code_ligne": "804000",
+    "minLat": 44.694174,
+    "maxLat": 44.749385,
+    "minLon": 4.580242,
+    "maxLon": 4.751218
+  },
+  {
+    "code_ligne": "805000",
+    "minLat": 44.131912,
+    "maxLat": 44.591789,
+    "minLon": 4.081392,
+    "maxLon": 4.68679
+  },
+  {
+    "code_ligne": "808000",
+    "minLat": 44.276954,
+    "maxLat": 44.296676,
+    "minLon": 4.092603,
+    "maxLon": 4.122584
+  },
+  {
+    "code_ligne": "81000",
+    "minLat": 48.957503,
+    "maxLat": 49.276071,
+    "minLon": 4.043425,
+    "maxLon": 4.379758
+  },
+  {
+    "code_ligne": "810000",
+    "minLat": 43.411877,
+    "maxLat": 43.848045,
+    "minLon": 3.680294,
+    "maxLon": 4.657792
+  },
+  {
+    "code_ligne": "810310",
+    "minLat": 43.804749,
+    "maxLat": 43.81517,
+    "minLon": 4.487696,
+    "maxLon": 4.511625
+  },
+  {
+    "code_ligne": "810315",
+    "minLat": 43.840704,
+    "maxLat": 43.848239,
+    "minLon": 4.373809,
+    "maxLon": 4.37839
+  },
+  {
+    "code_ligne": "810506",
+    "minLat": 43.409405,
+    "maxLat": 43.417869,
+    "minLon": 3.702139,
+    "maxLon": 3.721789
+  },
+  {
+    "code_ligne": "810611",
+    "minLat": 43.587806,
+    "maxLat": 43.595931,
+    "minLon": 3.877162,
+    "maxLon": 3.880297
+  },
+  {
+    "code_ligne": "811000",
+    "minLat": 43.416444,
+    "maxLat": 43.420732,
+    "minLon": 3.723554,
+    "maxLon": 3.735201
+  },
+  {
+    "code_ligne": "811505",
+    "minLat": 43.40862,
+    "maxLat": 43.416997,
+    "minLon": 3.720899,
+    "maxLon": 3.724685
+  },
+  {
+    "code_ligne": "812000",
+    "minLat": 44.088399,
+    "maxLat": 44.102181,
+    "minLon": 4.648165,
+    "maxLon": 4.707947
+  },
+  {
+    "code_ligne": "812306",
+    "minLat": 44.093674,
+    "maxLat": 44.097129,
+    "minLon": 4.698985,
+    "maxLon": 4.707091
+  },
+  {
+    "code_ligne": "813000",
+    "minLat": 43.806676,
+    "maxLat": 44.237813,
+    "minLon": 4.110688,
+    "maxLon": 4.636774
+  },
+  {
+    "code_ligne": "81311",
+    "minLat": 49.273352,
+    "maxLat": 49.280749,
+    "minLon": 4.051881,
+    "maxLon": 4.058176
+  },
+  {
+    "code_ligne": "81316",
+    "minLat": 49.274368,
+    "maxLat": 49.280241,
+    "minLon": 4.03412,
+    "maxLon": 4.045122
+  },
+  {
+    "code_ligne": "81321",
+    "minLat": 49.275343,
+    "maxLat": 49.275994,
+    "minLon": 4.043177,
+    "maxLon": 4.044125
+  },
+  {
+    "code_ligne": "814000",
+    "minLat": 43.639315,
+    "maxLat": 43.663687,
+    "minLon": 3.940527,
+    "maxLon": 3.968434
+  },
+  {
+    "code_ligne": "815000",
+    "minLat": 44.016328,
+    "maxLat": 44.101742,
+    "minLon": 3.883201,
+    "maxLon": 4.115258
+  },
+  {
+    "code_ligne": "81606",
+    "minLat": 49.214858,
+    "maxLat": 49.229698,
+    "minLon": 4.075342,
+    "maxLon": 4.113981
+  },
+  {
+    "code_ligne": "819000",
+    "minLat": 43.53645,
+    "maxLat": 43.80801,
+    "minLon": 4.139253,
+    "maxLon": 4.347045
+  },
+  {
+    "code_ligne": "82000",
+    "minLat": 49.269743,
+    "maxLat": 49.570988,
+    "minLon": 3.625466,
+    "maxLon": 4.035916
+  },
+  {
+    "code_ligne": "820000",
+    "minLat": 43.648074,
+    "maxLat": 43.684767,
+    "minLon": 4.237381,
+    "maxLon": 4.625124
+  },
+  {
+    "code_ligne": "821000",
+    "minLat": 43.431872,
+    "maxLat": 43.681939,
+    "minLon": 4.620426,
+    "maxLon": 4.778543
+  },
+  {
+    "code_ligne": "824000",
+    "minLat": 43.936285,
+    "maxLat": 43.94788,
+    "minLon": 4.777979,
+    "maxLon": 4.797779
+  },
+  {
+    "code_ligne": "824301",
+    "minLat": 43.94327,
+    "maxLat": 43.945285,
+    "minLon": 4.770936,
+    "maxLon": 4.77861
+  },
+  {
+    "code_ligne": "824306",
+    "minLat": 43.936171,
+    "maxLat": 43.941403,
+    "minLon": 4.783814,
+    "maxLon": 4.807483
+  },
+  {
+    "code_ligne": "82606",
+    "minLat": 49.421147,
+    "maxLat": 49.441236,
+    "minLon": 3.959462,
+    "maxLon": 4.041099
+  },
+  {
+    "code_ligne": "82611",
+    "minLat": 49.400329,
+    "maxLat": 49.423674,
+    "minLon": 3.909622,
+    "maxLon": 3.966635
+  },
+  {
+    "code_ligne": "830000",
+    "minLat": 43.303345,
+    "maxLat": 48.844312,
+    "minLon": 2.375645,
+    "maxLon": 5.393347
+  },
+  {
+    "code_ligne": "830311",
+    "minLat": 48.829754,
+    "maxLat": 48.836221,
+    "minLon": 2.389904,
+    "maxLon": 2.391578
+  },
+  {
+    "code_ligne": "830316",
+    "minLat": 48.374408,
+    "maxLat": 48.37857,
+    "minLon": 2.803968,
+    "maxLon": 2.80723
+  },
+  {
+    "code_ligne": "830321",
+    "minLat": 47.975296,
+    "maxLat": 47.981644,
+    "minLon": 3.701928,
+    "maxLon": 3.734293
+  },
+  {
+    "code_ligne": "830331",
+    "minLat": 45.71075,
+    "maxLat": 45.71471,
+    "minLon": 4.85115,
+    "maxLon": 4.858395
+  },
+  {
+    "code_ligne": "830336",
+    "minLat": 45.590852,
+    "maxLat": 45.600608,
+    "minLon": 4.78556,
+    "maxLon": 4.796671
+  },
+  {
+    "code_ligne": "830341",
+    "minLat": 44.777092,
+    "maxLat": 44.779774,
+    "minLon": 4.82312,
+    "maxLon": 4.830109
+  },
+  {
+    "code_ligne": "830346",
+    "minLat": 44.770005,
+    "maxLat": 44.777446,
+    "minLon": 4.823123,
+    "maxLon": 4.82612
+  },
+  {
+    "code_ligne": "830351",
+    "minLat": 43.80146,
+    "maxLat": 43.810298,
+    "minLon": 4.658589,
+    "maxLon": 4.668663
+  },
+  {
+    "code_ligne": "830356",
+    "minLat": 43.78925,
+    "maxLat": 43.800388,
+    "minLon": 4.658165,
+    "maxLon": 4.661926
+  },
+  {
+    "code_ligne": "830359",
+    "minLat": 43.919575,
+    "maxLat": 43.925437,
+    "minLon": 4.787008,
+    "maxLon": 4.796841
+  },
+  {
+    "code_ligne": "830361",
+    "minLat": 43.571863,
+    "maxLat": 43.580782,
+    "minLon": 5.002557,
+    "maxLon": 5.008591
+  },
+  {
+    "code_ligne": "830366",
+    "minLat": 45.73919,
+    "maxLat": 45.744113,
+    "minLon": 4.844746,
+    "maxLon": 4.851234
+  },
+  {
+    "code_ligne": "830646",
+    "minLat": 44.357024,
+    "maxLat": 44.369951,
+    "minLon": 4.703287,
+    "maxLon": 4.727785
+  },
+  {
+    "code_ligne": "830649",
+    "minLat": 43.419322,
+    "maxLat": 43.423914,
+    "minLon": 5.248972,
+    "maxLon": 5.264341
+  },
+  {
+    "code_ligne": "830900",
+    "minLat": 47.230291,
+    "maxLat": 47.313047,
+    "minLon": 5.000701,
+    "maxLon": 5.036104
+  },
+  {
+    "code_ligne": "831000",
+    "minLat": 48.377312,
+    "maxLat": 48.472555,
+    "minLon": 2.941589,
+    "maxLon": 3.28658
+  },
+  {
+    "code_ligne": "831606",
+    "minLat": 48.381315,
+    "maxLat": 48.388369,
+    "minLon": 2.969954,
+    "maxLon": 2.981886
+  },
+  {
+    "code_ligne": "832000",
+    "minLat": 47.98206,
+    "maxLat": 48.270063,
+    "minLon": 3.73565,
+    "maxLon": 4.099049
+  },
+  {
+    "code_ligne": "832306",
+    "minLat": 48.261747,
+    "maxLat": 48.264429,
+    "minLon": 4.098812,
+    "maxLon": 4.104366
+  },
+  {
+    "code_ligne": "832311",
+    "minLat": 48.2594,
+    "maxLat": 48.266872,
+    "minLon": 4.098823,
+    "maxLon": 4.102054
+  },
+  {
+    "code_ligne": "832511",
+    "minLat": 47.995639,
+    "maxLat": 48.001345,
+    "minLon": 3.735757,
+    "maxLon": 3.740025
+  },
+  {
+    "code_ligne": "833300",
+    "minLat": 47.974254,
+    "maxLat": 47.97584,
+    "minLon": 3.669337,
+    "maxLon": 3.692674
+  },
+  {
+    "code_ligne": "834000",
+    "minLat": 43.5664,
+    "maxLat": 43.973461,
+    "minLon": 3.865781,
+    "maxLon": 4.741614
+  },
+  {
+    "code_ligne": "834100",
+    "minLat": 43.925963,
+    "maxLat": 43.941593,
+    "minLon": 4.717655,
+    "maxLon": 4.775029
+  },
+  {
+    "code_ligne": "834310",
+    "minLat": 43.819847,
+    "maxLat": 43.830927,
+    "minLon": 4.49246,
+    "maxLon": 4.528312
+  },
+  {
+    "code_ligne": "834311",
+    "minLat": 43.81908,
+    "maxLat": 43.8247,
+    "minLon": 4.489428,
+    "maxLon": 4.519197
+  },
+  {
+    "code_ligne": "834340",
+    "minLat": 43.554464,
+    "maxLat": 43.572308,
+    "minLon": 3.85694,
+    "maxLon": 3.87725
+  },
+  {
+    "code_ligne": "837000",
+    "minLat": 42.455211,
+    "maxLat": 42.670575,
+    "minLon": 2.813274,
+    "maxLon": 2.860242
+  },
+  {
+    "code_ligne": "838000",
+    "minLat": 47.404503,
+    "maxLat": 48.269167,
+    "minLon": 4.091993,
+    "maxLon": 5.55892
+  },
+  {
+    "code_ligne": "839000",
+    "minLat": 47.731351,
+    "maxLat": 47.878919,
+    "minLon": 4.211315,
+    "maxLon": 4.550732
+  },
+  {
+    "code_ligne": "840000",
+    "minLat": 47.875439,
+    "maxLat": 48.08735,
+    "minLon": 4.575417,
+    "maxLon": 4.979109
+  },
+  {
+    "code_ligne": "843000",
+    "minLat": 47.520833,
+    "maxLat": 47.80792,
+    "minLon": 5.130685,
+    "maxLon": 5.44886
+  },
+  {
+    "code_ligne": "844300",
+    "minLat": 47.80148,
+    "maxLat": 47.807553,
+    "minLon": 5.446679,
+    "maxLon": 5.454384
+  },
+  {
+    "code_ligne": "845950",
+    "minLat": 47.80097,
+    "maxLat": 47.808082,
+    "minLon": 5.445408,
+    "maxLon": 5.454716
+  },
+  {
+    "code_ligne": "846000",
+    "minLat": 47.455015,
+    "maxLat": 47.806334,
+    "minLon": 5.436376,
+    "maxLon": 5.585877
+  },
+  {
+    "code_ligne": "847000",
+    "minLat": 47.453675,
+    "maxLat": 47.63554,
+    "minLon": 5.58388,
+    "maxLon": 6.101527
+  },
+  {
+    "code_ligne": "849000",
+    "minLat": 47.293682,
+    "maxLat": 47.520201,
+    "minLon": 5.04804,
+    "maxLon": 5.139211
+  },
+  {
+    "code_ligne": "85000",
+    "minLat": 49.052872,
+    "maxLat": 49.263394,
+    "minLon": 4.3793,
+    "maxLon": 6.164276
+  },
+  {
+    "code_ligne": "850000",
+    "minLat": 46.713744,
+    "maxLat": 47.320002,
+    "minLon": 5.031306,
+    "maxLon": 6.34749
+  },
+  {
+    "code_ligne": "851000",
+    "minLat": 47.103323,
+    "maxLat": 47.452394,
+    "minLon": 5.238196,
+    "maxLon": 5.580852
+  },
+  {
+    "code_ligne": "852000",
+    "minLat": 47.099359,
+    "maxLat": 47.629996,
+    "minLon": 5.497724,
+    "maxLon": 6.855547
+  },
+  {
+    "code_ligne": "852306",
+    "minLat": 47.61808,
+    "maxLat": 47.623478,
+    "minLon": 6.850465,
+    "maxLon": 6.860842
+  },
+  {
+    "code_ligne": "85306",
+    "minLat": 49.263166,
+    "maxLat": 49.267346,
+    "minLon": 6.153606,
+    "maxLon": 6.16608
+  },
+  {
+    "code_ligne": "854000",
+    "minLat": 47.503309,
+    "maxLat": 47.620513,
+    "minLon": 6.866635,
+    "maxLon": 7.012366
+  },
+  {
+    "code_ligne": "855000",
+    "minLat": 47.2885,
+    "maxLat": 47.313204,
+    "minLon": 5.782899,
+    "maxLon": 5.964676
+  },
+  {
+    "code_ligne": "856000",
+    "minLat": 47.249294,
+    "maxLat": 47.330692,
+    "minLon": 5.963661,
+    "maxLon": 6.026242
+  },
+  {
+    "code_ligne": "856350",
+    "minLat": 47.316068,
+    "maxLat": 47.33783,
+    "minLon": 5.993292,
+    "maxLon": 6.006293
+  },
+  {
+    "code_ligne": "857000",
+    "minLat": 47.471653,
+    "maxLat": 47.683661,
+    "minLon": 6.234804,
+    "maxLon": 6.492078
+  },
+  {
+    "code_ligne": "858000",
+    "minLat": 47.477579,
+    "maxLat": 47.496164,
+    "minLon": 6.796213,
+    "maxLon": 6.901456
+  },
+  {
+    "code_ligne": "859000",
+    "minLat": 47.37585,
+    "maxLat": 47.474173,
+    "minLon": 6.754099,
+    "maxLon": 6.796279
+  },
+  {
+    "code_ligne": "86000",
+    "minLat": 49.094871,
+    "maxLat": 49.167554,
+    "minLon": 5.878806,
+    "maxLon": 6.14117
+  },
+  {
+    "code_ligne": "860000",
+    "minLat": 46.449619,
+    "maxLat": 47.307098,
+    "minLon": 5.027723,
+    "maxLon": 5.334159
+  },
+  {
+    "code_ligne": "861300",
+    "minLat": 47.294006,
+    "maxLat": 47.297197,
+    "minLon": 5.027759,
+    "maxLon": 5.042966
+  },
+  {
+    "code_ligne": "861301",
+    "minLat": 47.292494,
+    "maxLat": 47.297104,
+    "minLon": 5.028341,
+    "maxLon": 5.033669
+  },
+  {
+    "code_ligne": "862300",
+    "minLat": 47.292924,
+    "maxLat": 47.295262,
+    "minLon": 5.041904,
+    "maxLon": 5.054178
+  },
+  {
+    "code_ligne": "862301",
+    "minLat": 47.294057,
+    "maxLat": 47.294061,
+    "minLon": 5.04453,
+    "maxLon": 5.045474
+  },
+  {
+    "code_ligne": "862310",
+    "minLat": 47.288869,
+    "maxLat": 47.297544,
+    "minLon": 5.026324,
+    "maxLon": 5.046043
+  },
+  {
+    "code_ligne": "863300",
+    "minLat": 47.274829,
+    "maxLat": 47.279212,
+    "minLon": 5.031772,
+    "maxLon": 5.04513
+  },
+  {
+    "code_ligne": "865000",
+    "minLat": 46.869381,
+    "maxLat": 47.097965,
+    "minLon": 4.755755,
+    "maxLon": 5.466062
+  },
+  {
+    "code_ligne": "866300",
+    "minLat": 46.861145,
+    "maxLat": 46.869476,
+    "minLon": 5.151588,
+    "maxLon": 5.159917
+  },
+  {
+    "code_ligne": "867000",
+    "minLat": 46.784833,
+    "maxLat": 46.905319,
+    "minLon": 4.833678,
+    "maxLon": 4.990299
+  },
+  {
+    "code_ligne": "867606",
+    "minLat": 46.810028,
+    "maxLat": 46.818123,
+    "minLon": 4.858995,
+    "maxLon": 4.869681
+  },
+  {
+    "code_ligne": "867612",
+    "minLat": 46.809507,
+    "maxLat": 46.812572,
+    "minLon": 4.862596,
+    "maxLon": 4.86314
+  },
+  {
+    "code_ligne": "867616",
+    "minLat": 46.809082,
+    "maxLat": 46.819719,
+    "minLon": 4.857779,
+    "maxLon": 4.871748
+  },
+  {
+    "code_ligne": "868000",
+    "minLat": 46.669439,
+    "maxLat": 47.08296,
+    "minLon": 5.254282,
+    "maxLon": 5.543621
+  },
+  {
+    "code_ligne": "869000",
+    "minLat": 46.984434,
+    "maxLat": 47.100177,
+    "minLon": 5.4887,
+    "maxLon": 5.596615
+  },
+  {
+    "code_ligne": "871000",
+    "minLat": 47.031633,
+    "maxLat": 47.225519,
+    "minLon": 5.774691,
+    "maxLon": 5.931685
+  },
+  {
+    "code_ligne": "872000",
+    "minLat": 47.028574,
+    "maxLat": 47.25035,
+    "minLon": 6.033673,
+    "maxLon": 6.725354
+  },
+  {
+    "code_ligne": "874000",
+    "minLat": 46.899822,
+    "maxLat": 46.925902,
+    "minLon": 6.340953,
+    "maxLon": 6.353467
+  },
+  {
+    "code_ligne": "875000",
+    "minLat": 46.859005,
+    "maxLat": 46.9009,
+    "minLon": 6.161704,
+    "maxLon": 6.458488
+  },
+  {
+    "code_ligne": "877300",
+    "minLat": 47.210114,
+    "maxLat": 47.215423,
+    "minLon": 5.331211,
+    "maxLon": 5.340955
+  },
+  {
+    "code_ligne": "877301",
+    "minLat": 47.205831,
+    "maxLat": 47.215381,
+    "minLon": 5.340643,
+    "maxLon": 5.342075
+  },
+  {
+    "code_ligne": "878000",
+    "minLat": 46.174416,
+    "maxLat": 46.858371,
+    "minLon": 5.556302,
+    "maxLon": 6.039537
+  },
+  {
+    "code_ligne": "878301",
+    "minLat": 46.174522,
+    "maxLat": 46.178059,
+    "minLon": 5.559401,
+    "maxLon": 5.568895
+  },
+  {
+    "code_ligne": "88000",
+    "minLat": 48.804077,
+    "maxLat": 49.66817,
+    "minLon": 4.960805,
+    "maxLon": 5.5376
+  },
+  {
+    "code_ligne": "880000",
+    "minLat": 46.194305,
+    "maxLat": 46.976504,
+    "minLon": 5.213104,
+    "maxLon": 5.80073
+  },
+  {
+    "code_ligne": "882000",
+    "minLat": 46.202436,
+    "maxLat": 46.776279,
+    "minLon": 4.844138,
+    "maxLon": 5.213963
+  },
+  {
+    "code_ligne": "883000",
+    "minLat": 45.953491,
+    "maxLat": 46.296447,
+    "minLon": 4.818112,
+    "maxLon": 5.350799
+  },
+  {
+    "code_ligne": "883306",
+    "minLat": 45.951877,
+    "maxLat": 45.957781,
+    "minLon": 5.350698,
+    "maxLon": 5.355984
+  },
+  {
+    "code_ligne": "884000",
+    "minLat": 46.110271,
+    "maxLat": 46.220703,
+    "minLon": 5.216644,
+    "maxLon": 5.828028
+  },
+  {
+    "code_ligne": "886000",
+    "minLat": 45.817781,
+    "maxLat": 46.195165,
+    "minLon": 4.871881,
+    "maxLon": 5.217069
+  },
+  {
+    "code_ligne": "887000",
+    "minLat": 45.780256,
+    "maxLat": 45.937739,
+    "minLon": 4.786662,
+    "maxLon": 4.879575
+  },
+  {
+    "code_ligne": "887621",
+    "minLat": 45.883274,
+    "maxLat": 45.891207,
+    "minLon": 4.81032,
+    "maxLon": 4.835555
+  },
+  {
+    "code_ligne": "888000",
+    "minLat": 45.766023,
+    "maxLat": 45.775102,
+    "minLon": 4.797802,
+    "maxLon": 4.801142
+  },
+  {
+    "code_ligne": "889000",
+    "minLat": 45.841181,
+    "maxLat": 45.954814,
+    "minLon": 5.330215,
+    "maxLon": 5.420851
+  },
+  {
+    "code_ligne": "89000",
+    "minLat": 48.790485,
+    "maxLat": 49.110236,
+    "minLon": 5.543949,
+    "maxLon": 6.17982
+  },
+  {
+    "code_ligne": "890000",
+    "minLat": 45.789472,
+    "maxLat": 46.177643,
+    "minLon": 4.860806,
+    "maxLon": 5.990811
+  },
+  {
+    "code_ligne": "890306",
+    "minLat": 45.840612,
+    "maxLat": 45.845357,
+    "minLon": 5.783839,
+    "maxLon": 5.786444
+  },
+  {
+    "code_ligne": "890605",
+    "minLat": 45.803443,
+    "maxLat": 45.94998,
+    "minLon": 5.265668,
+    "maxLon": 5.320829
+  },
+  {
+    "code_ligne": "891000",
+    "minLat": 46.128519,
+    "maxLat": 46.372119,
+    "minLon": 5.907099,
+    "maxLon": 6.164093
+  },
+  {
+    "code_ligne": "892000",
+    "minLat": 46.107863,
+    "maxLat": 46.407779,
+    "minLon": 5.882388,
+    "maxLon": 6.853707
+  },
+  {
+    "code_ligne": "893000",
+    "minLat": 45.72866,
+    "maxLat": 45.826399,
+    "minLon": 4.846399,
+    "maxLon": 4.862252
+  },
+  {
+    "code_ligne": "89306",
+    "minLat": 48.786412,
+    "maxLat": 48.792821,
+    "minLon": 5.561165,
+    "maxLon": 5.565929
+  },
+  {
+    "code_ligne": "893306",
+    "minLat": 45.718591,
+    "maxLat": 45.738945,
+    "minLon": 4.847631,
+    "maxLon": 4.850636
+  },
+  {
+    "code_ligne": "894000",
+    "minLat": 46.193638,
+    "maxLat": 46.203956,
+    "minLon": 6.165852,
+    "maxLon": 6.236311
+  },
+  {
+    "code_ligne": "895000",
+    "minLat": 45.905435,
+    "maxLat": 46.089133,
+    "minLon": 6.30802,
+    "maxLon": 6.70548
+  },
+  {
+    "code_ligne": "896000",
+    "minLat": 45.893322,
+    "maxLat": 46.051371,
+    "minLon": 6.70132,
+    "maxLon": 6.947925
+  },
+  {
+    "code_ligne": "897000",
+    "minLat": 45.68831,
+    "maxLat": 46.196952,
+    "minLon": 5.908709,
+    "maxLon": 6.362423
+  },
+  {
+    "code_ligne": "898000",
+    "minLat": 45.674953,
+    "maxLat": 45.898105,
+    "minLon": 6.111537,
+    "maxLon": 6.423058
+  },
+  {
+    "code_ligne": "899000",
+    "minLat": 45.484819,
+    "maxLat": 45.671868,
+    "minLon": 6.178212,
+    "maxLon": 6.772532
+  },
+  {
+    "code_ligne": "90000",
+    "minLat": 48.754822,
+    "maxLat": 49.021918,
+    "minLon": 6.02551,
+    "maxLon": 6.145118
+  },
+  {
+    "code_ligne": "900000",
+    "minLat": 45.140316,
+    "maxLat": 45.843796,
+    "minLon": 5.773163,
+    "maxLon": 6.684028
+  },
+  {
+    "code_ligne": "900903",
+    "minLat": 45.305328,
+    "maxLat": 45.315768,
+    "minLon": 6.333667,
+    "maxLon": 6.348112
+  },
+  {
+    "code_ligne": "901000",
+    "minLat": 45.752539,
+    "maxLat": 45.777492,
+    "minLon": 4.861116,
+    "maxLon": 5.044325
+  },
+  {
+    "code_ligne": "903000",
+    "minLat": 45.503915,
+    "maxLat": 45.588952,
+    "minLon": 5.52476,
+    "maxLon": 5.916903
+  },
+  {
+    "code_ligne": "903606",
+    "minLat": 45.583338,
+    "maxLat": 45.596092,
+    "minLon": 5.88645,
+    "maxLon": 5.895692
+  },
+  {
+    "code_ligne": "903608",
+    "minLat": 45.583866,
+    "maxLat": 45.586942,
+    "minLon": 5.895702,
+    "maxLon": 5.903701
+  },
+  {
+    "code_ligne": "904000",
+    "minLat": 45.712285,
+    "maxLat": 45.847911,
+    "minLon": 5.64669,
+    "maxLon": 5.713136
+  },
+  {
+    "code_ligne": "905000",
+    "minLat": 43.315451,
+    "maxLat": 45.722155,
+    "minLon": 4.848379,
+    "maxLon": 6.012791
+  },
+  {
+    "code_ligne": "905306",
+    "minLat": 43.662793,
+    "maxLat": 43.665869,
+    "minLon": 5.543661,
+    "maxLon": 5.548583
+  },
+  {
+    "code_ligne": "905606",
+    "minLat": 45.707349,
+    "maxLat": 45.725585,
+    "minLon": 4.870683,
+    "maxLon": 4.882482
+  },
+  {
+    "code_ligne": "905621",
+    "minLat": 45.638609,
+    "maxLat": 45.651266,
+    "minLon": 5.093828,
+    "maxLon": 5.117007
+  },
+  {
+    "code_ligne": "905626",
+    "minLat": 45.639704,
+    "maxLat": 45.668016,
+    "minLon": 5.088833,
+    "maxLon": 5.10279
+  },
+  {
+    "code_ligne": "906000",
+    "minLat": 45.583349,
+    "maxLat": 45.597386,
+    "minLon": 4.770879,
+    "maxLon": 4.794126
+  },
+  {
+    "code_ligne": "906606",
+    "minLat": 45.591559,
+    "maxLat": 45.596838,
+    "minLon": 4.773461,
+    "maxLon": 4.775706
+  },
+  {
+    "code_ligne": "907000",
+    "minLat": 45.294747,
+    "maxLat": 45.351803,
+    "minLon": 4.809738,
+    "maxLon": 5.454484
+  },
+  {
+    "code_ligne": "908000",
+    "minLat": 44.938328,
+    "maxLat": 45.324995,
+    "minLon": 4.894981,
+    "maxLon": 5.58579
+  },
+  {
+    "code_ligne": "908320",
+    "minLat": 44.993448,
+    "maxLat": 45.006229,
+    "minLon": 4.978528,
+    "maxLon": 4.992685
+  },
+  {
+    "code_ligne": "909000",
+    "minLat": 45.173104,
+    "maxLat": 45.503875,
+    "minLon": 5.718515,
+    "maxLon": 6.044655
+  },
+  {
+    "code_ligne": "909306",
+    "minLat": 45.500531,
+    "maxLat": 45.50444,
+    "minLon": 6.044666,
+    "maxLon": 6.052532
+  },
+  {
+    "code_ligne": "909903",
+    "minLat": 45.150929,
+    "maxLat": 45.18463,
+    "minLon": 5.712048,
+    "maxLon": 5.783496
+  },
+  {
+    "code_ligne": "912000",
+    "minLat": 44.509231,
+    "maxLat": 44.776505,
+    "minLon": 4.826564,
+    "maxLon": 5.754726
+  },
+  {
+    "code_ligne": "913000",
+    "minLat": 44.777854,
+    "maxLat": 44.794976,
+    "minLon": 4.780323,
+    "maxLon": 4.82198
+  },
+  {
+    "code_ligne": "915000",
+    "minLat": 44.523779,
+    "maxLat": 44.893415,
+    "minLon": 5.816527,
+    "maxLon": 6.633715
+  },
+  {
+    "code_ligne": "920000",
+    "minLat": 44.033129,
+    "maxLat": 44.088882,
+    "minLon": 5.996178,
+    "maxLon": 6.223616
+  },
+  {
+    "code_ligne": "922000",
+    "minLat": 43.828251,
+    "maxLat": 43.842836,
+    "minLon": 5.044996,
+    "maxLon": 5.074745
+  },
+  {
+    "code_ligne": "923000",
+    "minLat": 43.684642,
+    "maxLat": 43.801065,
+    "minLon": 5.053992,
+    "maxLon": 5.502996
+  },
+  {
+    "code_ligne": "925000",
+    "minLat": 43.580992,
+    "maxLat": 43.955506,
+    "minLon": 4.812911,
+    "maxLon": 5.092357
+  },
+  {
+    "code_ligne": "926000",
+    "minLat": 43.99937,
+    "maxLat": 44.137455,
+    "minLon": 4.819641,
+    "maxLon": 5.049644
+  },
+  {
+    "code_ligne": "927000",
+    "minLat": 44.003594,
+    "maxLat": 44.049833,
+    "minLon": 4.875777,
+    "maxLon": 5.045096
+  },
+  {
+    "code_ligne": "928000",
+    "minLat": 43.486678,
+    "maxLat": 43.535589,
+    "minLon": 5.230757,
+    "maxLon": 5.43739
+  },
+  {
+    "code_ligne": "928106",
+    "minLat": 43.492053,
+    "maxLat": 43.49837,
+    "minLon": 5.359829,
+    "maxLon": 5.369577
+  },
+  {
+    "code_ligne": "928616",
+    "minLat": 43.484619,
+    "maxLat": 43.491802,
+    "minLon": 5.369713,
+    "maxLon": 5.37749
+  },
+  {
+    "code_ligne": "929300",
+    "minLat": 43.938189,
+    "maxLat": 43.951374,
+    "minLon": 4.820193,
+    "maxLon": 4.831548
+  },
+  {
+    "code_ligne": "930000",
+    "minLat": 43.11373,
+    "maxLat": 43.794721,
+    "minLon": 5.381388,
+    "maxLon": 7.609958
+  },
+  {
+    "code_ligne": "930333",
+    "minLat": 43.792284,
+    "maxLat": 43.796903,
+    "minLon": 7.585396,
+    "maxLon": 7.594858
+  },
+  {
+    "code_ligne": "930506",
+    "minLat": 43.108188,
+    "maxLat": 43.116247,
+    "minLon": 5.875223,
+    "maxLon": 5.890266
+  },
+  {
+    "code_ligne": "934100",
+    "minLat": 43.342716,
+    "maxLat": 43.353563,
+    "minLon": 5.343262,
+    "maxLon": 5.354377
+  },
+  {
+    "code_ligne": "935000",
+    "minLat": 43.330403,
+    "maxLat": 43.581176,
+    "minLon": 4.953382,
+    "maxLon": 5.320377
+  },
+  {
+    "code_ligne": "935111",
+    "minLat": 43.404306,
+    "maxLat": 43.407033,
+    "minLon": 4.988146,
+    "maxLon": 5.020781
+  },
+  {
+    "code_ligne": "935306",
+    "minLat": 43.474151,
+    "maxLat": 43.479901,
+    "minLon": 4.951351,
+    "maxLon": 4.9541
+  },
+  {
+    "code_ligne": "935311",
+    "minLat": 43.401901,
+    "maxLat": 43.411432,
+    "minLon": 4.793663,
+    "maxLon": 4.800036
+  },
+  {
+    "code_ligne": "935606",
+    "minLat": 43.375527,
+    "maxLat": 43.395144,
+    "minLon": 4.994659,
+    "maxLon": 5.02495
+  },
+  {
+    "code_ligne": "935901",
+    "minLat": 43.453432,
+    "maxLat": 43.483753,
+    "minLon": 4.899068,
+    "maxLon": 4.958083
+  },
+  {
+    "code_ligne": "935902",
+    "minLat": 43.410499,
+    "maxLat": 43.484059,
+    "minLon": 4.837684,
+    "maxLon": 4.904412
+  },
+  {
+    "code_ligne": "935903",
+    "minLat": 43.389789,
+    "maxLat": 43.459697,
+    "minLon": 4.77939,
+    "maxLon": 4.838078
+  },
+  {
+    "code_ligne": "935904",
+    "minLat": 43.405882,
+    "maxLat": 43.419436,
+    "minLon": 4.784169,
+    "maxLon": 4.843366
+  },
+  {
+    "code_ligne": "935905",
+    "minLat": 43.383565,
+    "maxLat": 43.392824,
+    "minLon": 4.804088,
+    "maxLon": 4.820455
+  },
+  {
+    "code_ligne": "935906",
+    "minLat": 43.389836,
+    "maxLat": 43.395387,
+    "minLon": 4.815734,
+    "maxLon": 4.826304
+  },
+  {
+    "code_ligne": "935907",
+    "minLat": 43.390128,
+    "maxLat": 43.39144,
+    "minLon": 4.819849,
+    "maxLon": 4.842189
+  },
+  {
+    "code_ligne": "936300",
+    "minLat": 43.306785,
+    "maxLat": 43.314943,
+    "minLon": 5.393381,
+    "maxLon": 5.401581
+  },
+  {
+    "code_ligne": "937000",
+    "minLat": 43.27874,
+    "maxLat": 43.297429,
+    "minLon": 5.399723,
+    "maxLon": 5.407305
+  },
+  {
+    "code_ligne": "938000",
+    "minLat": 43.306314,
+    "maxLat": 43.311069,
+    "minLon": 5.366717,
+    "maxLon": 5.372969
+  },
+  {
+    "code_ligne": "939000",
+    "minLat": 43.30693,
+    "maxLat": 43.320766,
+    "minLon": 5.363217,
+    "maxLon": 5.368356
+  },
+  {
+    "code_ligne": "939001",
+    "minLat": 43.305439,
+    "maxLat": 43.363794,
+    "minLon": 5.32139,
+    "maxLon": 5.386127
+  },
+  {
+    "code_ligne": "939306",
+    "minLat": 43.331257,
+    "maxLat": 43.334481,
+    "minLon": 5.355691,
+    "maxLon": 5.363642
+  },
+  {
+    "code_ligne": "940100",
+    "minLat": 43.321504,
+    "maxLat": 43.331944,
+    "minLon": 5.357905,
+    "maxLon": 5.372367
+  },
+  {
+    "code_ligne": "942000",
+    "minLat": 43.085347,
+    "maxLat": 43.145946,
+    "minLon": 6.038902,
+    "maxLon": 6.192173
+  },
+  {
+    "code_ligne": "94300",
+    "minLat": 49.000475,
+    "maxLat": 49.009009,
+    "minLon": 5.934586,
+    "maxLon": 5.940003
+  },
+  {
+    "code_ligne": "943000",
+    "minLat": 43.457059,
+    "maxLat": 43.534129,
+    "minLon": 6.465348,
+    "maxLon": 6.519031
+  },
+  {
+    "code_ligne": "944000",
+    "minLat": 43.54891,
+    "maxLat": 43.659717,
+    "minLon": 6.926615,
+    "maxLon": 6.987184
+  },
+  {
+    "code_ligne": "945000",
+    "minLat": 43.706163,
+    "maxLat": 43.945629,
+    "minLon": 7.264737,
+    "maxLon": 7.518841
+  },
+  {
+    "code_ligne": "946000",
+    "minLat": 43.890478,
+    "maxLat": 44.152522,
+    "minLon": 7.510774,
+    "maxLon": 7.609516
+  },
+  {
+    "code_ligne": "947000",
+    "minLat": 43.298535,
+    "maxLat": 43.474153,
+    "minLon": 5.466511,
+    "maxLon": 6.196955
+  },
+  {
+    "code_ligne": "948000",
+    "minLat": 43.297313,
+    "maxLat": 43.399502,
+    "minLon": 5.558613,
+    "maxLon": 5.613119
+  },
+  {
+    "code_ligne": "95000",
+    "minLat": 48.983581,
+    "maxLat": 49.440638,
+    "minLon": 5.613787,
+    "maxLon": 6.039872
+  },
+  {
+    "code_ligne": "952000",
+    "minLat": 48.896851,
+    "maxLat": 48.9103,
+    "minLon": 2.353591,
+    "maxLon": 2.374338
+  },
+  {
+    "code_ligne": "955000",
+    "minLat": 48.827506,
+    "maxLat": 48.898153,
+    "minLon": 2.309165,
+    "maxLon": 2.409777
+  },
+  {
+    "code_ligne": "955306",
+    "minLat": 48.848692,
+    "maxLat": 48.877553,
+    "minLon": 2.386407,
+    "maxLon": 2.401721
+  },
+  {
+    "code_ligne": "956000",
+    "minLat": 48.749333,
+    "maxLat": 48.84946,
+    "minLon": 2.375022,
+    "maxLon": 2.516034
+  },
+  {
+    "code_ligne": "956306",
+    "minLat": 48.770961,
+    "maxLat": 48.78084,
+    "minLon": 2.507126,
+    "maxLon": 2.507479
+  },
+  {
+    "code_ligne": "957000",
+    "minLat": 48.771898,
+    "maxLat": 48.910522,
+    "minLon": 2.431052,
+    "maxLon": 2.526891
+  },
+  {
+    "code_ligne": "957306",
+    "minLat": 48.894108,
+    "maxLat": 48.894108,
+    "minLon": 2.472808,
+    "maxLon": 2.472808
+  },
+  {
+    "code_ligne": "957311",
+    "minLat": 48.892083,
+    "maxLat": 48.892083,
+    "minLon": 2.474154,
+    "maxLon": 2.474154
+  },
+  {
+    "code_ligne": "957316",
+    "minLat": 48.765239,
+    "maxLat": 48.77008,
+    "minLon": 2.502025,
+    "maxLon": 2.507483
+  },
+  {
+    "code_ligne": "958000",
+    "minLat": 48.892071,
+    "maxLat": 48.932153,
+    "minLon": 2.477493,
+    "maxLon": 2.51915
+  },
+  {
+    "code_ligne": "959300",
+    "minLat": 48.82189,
+    "maxLat": 48.824495,
+    "minLon": 2.516105,
+    "maxLon": 2.538322
+  },
+  {
+    "code_ligne": "959301",
+    "minLat": 48.817898,
+    "maxLat": 48.821758,
+    "minLon": 2.517415,
+    "maxLon": 2.520006
+  },
+  {
+    "code_ligne": "960000",
+    "minLat": 48.931539,
+    "maxLat": 48.960565,
+    "minLon": 2.29937,
+    "maxLon": 2.42182
+  },
+  {
+    "code_ligne": "962000",
+    "minLat": 48.852246,
+    "maxLat": 48.980537,
+    "minLon": 2.272113,
+    "maxLon": 2.323964
+  },
+  {
+    "code_ligne": "963000",
+    "minLat": 48.906139,
+    "maxLat": 48.911136,
+    "minLon": 2.319693,
+    "maxLon": 2.353325
+  },
+  {
+    "code_ligne": "963306",
+    "minLat": 48.957795,
+    "maxLat": 48.958441,
+    "minLon": 2.299459,
+    "maxLon": 2.309565
+  },
+  {
+    "code_ligne": "963506",
+    "minLat": 48.936722,
+    "maxLat": 48.944727,
+    "minLon": 2.267801,
+    "maxLon": 2.302814
+  },
+  {
+    "code_ligne": "965300",
+    "minLat": 48.963676,
+    "maxLat": 48.968249,
+    "minLon": 2.264081,
+    "maxLon": 2.285108
+  },
+  {
+    "code_ligne": "967300",
+    "minLat": 48.890948,
+    "maxLat": 48.907845,
+    "minLon": 2.219821,
+    "maxLon": 2.236108
+  },
+  {
+    "code_ligne": "968300",
+    "minLat": 48.912698,
+    "maxLat": 48.913568,
+    "minLon": 2.257978,
+    "maxLon": 2.26076
+  },
+  {
+    "code_ligne": "968301",
+    "minLat": 48.902921,
+    "maxLat": 48.921283,
+    "minLon": 2.258731,
+    "maxLon": 2.264396
+  },
+  {
+    "code_ligne": "97000",
+    "minLat": 48.738093,
+    "maxLat": 49.000779,
+    "minLon": 6.165901,
+    "maxLon": 7.039879
+  },
+  {
+    "code_ligne": "971000",
+    "minLat": 48.848946,
+    "maxLat": 48.887962,
+    "minLon": 2.260472,
+    "maxLon": 2.314423
+  },
+  {
+    "code_ligne": "972000",
+    "minLat": 48.819148,
+    "maxLat": 48.882698,
+    "minLon": 2.220227,
+    "maxLon": 2.265676
+  },
+  {
+    "code_ligne": "973000",
+    "minLat": 48.805331,
+    "maxLat": 48.906734,
+    "minLon": 2.135833,
+    "maxLon": 2.323797
+  },
+  {
+    "code_ligne": "973306",
+    "minLat": 48.89441,
+    "maxLat": 48.895783,
+    "minLon": 2.234196,
+    "maxLon": 2.241066
+  },
+  {
+    "code_ligne": "974000",
+    "minLat": 48.833868,
+    "maxLat": 48.872558,
+    "minLon": 2.051315,
+    "maxLon": 2.209747
+  },
+  {
+    "code_ligne": "975000",
+    "minLat": 48.876944,
+    "maxLat": 48.91369,
+    "minLon": 2.095906,
+    "maxLon": 2.324158
+  },
+  {
+    "code_ligne": "975900",
+    "minLat": 48.900388,
+    "maxLat": 48.93129,
+    "minLon": 2.166977,
+    "maxLon": 2.213584
+  },
+  {
+    "code_ligne": "977000",
+    "minLat": 48.796249,
+    "maxLat": 48.86306,
+    "minLon": 2.129264,
+    "maxLon": 2.315568
+  },
+  {
+    "code_ligne": "978300",
+    "minLat": 48.798073,
+    "maxLat": 48.807225,
+    "minLon": 2.158952,
+    "maxLon": 2.182231
+  },
+  {
+    "code_ligne": "979000",
+    "minLat": 48.874865,
+    "maxLat": 48.877851,
+    "minLon": 2.328622,
+    "maxLon": 2.355901
+  },
+  {
+    "code_ligne": "980000",
+    "minLat": 48.821355,
+    "maxLat": 48.847828,
+    "minLon": 2.258575,
+    "maxLon": 2.384687
+  },
+  {
+    "code_ligne": "980106",
+    "minLat": 48.823169,
+    "maxLat": 48.824775,
+    "minLon": 2.36636,
+    "maxLon": 2.371174
+  },
+  {
+    "code_ligne": "981000",
+    "minLat": 48.844457,
+    "maxLat": 48.881642,
+    "minLon": 2.348343,
+    "maxLon": 2.373289
+  },
+  {
+    "code_ligne": "983000",
+    "minLat": 48.8606,
+    "maxLat": 48.86306,
+    "minLon": 2.315568,
+    "maxLon": 2.326287
+  },
+  {
+    "code_ligne": "984000",
+    "minLat": 48.841086,
+    "maxLat": 48.860069,
+    "minLon": 2.328085,
+    "maxLon": 2.366648
+  },
+  {
+    "code_ligne": "985000",
+    "minLat": 48.730015,
+    "maxLat": 48.76633,
+    "minLon": 2.264031,
+    "maxLon": 2.419257
+  },
+  {
+    "code_ligne": "988000",
+    "minLat": 48.617616,
+    "maxLat": 48.67109,
+    "minLon": 2.391732,
+    "maxLon": 2.474105
+  },
+  {
+    "code_ligne": "99000",
+    "minLat": 49.073344,
+    "maxLat": 49.093999,
+    "minLon": 6.140923,
+    "maxLon": 6.177742
+  },
+  {
+    "code_ligne": "990000",
+    "minLat": 48.670426,
+    "maxLat": 48.960485,
+    "minLon": 2.046988,
+    "maxLon": 2.516192
+  },
+  {
+    "code_ligne": "990306",
+    "minLat": 48.793765,
+    "maxLat": 48.798768,
+    "minLon": 2.073578,
+    "maxLon": 2.112642
+  },
+  {
+    "code_ligne": "990311",
+    "minLat": 48.894704,
+    "maxLat": 48.897407,
+    "minLon": 2.465537,
+    "maxLon": 2.475675
+  },
+  {
+    "code_ligne": "990316",
+    "minLat": 48.73329,
+    "maxLat": 48.760708,
+    "minLon": 2.44331,
+    "maxLon": 2.47216
+  },
+  {
+    "code_ligne": "990321",
+    "minLat": 48.755938,
+    "maxLat": 48.762374,
+    "minLon": 2.433786,
+    "maxLon": 2.437411
+  },
+  {
+    "code_ligne": "990331",
+    "minLat": 48.737328,
+    "maxLat": 48.753146,
+    "minLon": 2.353285,
+    "maxLon": 2.415631
+  },
+  {
+    "code_ligne": "991300",
+    "minLat": 48.873822,
+    "maxLat": 48.87883,
+    "minLon": 2.530459,
+    "maxLon": 2.556383
+  },
+  {
+    "code_ligne": "991301",
+    "minLat": 48.873522,
+    "maxLat": 48.87501,
+    "minLon": 2.524451,
+    "maxLon": 2.530757
+  },
+  {
+    "code_ligne": "991302",
+    "minLat": 48.869982,
+    "maxLat": 48.873807,
+    "minLon": 2.526509,
+    "maxLon": 2.530416
+  },
+  {
+    "code_ligne": "992300",
+    "minLat": 48.928289,
+    "maxLat": 48.942695,
+    "minLon": 2.405385,
+    "maxLon": 2.413687
+  },
+  {
+    "code_ligne": "995000",
+    "minLat": 41.927568,
+    "maxLat": 42.701871,
+    "minLon": 8.739168,
+    "maxLon": 9.4491
+  },
+  {
+    "code_ligne": "996000",
+    "minLat": 42.465633,
+    "maxLat": 42.637573,
+    "minLon": 8.755537,
+    "maxLon": 9.2053
+  }
+]
