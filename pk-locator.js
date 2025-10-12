@@ -404,7 +404,7 @@ class PKLocator {
     /**
      * Filtrage des lignes à proximité
      */
-    filterNearbyLines(latitude, longitude) {
+  /**  filterNearbyLines(latitude, longitude) {
         return this.cache.indexData.filter(line => {
             const centerLat = (line.minLat + line.maxLat) / 2;
             const centerLon = (line.minLon + line.maxLon) / 2;
@@ -415,8 +415,19 @@ class PKLocator {
 
             return distance <= this.config.searchRadius;
         });
-    }
+    } */
+    // Fonction pour filtrer les lignes selon inclusion ou proximité dans la bounding box
+filterNearbyLines(latitude, longitude) {
+    const marginDeg = 0.18; // marge en degrés ≈ 20km (ajustable)
 
+    return this.cache.indexData.filter(line => {
+        // Vérifier si la position est dans la bounding box élargie
+        const inLatRange = latitude >= (line.minLat - marginDeg) && latitude <= (line.maxLat + marginDeg);
+        const inLonRange = longitude >= (line.minLon - marginDeg) && longitude <= (line.maxLon + marginDeg);
+
+        return inLatRange && inLonRange;
+    });
+}
     /**
      * Chargement des données PK pour une ligne
      */
