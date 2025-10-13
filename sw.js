@@ -3,7 +3,7 @@
  * Gestion du cache et fonctionnement hors ligne
  */
 
-const CACHE_NAME = 'pk-locator-v2.0.0';
+const CACHE_NAME = 'pk-locator-v2.0.1';
 const CACHE_URLS = [
     './',
     './index.html',
