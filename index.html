@@ -377,6 +377,12 @@
     </style>
 </head>
 
+<div id="logPanel" style="display:none; position:fixed; top:40px; left:50%; transform:translateX(-50%);
+ max-width:98vw; background:#232b2b; color:#fff; z-index:9999; padding:18px; border-radius:14px; box-shadow:0 4px 24px #0009">
+    <div style="margin-bottom:8px;"><b>Logs PK Locator</b> <button onclick="document.getElementById('logPanel').style.display='none'">✕</button></div>
+    <pre id="logContent" style="font-size:13px;line-height:1.5"></pre>
+</div>
+    
 <body class="light-theme">
     <div id="loadingOverlay" class="loading-overlay">
         <div class="loading-content">
