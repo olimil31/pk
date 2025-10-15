@@ -374,6 +374,25 @@
         @keyframes spin {
             to { transform: rotate(360deg); }
         }
+        .main-display.focus-pk .display-card:not(:first-child),
+.main-display.focus-speed .display-card:not(:last-child) {
+    display: none;
+}
+.main-display.focus-pk .display-card:first-child,
+.main-display.focus-speed .display-card:last-child {
+    width: 100vw;
+    height: 50vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.main-display.focus-pk .display-value,
+.main-display.focus-speed .display-value {
+    font-size: 7rem;
+    color: var(--primary-color);
+}
     </style>
 </head>
 
