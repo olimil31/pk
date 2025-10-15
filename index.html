@@ -86,4 +86,77 @@
     .accuracy-medium { background: var(--warning);}
     .accuracy-low { background: #dc3545;}
     @media (max-width:768px) {
-      .main-display
+      .main-display { grid-template-columns: 1fr; }
+      .display-value { font-size:2rem; }
+      .fullscreen-ui .display-value { font-size:1.8rem; }
+    }
+    /* Animations */
+    .pulse { animation: pulse 2s infinite;}
+    @keyframes pulse { 0%{transform:scale(1);} 50%{transform:scale(1.05);} 100%{transform:scale(1);} }
+    /* Loader overlay */
+    .loading-overlay { position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.8); display:flex; align-items:center; justify-content:center; color:white; z-index:2000;}
+    .loading-content { text-align:center;}
+    .spinner { width:40px; height:40px; border:3px solid rgba(255,255,255,0.3); border-top:3px solid white; border-radius:50%; animation:spin 1s linear infinite; margin:0 auto 20px;}
+    @keyframes spin { to { transform: rotate(360deg); } }
+    #logPanel { display:none; position:fixed; top:40px; left:50%; transform:translateX(-50%); max-width:98vw; background:#232b2b; color:white; z-index:9999; padding:18px; border-radius:14px; box-shadow:0 4px 24px #0009; }
+    #logPanel pre { font-size:13px; line-height:1.5; white-space:pre-wrap; word-wrap:break-word;}
+    #logPanel button { float:right; background:transparent; border:none; font-size:18px; color:white; cursor:pointer;}
+  </style>
+</head>
+<body class="light-theme">
+  <div id="loadingOverlay" class="loading-overlay">
+    <div class="loading-content">
+      <div class="spinner"></div>
+      <h3>Initialisation de PK Locator</h3>
+      <p>Chargement des données SNCF...</p>
+    </div>
+  </div>
+
+  <div class="container" id="mainContainer">
+    <header class="header">
+      <h1>🚄 PK Locator SNCF - v2</h1>
+      <div class="warning-badge">
+        ⚠️ Données approximatives - Ne pas utiliser pour la sécurité
+      </div>
+    </header>
+
+    <main class="main-display">
+      <div class="display-card">
+        <h2>Point Kilométrique</h2>
+        <div class="display-value" id="pkValue">--</div>
+        <div class="display-unit">km</div>
+      </div>
+      <div class="display-card">
+        <h2>Vitesse</h2>
+        <div class="display-value" id="speedValue">--</div>
+        <div class="display-unit">km/h</div>
+      </div>
+    </main>
+
+    <section class="status-section">
+      <div class="status-card">
+        <div class="status-item"><span class="status-label">GPS</span><span class="status-value" id="gpsStatus">Initialisation...</span></div>
+        <div class="status-item"><span class="status-label">Ligne détectée</span><span class="status-value" id="lineStatus">--</span></div>
+        <div class="status-item"><span class="status-label">Précision</span><span class="status-value" id="accuracyStatus"><span class="accuracy-indicator accuracy-low"></span>--</span></div>
+        <div class="status-item"><span class="status-label">Distance au PK</span><span class="status-value" id="distanceStatus">-- m</span></div>
+      </div>
+    </section>
+
+    <div class="controls">
+      <button class="btn" id="toggleTheme">🌙 Mode Nuit</button>
+      <button class="btn btn-secondary" id="toggleFullscreen">📺 Plein écran</button>
+      <button class="btn btn-secondary" id="keepAwake">💡 Écran actif</button>
+    </div>
+  </div>
+
+  <div id="logPanel">
+    <div>
+      <b>Logs PK Locator</b>
+      <button onclick="document.getElementById('logPanel').style.display='none'">✕</button>
+    </div>
+    <pre id="logContent"></pre>
+  </div>
+
+  <script src="pk-locator.js?v=2.0.0"></script>
+</body>
+</html>
