@@ -121,6 +121,10 @@ class PKLocator {
         this.elements.warningBadge.addEventListener("click", () => {
             this.showLogPanel();
         });
+        if (document.getElementById("initLogContent")) {
+    document.getElementById("initLogContent").textContent = "DEBUG : logInitMessage fonctionne
+";
+        }
     }
 
     initEventListeners() {
