@@ -1,162 +1,442 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>PK Locator SNCF - v2</title>
-  <meta name="theme-color" content="#1a73e8">
-  <link rel="manifest" href="manifest.json">
-  <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
-  <style>
-    :root {
-      --primary-color: #1a73e8;
-      --primary-dark: #1557b0;
-      --background-light: #ffffff;
-      --background-dark: #121212;
-      --text-light: #333333;
-      --text-dark: #ffffff;
-      --card-light: #f8f9fa;
-      --card-dark: #1e1e1e;
-      --warning: #ff6b35;
-      --success: #34a853;
-      --border-light: #e0e0e0;
-      --border-dark: #333333;
-    }
-    body {
-      font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
-      transition: all 0.3s ease;
-      user-select: none;
-      -webkit-user-select: none;
-      -webkit-touch-callout: none;
-    }
-    body.light-theme { background: var(--background-light); color: var(--text-light); }
-    body.dark-theme  { background: var(--background-dark); color: var(--text-dark); }
-    .container { min-height: 100vh; display: flex; flex-direction: column; padding: 10px; }
-    .fullscreen-ui .container { padding: 5px; }
-    .header { background: var(--primary-color); color: white; padding: 15px; border-radius: 12px; margin-bottom: 15px; text-align: center; position: relative; }
-    .fullscreen-ui .header { padding: 10px; margin-bottom: 10px; }
-    .header h1 { font-size: 1.5rem; margin-bottom: 5px; }
-    .fullscreen-ui .header h1 { font-size: 1.2rem; }
-    .warning-badge { background: var(--warning); padding: 5px 10px; border-radius: 20px; font-size: 0.8rem; margin-top: 5px; display: inline-block; cursor:pointer;}
-    .main-display { flex: 1; display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px; }
-    .fullscreen-ui .main-display { gap: 10px; margin-bottom: 10px; }
-    .display-card { border-radius: 12px; padding: 20px; text-align: center; transition: all 0.3s ease; cursor:pointer;}
-    .light-theme .display-card { background: var(--card-light); border: 1px solid var(--border-light);}
-    .dark-theme .display-card  { background: var(--card-dark); border: 1px solid var(--border-dark);}
-    .fullscreen-ui .display-card { padding: 15px; }
-    .display-card h2 { font-size: 1rem; margin-bottom: 10px; opacity:0.8;}
-    .display-value { font-size: 2.5rem; font-weight: bold; color: var(--primary-color);}
-    .fullscreen-ui .display-value { font-size: 2rem; }
-    .display-unit { font-size: 1rem; opacity:0.7; margin-top:5px;}
-    .main-display.focus-pk .display-card:not(:first-child),
-    .main-display.focus-speed .display-card:not(:last-child) { display:none; }
-    .main-display.focus-pk .display-card:first-child,
-    .main-display.focus-speed .display-card:last-child {
-      width:100vw; height:50vh;
-      margin:0 auto; display:flex; flex-direction:column; justify-content:center; align-items:center;
-    }
-    .main-display.focus-pk .display-value,
-    .main-display.focus-speed .display-value { font-size:7rem; color:var(--primary-color);}
-    .status-section { margin-bottom: 15px; }
-    .fullscreen-ui .status-section { margin-bottom: 10px; }
-    .status-card { border-radius: 12px; padding: 15px;}
-    .light-theme .status-card { background: var(--card-light); border: 1px solid var(--border-light);}
-    .dark-theme .status-card {  background: var(--card-dark); border: 1px solid var(--border-dark);}
-    .fullscreen-ui .status-card { padding: 10px; }
-    .status-item { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; border-bottom: 1px solid;}
-    .light-theme .status-item { border-color: var(--border-light);}
-    .dark-theme .status-item  { border-color: var(--border-dark);}
-    .status-item:last-child { border-bottom: none;}
-    .status-label { font-weight: 500;}
-    .status-value { font-weight: bold;}
-    .status-good { color: var(--success);}
-    .status-warning { color: var(--warning);}
-    .controls { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;}
-    .btn { padding: 12px 20px; border: none; border-radius: 8px; font-size: 14px; font-weight: 500; cursor:pointer; transition:all 0.3s ease; background: var(--primary-color); color: white; min-width: 120px;}
-    .fullscreen-ui .btn { padding: 10px 16px; min-width: 100px;}
-    .btn:hover { background: var(--primary-dark); transform: translateY(-1px);}
-    .btn:active { transform: translateY(0);}
-    .btn-secondary { background: transparent; border: 2px solid var(--primary-color); color: var(--primary-color);}
-    .light-theme .btn-secondary { color: var(--primary-color);}
-    .dark-theme .btn-secondary  { color: var(--primary-color);}
-    .btn-secondary:hover { background: var(--primary-color); color: white;}
-    .fullscreen-ui { position:fixed; top:0; left:0; right:0; bottom:0; z-index:1000;}
-    .accuracy-indicator { width:12px; height:12px; border-radius:50%; display:inline-block; margin-right:8px;}
-    .accuracy-high { background: var(--success);}
-    .accuracy-medium { background: var(--warning);}
-    .accuracy-low { background: #dc3545;}
-    @media (max-width:768px) {
-      .main-display { grid-template-columns: 1fr; }
-      .display-value { font-size:2rem; }
-      .fullscreen-ui .display-value { font-size:1.8rem; }
-    }
-    /* Animations */
-    .pulse { animation: pulse 2s infinite;}
-    @keyframes pulse { 0%{transform:scale(1);} 50%{transform:scale(1.05);} 100%{transform:scale(1);} }
-    /* Loader overlay */
-    .loading-overlay { position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.8); display:flex; align-items:center; justify-content:center; color:white; z-index:2000;}
-    .loading-content { text-align:center;}
-    .spinner { width:40px; height:40px; border:3px solid rgba(255,255,255,0.3); border-top:3px solid white; border-radius:50%; animation:spin 1s linear infinite; margin:0 auto 20px;}
-    @keyframes spin { to { transform: rotate(360deg); } }
-    #logPanel { display:none; position:fixed; top:40px; left:50%; transform:translateX(-50%); max-width:98vw; background:#232b2b; color:white; z-index:9999; padding:18px; border-radius:14px; box-shadow:0 4px 24px #0009; }
-    #logPanel pre { font-size:13px; line-height:1.5; white-space:pre-wrap; word-wrap:break-word;}
-    #logPanel button { float:right; background:transparent; border:none; font-size:18px; color:white; cursor:pointer;}
-  </style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>PK Locator SNCF</title>
+    <meta name="theme-color" content="#1a73e8" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="PK Locator" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="manifest" href="manifest.json" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png" />
+    <style>
+        :root {
+            --primary-color: #1a73e8;
+            --primary-dark: #1557b0;
+            --background-light: #ffffff;
+            --background-dark: #121212;
+            --text-light: #333333;
+            --text-dark: #ffffff;
+            --card-light: #f8f9fa;
+            --card-dark: #1e1e1e;
+            --warning: #ff6b35;
+            --success: #34a853;
+            --border-light: #e0e0e0;
+            --border-dark: #333333;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            transition: all 0.3s ease;
+            user-select: none;
+            -webkit-user-select: none;
+            -webkit-touch-callout: none;
+        }
+        /* Thème jour */
+        body.light-theme {
+            background: var(--background-light);
+            color: var(--text-light);
+        }
+        /* Thème nuit */
+        body.dark-theme {
+            background: var(--background-dark);
+            color: var(--text-dark);
+        }
+        .container {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+        }
+        .fullscreen-ui .container {
+            padding: 5px;
+        }
+        /* Header */
+        .header {
+            background: var(--primary-color);
+            color: white;
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 15px;
+            text-align: center;
+            position: relative;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+        .fullscreen-ui .header {
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        .header h1 {
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+        }
+        .fullscreen-ui .header h1 {
+            font-size: 1.2rem;
+        }
+        .warning-badge {
+            background: var(--warning);
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-top: 5px;
+            display: inline-block;
+            user-select: none;
+            cursor: pointer;
+            -webkit-user-select: none;
+        }
+        /* Panneau principal d'affichage */
+        .main-display {
+            flex: 1;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+        .fullscreen-ui .main-display {
+            gap: 10px;
+            margin-bottom: 10px;
+        }
+        .display-card {
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            transition: all 0.3s ease;
+            user-select: none;
+            -webkit-user-select: none;
+            cursor: pointer;
+        }
+        .light-theme .display-card {
+            background: var(--card-light);
+            border: 1px solid var(--border-light);
+        }
+        .dark-theme .display-card {
+            background: var(--card-dark);
+            border: 1px solid var(--border-dark);
+        }
+        .fullscreen-ui .display-card {
+            padding: 15px;
+        }
+        .display-card h2 {
+            font-size: 1rem;
+            margin-bottom: 10px;
+            opacity: 0.8;
+            user-select: none;
+        }
+        .display-value {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: var(--primary-color);
+            user-select: none;
+        }
+        .fullscreen-ui .display-value {
+            font-size: 2rem;
+        }
+        .display-unit {
+            font-size: 1rem;
+            opacity: 0.7;
+            margin-top: 5px;
+            user-select: none;
+        }
+        /* Status et informations */
+        .status-section {
+            margin-bottom: 15px;
+        }
+        .fullscreen-ui .status-section {
+            margin-bottom: 10px;
+        }
+        .status-card {
+            border-radius: 12px;
+            padding: 15px;
+        }
+        .light-theme .status-card {
+            background: var(--card-light);
+            border: 1px solid var(--border-light);
+        }
+        .dark-theme .status-card {
+            background: var(--card-dark);
+            border: 1px solid var(--border-dark);
+        }
+        .fullscreen-ui .status-card {
+            padding: 10px;
+        }
+        .status-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 0;
+            border-bottom: 1px solid;
+        }
+        .light-theme .status-item {
+            border-color: var(--border-light);
+        }
+        .dark-theme .status-item {
+            border-color: var(--border-dark);
+        }
+        .status-item:last-child {
+            border-bottom: none;
+        }
+        .status-label {
+            font-weight: 500;
+        }
+        .status-value {
+            font-weight: bold;
+        }
+        .status-good {
+            color: var(--success);
+        }
+        .status-warning {
+            color: var(--warning);
+        }
+        /* Contrôles */
+        .controls {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+        }
+        .btn {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            background: var(--primary-color);
+            color: white;
+            min-width: 120px;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+        .fullscreen-ui .btn {
+            padding: 10px 16px;
+            min-width: 100px;
+        }
+        .btn:hover {
+            background: var(--primary-dark);
+            transform: translateY(-1px);
+        }
+        .btn:active {
+            transform: translateY(0);
+        }
+        .btn-secondary {
+            background: transparent;
+            border: 2px solid var(--primary-color);
+            color: var(--primary-color);
+        }
+        .light-theme .btn-secondary {
+            color: var(--primary-color);
+        }
+        .dark-theme .btn-secondary {
+            color: var(--primary-color);
+        }
+        .btn-secondary:hover {
+            background: var(--primary-color);
+            color: white;
+        }
+        /* Mode plein écran adaptatif */
+        .fullscreen-ui {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 1000;
+        }
+        /* Indicateurs de précision */
+        .accuracy-indicator {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 8px;
+        }
+        .accuracy-high {
+            background: var(--success);
+        }
+        .accuracy-medium {
+            background: var(--warning);
+        }
+        .accuracy-low {
+            background: #dc3545;
+        }
+        /* Responsive */
+        @media (max-width: 768px) {
+            .main-display {
+                grid-template-columns: 1fr;
+            }
+            .display-value {
+                font-size: 2rem;
+            }
+            .fullscreen-ui .display-value {
+                font-size: 1.8rem;
+            }
+        }
+        /* Animations */
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.05);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+        /* Cache de chargement */
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            z-index: 2000;
+        }
+        .loading-content {
+            text-align: center;
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            border-top: 3px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+        /* Panneau log */
+        #logPanel {
+            display: none;
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #222;
+            color: #fff;
+            z-index: 2000;
+            padding: 18px;
+            border-radius: 12px;
+            max-width: 90vw;
+            max-height: 60vh;
+            overflow: auto;
+            font-family: monospace;
+            font-size: 12px;
+        }
+        #logPanel > div {
+            margin-bottom: 10px;
+        }
+        #logPanel button {
+            float: right;
+            background: transparent;
+            border: none;
+            color: #fff;
+            font-size: 14px;
+            cursor: pointer;
+        }
+        /* Focus display (fullwidth) pour pk ou speed */
+        .main-display.focus-pk .display-card:not(:first-child),
+        .main-display.focus-speed .display-card:not(:last-child) {
+            display: none;
+        }
+        .main-display.focus-pk .display-card:first-child,
+        .main-display.focus-speed .display-card:last-child {
+            width: 100vw;
+            height: 50vh;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .main-display.focus-pk .display-value,
+        .main-display.focus-speed .display-value {
+            font-size: 7rem;
+            color: var(--primary-color);
+        }
+    </style>
 </head>
 <body class="light-theme">
-  <div id="loadingOverlay" class="loading-overlay">
-    <div class="loading-content">
-      <div class="spinner"></div>
-      <h3>Initialisation de PK Locator</h3>
-      <p>Chargement des données SNCF...</p>
+    <div id="loadingOverlay" class="loading-overlay">
+        <div class="loading-content">
+            <div class="spinner"></div>
+            <h3>Initialisation de PK Locator</h3>
+            <p>Chargement des données SNCF...</p>
+        </div>
     </div>
-  </div>
-
-  <div class="container" id="mainContainer">
-    <header class="header">
-      <h1>🚄 PK Locator SNCF - v2</h1>
-      <div class="warning-badge">
-        ⚠️ Données approximatives - Ne pas utiliser pour la sécurité
-      </div>
-    </header>
-
-    <main class="main-display">
-      <div class="display-card">
-        <h2>Point Kilométrique</h2>
-        <div class="display-value" id="pkValue">--</div>
-        <div class="display-unit">km</div>
-      </div>
-      <div class="display-card">
-        <h2>Vitesse</h2>
-        <div class="display-value" id="speedValue">--</div>
-        <div class="display-unit">km/h</div>
-      </div>
-    </main>
-
-    <section class="status-section">
-      <div class="status-card">
-        <div class="status-item"><span class="status-label">GPS</span><span class="status-value" id="gpsStatus">Initialisation...</span></div>
-        <div class="status-item"><span class="status-label">Ligne détectée</span><span class="status-value" id="lineStatus">--</span></div>
-        <div class="status-item"><span class="status-label">Précision</span><span class="status-value" id="accuracyStatus"><span class="accuracy-indicator accuracy-low"></span>--</span></div>
-        <div class="status-item"><span class="status-label">Distance au PK</span><span class="status-value" id="distanceStatus">-- m</span></div>
-      </div>
-    </section>
-
-    <div class="controls">
-      <button class="btn" id="toggleTheme">🌙 Mode Nuit</button>
-      <button class="btn btn-secondary" id="toggleFullscreen">📺 Plein écran</button>
-      <button class="btn btn-secondary" id="keepAwake">💡 Écran actif</button>
+    <div class="container" id="mainContainer">
+        <header class="header">
+            <h1>🚄 PK Locator SNCF</h1>
+            <div class="warning-badge">
+                ⚠️ Données approximatives - Ne pas utiliser pour la sécurité
+            </div>
+        </header>
+        <main class="main-display">
+            <div class="display-card" id="pkCard">
+                <h2>Point Kilométrique</h2>
+                <div class="display-value" id="pkValue">--</div>
+                <div class="display-unit">km</div>
+            </div>
+            <div class="display-card" id="speedCard">
+                <h2>Vitesse</h2>
+                <div class="display-value" id="speedValue">--</div>
+                <div class="display-unit">km/h</div>
+            </div>
+        </main>
+        <section class="status-section">
+            <div class="status-card">
+                <div class="status-item">
+                    <span class="status-label">GPS</span>
+                    <span class="status-value" id="gpsStatus">Initialisation...</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Ligne détectée</span>
+                    <span class="status-value" id="lineStatus">--</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Précision</span>
+                    <span class="status-value" id="accuracyStatus"><span class="accuracy-indicator accuracy-low"></span>--</span>
+                </div>
+                <div class="status-item">
+                    <span class="status-label">Distance au PK</span>
+                    <span class="status-value" id="distanceStatus">-- m</span>
+                </div>
+            </div>
+        </section>
+        <div class="controls">
+            <button class="btn" id="toggleTheme">🌙 Mode Nuit</button>
+            <button class="btn btn-secondary" id="toggleFullscreen">📺 Plein écran</button>
+            <button class="btn btn-secondary" id="keepAwake">💡 Écran actif</button>
+        </div>
     </div>
-  </div>
-
-  <div id="logPanel">
-    <div>
-      <b>Logs PK Locator</b>
-      <button onclick="document.getElementById('logPanel').style.display='none'">✕</button>
+    <div id="logPanel">
+        <div>
+            <b>Logs PK Locator</b>
+            <button onclick="document.getElementById('logPanel').style.display='none'">✖</button>
+        </div>
+        <pre id="logContent"></pre>
     </div>
-    <pre id="logContent"></pre>
-  </div>
-
-  <script src="pk-locator.js?v=2.0.0"></script>
+    <script src="pk-locator.js"></script>
 </body>
 </html>
