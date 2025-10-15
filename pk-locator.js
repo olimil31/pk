@@ -61,18 +61,21 @@ class PKLocator {
         this.init();
     }
 
-    async init() {
-        try {
-            this.initElements();
-            this.initEventListeners();
-            await this.loadData();
-            this.initTheme();
-            await this.startGeolocation();
-            this.hideLoadingOverlay();
-        } catch (error) {
-            console.error('❌ Initialisation erreur:', error);
-            this.showError('Erreur initialisation: ' + error.message);
-        }
+  async init() {
+    try {
+        this.initElements();
+        this.initEventListeners();
+        await this.loadData();
+        this.initTheme();
+        await this.startGeolocation();
+    } catch (error) {
+        console.error('❌ Initialisation erreur:', error);
+        this.showError('Erreur initialisation: ' + error.message);
+    } finally {
+        this.hideLoadingOverlay(); // ✅ Toujours exécuté
+    }
+}
+
     }
 
     initElements() {
@@ -170,7 +173,7 @@ class PKLocator {
         return new Promise((resolve, reject) => {
             const options = {
                 enableHighAccuracy: true,
-                timeout: 10000,
+                timeout: 30000,
                 maximumAge: 0
             };
             navigator.geolocation.getCurrentPosition(pos => {
