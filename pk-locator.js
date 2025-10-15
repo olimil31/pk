@@ -56,19 +56,35 @@ class PKLocator {
 
         this.init();
     }
-
+    logInitMessage(message) {
+    if (!this.elements.initLogContent) {
+        this.elements.initLogContent = document.getElementById("initLogContent");
+    }
+    if (this.elements.initLogContent) {
+        this.elements.initLogContent.textContent += message + "
+";
+        this.elements.initLogContent.parentElement.scrollTop = this.elements.initLogContent.parentElement.scrollHeight;
+    }
+    }
     async init() {
-        try {
-            this.initElements();
-            this.initEventListeners();
-            await this.loadData();
-            this.initTheme();
-            await this.startGeolocation();
-            this.hideLoadingOverlay();
-        } catch (error) {
-            console.error("Erreur lors de l'initialisation:", error);
-            this.showError("Erreur d'initialisation: " + error.message);
-        }
+    try {
+        this.logInitMessage("Démarrage initialisation…");
+        this.initElements();
+        this.logInitMessage("Elements DOM OK");
+        this.initEventListeners();
+        this.logInitMessage("EventListeners OK");
+        await this.loadData();
+        this.logInitMessage("Données index/corrections chargées");
+        this.initTheme();
+        this.logInitMessage("Thème appliqué");
+        await this.startGeolocation();
+        this.logInitMessage("Géolocalisation active");
+        this.hideLoadingOverlay();
+        this.logInitMessage("Fini (app lancée)");
+    } catch (error) {
+        this.logInitMessage("Erreur: " + (error.message || error));
+        this.showError("Erreur d'initialisation: " + error.message);
+    }
     }
 
     initElements() {
