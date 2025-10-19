@@ -43,9 +43,9 @@
   },
     {
     "ligne": "650000",
-    "pk_start": 0.1,
-    "pk_end": 103.8,
-    "correction": 0.2,
+    "pk_start": 103.9,
+    "pk_end": 255.0,
+    "correction": 0.1,
     "description": "Reglage initial"
     }
 ]
