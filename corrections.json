@@ -1,10 +1,10 @@
 [
   {
-    "ligne": "65000",
-    "pk_start": 10.0,
-    "pk_end": 15.0,
-    "correction": 0.1,
-    "description": "Ajustement section Toulouse-Montauban"
+    "ligne": "650000",
+    "pk_start": 0.3,
+    "pk_end": 103.8,
+    "correction": 0.2,
+    "description": "reglage initial"
   },
   {
     "ligne": "65000", 
